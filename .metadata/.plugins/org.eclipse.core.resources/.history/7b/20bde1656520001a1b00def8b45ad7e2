@@ -1,0 +1,19 @@
+package siti.inf203.jena.app;
+
+import org.apache.jena.iri.impl.Main;
+import org.apache.jena.rdf.model.Model;
+import org.apache.jena.util.FileManager;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        FileManager.get().addLocatorClassLoader(Main.class.getClassLoader());
+        Model model = FileManager.get().loadModel("resources/cancer.rdf");
+        model.write(System.out, "TURTLE");
+    }
+}

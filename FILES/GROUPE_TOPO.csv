@@ -1,0 +1,53 @@
+LibelleGroupeTopo,CodeGroupeTopo
+Bouche,1
+Langue,2
+Glande parotide,3
+Glandes salivaires,4
+Pharynx (hors nasopahrynx),5
+Nasopharynx,6
+Oesophage,7
+Estomac,8
+Intestin grêle,9
+Colon,10
+Rectum et jonction,11
+Anus et canal anal,12
+Foie et voies biliaires intrahépatiques,13
+Vésicule et autres localisations des voies biliaires,14
+Pancréas,15
+Tractus gastro-intestinal SAI,16
+Fosse nasale et oreille moyenne,17
+Sinus de la face,18
+Larynx,19
+Trachée Bronche et poumon,20
+Thymus,21
+Médiastin,22
+Appareil respiratoire,23
+"Os, articulations et cartilage articulaire",24
+Systèmes hématopoiétique et réticulo-endothélial,25
+Peau,26
+Nerfs périphériques et système nerveux autonome,27
+Rétropéritoine et péritoine,28
+"Tissu conjonctif, tissu sous-cutané et autres tissus mous",29
+Sein,30
+Vulve,31
+Vagin,32
+Col utérin,33
+Corps utérin,34
+Utérus SAI,35
+Ovaire,36
+Appareil génital féminin SAI,37
+Placenta,38
+Organes génitaux masculins,39
+Prostate,40
+Testicule,41
+Rein,42
+Voies urinaires,43
+Oeil et annexes,44
+Méninges,45
+Encéphale,46
+"Moelle épinière, nerfs crâniens et autres régions du système nerveux central",47
+Glande thyroide,48
+Autres glandes endocrines et structures apparentées,49
+Autres localisations et localisations mal définies,50
+Ganglions lymphatiques,51
+Site primaire inconnu,52

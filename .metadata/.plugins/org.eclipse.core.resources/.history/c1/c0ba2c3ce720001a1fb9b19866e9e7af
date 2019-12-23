@@ -1,0 +1,53 @@
+package siti.inf203.jena.app;
+	
+
+import com.hp.hpl.jena.rdf.model.Model;
+import com.hp.hpl.jena.rdf.model.Resource;
+import com.hp.hpl.jena.rdf.model.StmtIterator;
+import com.hp.hpl.jena.sparql.vocabulary.FOAF;
+import com.hp.hpl.jena.vocabulary.DC;
+import com.hp.hpl.jena.vocabulary.RDF;
+
+import de.fuberlin.wiwiss.d2rq.jena.ModelD2RQ;
+import de.fuberlin.wiwiss.d2rq.vocab.ISWC;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+//        FileManager.get().addLocatorClassLoader(Main.class.getClassLoader());
+//        Model model = FileManager.get().loadModel("resources/cancer.rdf");
+//        // TURTLE = ouput format of the model
+//        model.write(System.out, "TURTLE");
+    	
+    	// Set up the ModelD2RQ using a mapping file
+    	Model m = new ModelD2RQ("file:resources/patients.ttl");
+
+    	// Find anything with an rdf:type of iswc:InProceedings
+    	StmtIterator paperIt = m.listStatements(null, RDF.type, ISWC.InProceedings);
+
+    	// List found papers and print their titles
+    	while (paperIt.hasNext()) {
+    	    Resource paper = paperIt.nextStatement().getSubject();
+    	    System.out.println("Patient: " + paper.getProperty(DC.tab_patient_NumPatient).getString());
+
+    	    // List authors of the paper and print their names
+    	    StmtIterator authorIt = paper.listProperties(DC.creator);
+    	    while (authorIt.hasNext()) {
+    	        com.hp.hpl.jena.rdf.model.Resource author = authorIt.nextStatement().getResource();
+    	        System.out.println("Author: " + author.getProperty(FOAF.name).getString());
+    	    }
+    	    System.out.println();
+    	}
+    	m.close();
+    	
+    	
+    	
+    }
+    
+
+}

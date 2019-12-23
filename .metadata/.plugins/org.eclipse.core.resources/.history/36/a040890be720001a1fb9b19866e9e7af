@@ -1,0 +1,40 @@
+package siti.inf203.jena.app;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+//        FileManager.get().addLocatorClassLoader(Main.class.getClassLoader());
+//        Model model = FileManager.get().loadModel("resources/cancer.rdf");
+//        // TURTLE = ouput format of the model
+//        model.write(System.out, "TURTLE");
+    }
+//    
+//    static void sparqlTest() {
+//    	FileManager.get().addLocatorClassLoader(Main.class.getClassLoader());
+//        Model model = FileManager.get().loadModel("resources/cancer.rdf");
+//        String queryString =
+//        		"PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>"
+//        		+ "PREFIX notifCancer: <http://www.ime202.isped/notifCancer#>"
+//        		+ "SELECT * WHERE { "
+//        		+ "?x notifCancer:subClassOf ?Cancer ."
+//        		+ "}";
+//        Query query = QueryFactory.create(queryString);
+//        QueryExecution qExec = QueryExecutionFactory.create(query, model);
+//        try {
+//			
+//        	ResultSet r= qExec.execSelect();
+//        	while(r.hasNext()) {
+//        		QuerySolution soln = r.nextSolution();
+//        		Literal name = soln.getLiteral("x");
+//        		System.out.println(name);
+//        	}
+//		} finally {
+//			qExec.close();
+//		}
+//    }
+}
