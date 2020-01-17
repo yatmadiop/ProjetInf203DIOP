@@ -1,0 +1,28 @@
+package siti.inf203.jena.app;
+
+import java.io.IOException;
+import java.util.Scanner;
+
+import siti.inf203.jena.outils.Sparql;
+
+public class SearchConsole {
+
+	static void affiche() {
+		
+		System.out.println("Rechercher un document ... ");
+		System.out.println("Que Cherchez-vous ... ");
+		
+	}
+	
+
+	static void searchKey() throws IOException {
+		affiche();
+		Scanner sc = new Scanner(System.in);
+		String string = sc.nextLine();
+		Sparql.runSparqlQuery(string);
+	}
+	
+	public static void main(String[] args) throws IOException {
+		searchKey();
+	}
+}

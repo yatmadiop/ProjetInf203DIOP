@@ -1,0 +1,21 @@
+package siti.inf203.jena.app;
+
+import java.util.List;
+import java.util.TreeMap;
+
+import com.sun.xml.bind.v2.util.EditDistance;
+
+import siti.inf203.jena.outils.ReadFile;
+
+public class SearchTopo {
+	static void searchTopo() {
+		
+		TreeMap<Integer, String> myTopoMatchMap = new TreeMap<Integer, String>();
+		List<String> maList = ReadFile.readFileInStringList("tokenisedFile/topo.txt");
+    	for (int i = 0; i < maList.size(); i++) {
+			myHashMap.putAll(EditDistance.calculate(maList.get(i), "amigdale"));
+		}
+    	
+    	System.out.println(myHashMap.get(myHashMap.firstKey()));
+	}
+}

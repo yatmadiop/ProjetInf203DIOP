@@ -1,0 +1,66 @@
+package siti.inf203.jena.outils;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.net.URI;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.List;
+import java.util.Set;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
+import opennlp.tools.tokenize.SimpleTokenizer;
+import opennlp.tools.tokenize.Tokenizer;
+import opennlp.tools.tokenize.WhitespaceTokenizer;
+
+public class TokenizeFile {
+	   // It's even easier in Java 8
+    
+    public static void tokenizeFile(String inFile, String outFile) throws IOException {
+    	
+    	List<String> result = new ArrayList<>(); 
+    	
+    	BufferedReader bf = new BufferedReader(new FileReader(inFile));
+	    //Instantiating SimpleTokenizer class 
+    	 List<String> tokens = new ArrayList<String>();
+	      SimpleTokenizer simpleTokenizer = SimpleTokenizer.INSTANCE;  
+			String line;
+			while ((line = bf.readLine()) != null) {
+				result.add(line);
+			}
+	       
+	      for(int i = 0; i < result.size(); i++) {
+	    	  System.out.println(result.get(i));
+	    	 tokens.addAll(Arrays.asList(simpleTokenizer.tokenize(result.get(i))));
+	        }
+	      writeToFile(tokens);
+	      
+	      System.out.println(tokens.size());
+    }
+    
+    static void writeToFile(List<String> tokens) throws IOException {
+    	FileWriter writer = new FileWriter("tokenisedFile/output.txt"); 
+    	for(String str: tokens) {
+    	  writer.write(str + System.lineSeparator());
+    	}
+    	writer.close();
+    }
+   
+    
+	public static void main(String[] args) throws IOException {
+		
+		tokenizeFile("resources/Topo.txt", "tokenisedFile/topo.txt");
+		
+		//stripDuplicatesFromFile("tokenisedFile/morpho.txt");
+       
+	} 
+}

@@ -1,0 +1,11 @@
+package siti.inf203.jena.app;
+
+import java.io.IOException;
+
+public class Main {
+    
+    public static void main(String[] args) throws IOException {
+		SearchTopo.searchTopo();  	    	
+    	
+	}
+}

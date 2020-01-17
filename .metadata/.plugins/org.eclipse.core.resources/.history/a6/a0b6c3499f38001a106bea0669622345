@@ -1,0 +1,14 @@
+package siti.inf203.jena.outils;
+
+import java.io.IOException;
+
+public class ExpandSearch {
+
+	static void expandSearch() throws IOException {
+		Sparql.runSparqlQuery("buuche adenume");
+	}
+	
+	public static void main(String[] args) throws IOException {		
+		expandSearch();
+	}
+}

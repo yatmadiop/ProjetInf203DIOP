@@ -1,0 +1,45 @@
+package siti.inf203.jena.app;
+
+import java.io.IOException;
+import java.util.Scanner;
+
+import org.apache.lucene.queryParser.ParseException;
+
+import siti.inf203.jena.index.TextFileIndexer;
+import siti.inf203.jena.outils.Sparql;
+
+public class SearchConsole {
+
+	static void affiche() {
+		
+		System.out.println("Rechercher un document / \"q\" pour quitter  ... ");
+		System.out.println("Entrer votre requête : ");
+		
+	}
+	
+
+	static void searchKey(String string) throws IOException, ParseException {
+		
+		Scanner sc = new Scanner(System.in);
+		string = "";
+		affiche();
+		
+		while(sc.hasNext()) {
+			string = sc.nextLine();
+			if(string.equals("q")) {
+				break;
+			}
+			String query = Sparql.getExpandString(string);
+			TextFileIndexer.searchIndex(query);
+			query = "";
+			Sparql.getList().clear();
+			affiche();
+		}
+		
+	}
+	
+	public static void main(String[] args) throws IOException, ParseException {
+		TextFileIndexer.createIndex();
+		searchKey();
+	}
+}

@@ -1,0 +1,2796 @@
+Le Thésaurus est un travail collaboratif sous égide de la
+Société Nationale Française de Gastroentérologie (SNFGE),
+de la Fédération Francophone de Cancérologie Digestive
+(FFCD), du Groupe Coopérateur multidisciplinaire en
+Oncologie (GERCOR), de la Fédération Nationale des
+Centres de Lutte Contre le Cancer (UNICANCER), de la
+Société Française de Chirurgie Digestive (SFCD), de la
+Société Française d’Endoscopie Digestive (SFED) et de la
+Société Française de Radiothérapie Oncologique (SFRO).
+Chapitre 9
+Cancer du pancréas
+Date de cette version :
+25/06/2018
+Date de dernière mise à jour à vérifier sur
+www.tncd.org/www.snfge.org
+Mise en garde
+Du fait de l'actualisation fréquente du TNCD,
+l'utilisation de ce document imprimé impose de
+vérifier qu'une version plus récente
+n'a pas été mise à disposition sur le site.
+Si la date ci-dessus remonte à plus d'un an, ce
+document n'est certainement plus à jour et doit être
+remplacé par un nouveau.
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+1
+GROUPE DE TRAVAIL :
+Pascal HAMMEL coordonnateur (Paris), Jean-Baptiste BACHET (Paris), Lucile BAUGUION
+(La Roche-sur-Yon), Laurianne COLSON DURAND (Créteil), Thierry CONROY (Nancy),
+Laëtitia DAHAN (Marseille), Sébastien GAUJOUX (Paris), Marine GILABERT (Marseille),
+Florence HUGUET (Paris), Lysiane MARTHEY (Clamart), Julie MEILLEROUX (Toulouse),
+Louis de MESTIER (Paris), Bertrand NAPOLEON (Lyon), Cindy NEUZILLET (Paris), Fabienne
+PORTALES (Montpellier), Antonio SA CUNHA (Villejuif), Lilian SCHWARZ (Rouen), Julien
+TAIEB (Paris), Nicolas WILLIET (Saint-Etienne)
+RELECTURE :
+Thomas APARICIO (Paris), Karine BIDEAU (Quimper), Emmanuel BUC (Clermont-Ferrand),
+Louis BUSCAIL (Toulouse), Mathilde BRASSEUR (Reims), Jean-Robert DELPERO
+(Marseille), Michel DUCREUX (Villejuif), Aurélien DUPRE (Lyon), Pierre FAJADET (Toulouse),
+Christelle de la FOUCHARDIERE (Lyon), Eric FRANCOIS (Nice), Dany GARGOT (Blois),
+Rosine GUIMBAULT (Toulouse), Reza KIANMANESH (Reims), Dine KORICHE (Béthune-
+Lens), Matthieu LAPEYRE (Toulouse), Thierry LECOMTE (Tours), Jean LUBRANO (Caen),
+Philippe MAINGON (Paris), Pascale MARIANI (Paris), Laurent MOSSER (Rodez), Benjamin
+MENAHEM (Caen), Tulio PIARDI (Reims), Alain SAUVANET (Paris), Enam SOBKENG-
+GOUFAK (Château-Thierry), Christine SILVAIN (Poitiers), Véronique VENDRELY (Bordeaux)
+Comment citer ce chapitre : Neuzillet C, Bachet JB, Bauguion L, Colson Durand L, Conroy
+T,Dahan L,Gaujoux S, Gilabert M, Huguet F, Marthey L, Meilleroux J, de Mestier L, Napoléon
+B, Portales F, Sa Cunha A, Schwarz L, Taïeb J, Chibaudel B, Bouché O, Williet N, Hammel P.
+«Cancer du pancréas». Thésaurus National de Cancérologie Digestive, juin 2018, en ligne
+[http://www.tncd.org]
+9.1. INTRODUCTION
+Nous ne traiterons dans ce chapitre que des tumeurs malignes du pancréas exocrine, excluant
+les ampullomes, les cholangiocarcinomes intra-pancréatiques (cf. Chapitre 8 TNCD - Cancer
+des voies biliaires) et les tumeurs neuroendocrines (cf. Chapitre 11 TNCD - TNE).
+9.1.1. Méthodologie
+Ce travail repose sur les recommandations (publications internes) de la Fédération
+Francophone de Cancérologie Digestive (FFCD) du GERCOR, de la Société Française de
+Chirurgie Digestive (SFCD), de l’Association de Chirurgie Hépato-Bilio-Pancréatique et de
+Transplantation (ACHBT), de l’Association Française de Chirurgie (AFC), de l’European
+Society of Medical Oncology (ESMO) (Ducreux et al., 2015), du National Comprehensive
+Cancer Network (www.nccn.org) et sur leur actualisation par une recherche bibliographique.
+Celle-ci a reposé sur l'extraction, à partir de la base de données PubMed interrogée en
+décembre 2017, des essais randomisés, méta-analyses, conférences de consensus et
+recommandations de pratique clinique avec les mots-clés « pancreatic cancer » et « pancreatic
+adenocarcinoma », en anglais ou en français, sans limitation de date.
+Les présentes recommandations ont été gradées selon le niveau des preuves disponibles
+dans la littérature, ou en cas de preuves insuffisantes selon l'avis d'experts.
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+2
+9.1.2. Épidémiologie
+L’adénocarcinome du pancréas (AP) représente 90% des tumeurs du pancréas et devrait être
+la deuxième cause de mortalité par cancer en Europe en 2030 (Ferlay, Partensky, & Bray,
+2016; Rahib et al., 2014) ; son incidence en France a doublé chez les hommes et triplé chez
+les femmes entre 1982 et 2012 (Bouvier et al., 2017). Il reste le cancer digestif dont le pronostic
+est le plus défavorable, avec un taux de survie globale (SG) à 5 ans, tous stades confondus,
+de 7% à 8% (INVS) (Cowppli-Bony et al., 2016).
+9.2. DIAGNOSTIC
+ET EXPLORATIONS PRE-THERAPEUTIQUES
+9.2.1. Présentation clinique
+Le type et la chronologie des manifestations cliniques dépendent principalement du site de la
+tumeur primitive et de son stade au diagnostic (Modolell, Guarner, & Malagelada, 1999). L’AP
+localisé dans la tête (70%-80%) est plus rapidement symptomatique que celui du corps ou de
+la queue du pancréas (20%-30%), ce dernier étant souvent diagnostiqué à un stade plus
+avancé (Neuzillet, Sauvanet, & Hammel, 2011). Les symptômes les plus fréquents, fatigue,
+anorexie et amaigrissement, sont tardifs et non spécifiques.
+•
+Une douleur intense (nécessitant des antalgiques de palier 3), abdominale à irradiation
+postérieure et/ou dorsale, est évocatrice d’une tumeur non résécable par envahissement
+cœliaque et associée à un mauvais pronostic (Kalser, Barkin, & MacIntyre, 1985; Modolell
+et al., 1999).
+•
+•
+•
+•
+L’ictère est un signe parfois précoce quand il est causé par une tumeur céphalique
+obstruant la voie biliaire principale (VBP) (Modolell et al., 1999).
+Un diabète soit récent (< 2 ans), causé par l’AP (ou diabète de type IIIc (Hart et al., 2016),
+paranéoplasique ou par obstruction canalaire avec atrophie pancréatique d’amont), soit
+ancien (facteur de risque, mieux documenté pour le diabète de type II) et décompensé, est
+présent dans 50% des cas (Chari et al., 2005; Yuan et al., 2015).
+D’autres modes de révélation sont plus rares : pancréatite aiguë, événement thrombo-
+embolique, occlusion intestinale, hémorragie digestive, diarrhée par maldigestion, ascite,
+anxiété/dépression ou panniculite (syndrome de Weber-Christian).
+Il importe de préciser par l’interrogatoire les antécédents personnels et familiaux de
+cancers (recherche d’une forme familiale de cancer du pancréas).
+9.2.2. Marqueurs tumoraux sériques : CA19-9
+9.2.2.1. Diagnostic
+L’antigène carbohydrate 19-9 (CA 19-9) n’a pas les performances diagnostiques exigées
+pour être un marqueur fiable.
+•
+Sa sensibilité et sa spécificité sont de 80% et 80%-90%, respectivement, chez les patients
+symptomatiques, mais sa valeur prédictive positive est insuffisante pour le diagnostic ou
+le dépistage de l’AP (Huang & Liu, 2014; Ni et al., 2005).
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+3
+•
+Néanmoins, dans les cas exceptionnels de patients ayant une tumeur avancée, avec
+retentissement sur l’état général (PS 2), au moins une tentative de biopsie diagnostique
+non contributive, et une indication de chimiothérapie urgente, un faisceau d’arguments
+cliniques, biologiques (CA 19-9 > 10N sans cholestase) et radiologiques (tumeur
+hypodense au scanner avec injection de produit de contraste) peut être suffisant pour
+débuter une chimiothérapie rapidement (Nouts, Levy, Voitot, & Bernades, 1998; Poruk et
+al., 2013). Cette décision doit être validée en réunion de concertation pluridisciplinaire
+(RCP).
+9.2.2.2. Pronostic
+Le taux de CA 19-9 apporte une information pronostique dans deux circonstances
+(Ballehaninna & Chamberlain, 2012; Chiorean et al., 2016) :
+•
+•
+au diagnostic, lorsqu’il est inférieur à 200 U/mL, il aide à prédire la résécabilité d’une
+tumeur ou, au contraire, s’il dépasse 1000 U/mL il suggère fortement son caractère
+métastatique ;
+pour le suivi thérapeutique, sa négativation après chirurgie étant de bon pronostic, et
+sa diminution sous chimiothérapie ou radiothérapie, en faveur d’un contrôle tumoral
+satisfaisant.
+9.2.2.3. Interprétation du CA 19-9
+Il faut connaître pour l’interprétation du CA 19-9 l’existence :
+•
+•
+de faux négatifs chez les patients n’exprimant pas le marqueur sanguin Lewis (a-b-, 5%-
+10% de la population) ;
+de nombreux faux positifs: cholestase quelle qu’en soit la cause, diabète, pancréatite
+chronique, cirrhose, autres cancers (Ballehaninna & Chamberlain, 2012; Poruk et al.,
+2013).
+Au total, le dosage du CA 19-9 doit être interprété avec prudence, toujours couplé à un examen
+d’imagerie, à intervalle de 2-3 mois, et ses limites soigneusement expliquées au patient
+(caractère anxiogène).
+9.2.2.4. Autres marqueurs
+D’autres marqueurs sanguins sont en cours d’exploration (ex. thrombospondine 2, ADN
+tumoral circulant, cellules tumorales circulantes, et vésicules extracellulaires circulantes) mais
+ne sont pas validés et ne peuvent être recommandés à ce jour.
+9.2.3. Examens morphologiques
+9.2.3.1. Tomodensitométrie thoraco-abdomino-pelvienne (TDM TAP)
+Une fois le diagnostic d’AP suspecté cliniquement ou après qu’une masse pancréatique a été
+détectée (ex. signes directs ou indirects [dilatation des voies biliaires ou bicanalaire] à
+l’échographie abdominale transpariétale), l’examen de référence pour évaluer le stade tumoral
+et juger de la résécabilité tumorale éventuelle est la tomodensitométrie thoraco-abdomino-
+pelvienne (TDM TAP) en coupes fines avec injection de produit de contraste.
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+4
+•
+Le protocole recommandé (Al-Hawary et al., 2014; Tamm et al., 2012) est un examen
+tri-phasique par angioscanner multidétecteur, avec une épaisseur de coupes ≤ 0,5-1 mm,
+(i) sans injection,
+(ii) puis après injection intraveineuse de produit de contraste iodé, une phase artérielle
+tardive, dite parenchymateuse pancréatique (à 40-50 secondes),
+(iii) suivie d’une phase veineuse portale (à 65-70 secondes).
+•
+Les AP, tant au niveau de la tumeur primitive que des métastases, sont typiquement
+hypodenses à la phase artérielle et isodenses/faiblement rehaussées à la phase portale.
+Des reconstructions doivent être réalisées en complément de l’acquisition pour l’étude
+vasculaire.
+•
+Le compte rendu doit préciser :
+(i) la taille de la tumeur,
+(ii) son aspect avant et après injection,
+(iii) sa localisation,
+(iv) la présence d’une sténose canalaire biliaire et/ou pancréatique et/ou d’une dilatation
+d’amont,
+(v) les rapports vasculaires,
+(vi) la présence éventuelle d’une extension extra-pancréatique contre-indiquant la
+chirurgie (ex. ganglions extra-régionaux, métastases hépatiques, péritonéales, ou
+pulmonaires) (Al-Hawary et al., 2014).
+•
+L’évaluation de la résécabilité de l’AP à la TDM implique la description précise de
+l’atteinte (circonférence de contact, présence d’un rétrécissement vasculaire ou d’une
+irrégularité des contours) des artères (artère mésentérique supérieure [AMS], tronc
+cœliaque, artère splénique, artère hépatique et ses variantes anatomiques) et des veines
+régionales (veine mésentérique supérieure [VMS], veine porte [VP], veine splénique) par
+la tumeur et de son retentissement fonctionnel (thrombose ou occlusion, circulation
+collatérale), et l’éventuelle présence d’un ligament arqué.
+•
+La standardisation du compte-rendu, sous forme de check-list (Al-Hawary et al., 2014)
+est actuellement recommandée (Tableau I).
+•
+L’imagerie au moment de l’évaluation doit impérativement être récente (<4
+semaines) car l’évolution des AP peut être rapide et un délai plus long augmente le risque
+(> 20%) de découverte per-opératoire de métastases non vues à l’imagerie pour une
+tumeur présumée résécable (Glant et al., 2011; Raman et al., 2015).
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+5
+Tableau I - Conditions deParamètre
+Type de scanner
+Épaisseur de coupe
+Intervalle
+Contrasteoral
+Contraste intraveineux
+Acquisition
+Analyse et reconstructions
+réalisation et compte rendu standardisé de TDM
+Détails
+Hélicoïdal (de préférence 64 barrettes ou plus)
+Les plus fines possible, de préférence ≤ 0,5-1 mm
+Identique à l’épaisseur de coupe
+Neutre (type hydrique 100 mL, juste avant l'examen),
+l’opacification digestive par du contraste positif (baryte ou
+hydrosoluble) doit être bannie car ce produit diminue le
+contraste parenchymateux pancréatique
+Produit de contraste iodé, de préférence fortement
+concentré (< 300 mg I/L), à une vitesse de 3-5 mL/sec
+Sans
+ injection,
+ puis
+ phase
+ parenchymateuse
+pancréatique (à 40-50 secondes), suivie d’une phase
+veineuse portale (à 65-70 secondes).
+- Coupes axiales et reconstructions multiplanaires de 2-3
+mm
+- MIP ou coupes 3D volumétriques épaisses pour
+l’évaluation vasculaire
+Aspect à la phase
+parenchymateuse
+hépatique
+Taille (plus grand
+axe en cm)
+Localisation
+Sténose canalaire
+pancréatique avec
+ou sans dilatation
+d’amont
+Sténose biliaire
+avec ou sans
+dilatation d’amont
+Contact avec l’AMS
+Circonférence de
+contact (degrés)
+Rétrécissement
+vasculaire ou
+irrégularité des
+contours
+Extension à la 1ère
+branche de l’AMS
+Contact avec le
+tronc coeliaque
+Circonférence de
+contact (degrés)
+Evaluation morphologique
+☐ Hypodense
+ ☐ Isodense
+☐ Hyperdense
+☐ Mesurable
+☐ Tête/crochet (à
+droite de la VMS)
+☐ Présente
+☐ Non mesurable
+(tumeur isodense)
+☐ Corps/queue (à
+gauche de la VMS)
+☐ Absente
+☐ Présente
+ ☐ Absente
+Évaluation artérielle
+☐ Présent
+ ☐ Absent
+☐ ≤ 180
+ ☐> 180
+☐ Présent
+ ☐ Absent
+☐ Présente
+☐ Présent
+☐ ≤ 180
+☐ Absente
+☐ Absent
+☐> 180
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+6
+Rétrécissement
+vasculaire ou
+irrégularité des
+contours
+Contact avec
+l’artère hépatique
+commune
+Circonférence de
+contact (degrés)
+Rétrécissement
+vasculaire ou
+irrégularité des
+contours
+Extension au tronc
+coeliaque
+Extension à la
+bifurcation de
+l’artère hépatique
+droite/gauche
+Variantes
+anatomiques
+artérielles
+Type
+Circonférence de
+contact vasculaire
+Sténose de l’ostium
+de l’AMS ou du TC
+ou autre anomalie
+☐ Présent
+☐ Présent
+☐ ≤ 180
+☐ Présent
+☐☐Présente
+Présente
+☐ Présente
+☐ Artère hépatique
+droite issue de
+l’artère
+mésentérique
+supérieure pour le
+foie droit
+☐ ≤ 180
+☐ Présent
+☐ Absent
+☐ Absent
+☐> 180
+☐ Absent
+☐☐Absente
+Absente
+☐ Absente
+☐ Artère
+hépatique droite
+issue de l’artère
+mésentérique
+supérieure pour
+foie total
+☐> 180
+☐ Absent
+☐ Autre : .............
+☐ Description :.......
+9.2.3.2. Imagerie par résonance magnétique (IRM)
+L’imagerie par résonance magnétique (IRM) avec séquences de cholangio-pancréatographie
+est une alternative aussi sensible et spécifique que la TDM pour le bilan diagnostique et
+d’extension de l’AP à l’étage abdominal, mais est moins utilisée en raison de son coût et de
+sa disponibilité plus limitée (Bipat et al., 2005).
+•
+•
+•
+Elle a une valeur ajoutée pour le diagnostic des lésions pancréatiques isodenses, non ou
+mal visibles en TDM, et les lésions hépatiques trop petites pour être caractérisées ou de
+nature indéterminée.
+Il est recommandé de réaliser une IRM hépatique au diagnostic de tout AP localisé
+(résécable, de résécabilité limite ou localement avancé après traitement d’induction) avant
+chirurgie pour s’assurer de l’absence de métastases hépatiques infra-centimétriques.
+L'IRM de diffusion est plus sensible que la TDM pour détecter les petites métastases
+hépatiques et permet d’éviter une laparotomie inutile chez 12% des patients ayant un AP
+présumé résécable (Marion-Audibert et al., 2014).
+La découverte d’une lésion hépatique infra-centimétrique restreignant la diffusion, est
+fortement évocatrice de métastase. Il existe cependant de rares faux positifs (3,5%). La
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+7
+décision de contre-indiquer la résection ou d’obtenir une preuve histologique par voie
+transpariétale ou par coelioscopie doit alors être discutée en RCP.
+•
+Si l’IRM abdominale est choisie pour le bilan d’extension, celui-ci doit être complété par
+une TDM thoracique.
+9.2.3.3. Echoendoscopie
+•
+•
+•
+•
+Si l’écho-endoscopie (EE) digestive haute a pour principal intérêt de permettre la
+réalisation de prélèvements à visée cytologique ou histologique (cf. 9.2.4), elle peut aussi
+apporter des informations complémentaires à la TDM concernant l’extension
+locorégionale.
+Néanmoins, du fait de variantes anatomiques artérielles hépatiques fréquentes (jusqu'à
+10% des patients) et de son caractère opérateur-dépendant, elle ne constitue pas l’examen
+de référence pour l’évaluation de l'atteinte vasculaire.
+Ses quatre indications dans l’AP sont :
+(i)
+(ii)
+(iii)
+(iv)
+une forte suspicion d’AP non visualisé par les autres examens d’imagerie,
+notamment en cas de sténose du canal pancréatique principal ;
+une masse pancréatique de nature incertaine à la TDM et l'IRM (ex. diagnostic
+différentiel avec une pancréatite auto-immune pseudo-tumorale ou une autre
+pancréatite chronique) ;
+nécessité d’obtenir une confirmation pathologique de l’AP en l’absence d’autre site
+tumoral d'accès plus facile;
+ou si une cholangio-pancréatographie rétrograde endoscopique (CPRE) est
+envisagée pour réaliser un geste de drainage biliaire (De Angelis, Brizzi, &
+Pellicano, 2013).
+Les améliorations techniques de l’EE (sono-élastométrie, injection veineuse de produit de
+contraste ou endo-microscopie confocale) n’ont pas fait l’objet d’une validation
+suffisamment robuste pour les recommander.
+9.2.3.4. CPRE
+La CPRE ne présente qu’un intérêt thérapeutique afin de drainer une sténose biliaire.
+•
+•
+•
+•
+Un brossage à visée diagnostique peut être réalisé au cours de la procédure, mais sa
+sensibilité est inférieure à celle de la cytoponction/biopsie (Weilert et al., 2014).
+Une prothèse biliaire, si indiquée hors contexte d’urgence (angiocholite, bilirubine > 250
+μmol/L, prurit invalidant) ne doit être mise en place qu’après une imagerie complète et de
+qualité.
+En cas de doute sur la nature ou sur la résécabilité de la tumeur en situation d’urgence,
+une courte prothèse biliaire métallique couverte doit être privilégiée.
+En l’absence d’urgence, l’indication de drainage biliaire doit être posée idéalement en RCP
+en présence d’endoscopistes et/ou de chirurgiens spécialisés.
+9.2.3.5. TEP FDG
+La tomographie par émission de positons au 18-fluorodesoxyglucose (TEP FDG) ne fait
+pas partie du bilan systématique de l’AP.
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+8
+•
+•
+•
+Elle est inconstamment informative, en particulier dans les variantes d’AP produisant de la
+mucine ou pauci-cellulaires, ou en cas de diabète mal équilibré.
+A contrario, des lésions inflammatoires non tumorales (ex. pancréatite autoimmune)
+peuvent causer des faux positifs.
+La valeur de cet examen pour améliorer le diagnostic et l’évaluation pré-thérapeutique des
+patients atteints d’AP par rapport aux autres examens disponibles reste discutée (Ghaneh
+et al., 2018; Marion-Audibert et al., 2014; Rijkers, Valkema, Duivenvoorden, & van Eijck,
+2014; Tang et al., 2011; Wang, Chen, Liu, Qin, & Huang, 2013).
+9.2.3.6. Laparoscopie
+La laparoscopie permet de détecter et de biopsier de petites métastases péritonéales et/ou
+hépatiques et de modifier la stratégie thérapeutique chez un nombre limité de patients avec
+tumeur supposée résécable à l’issue d’un bilan d’imagerie moderne et rigoureusement
+interprété (Allen, Gurusamy, Takwoingi, Kalia, & Davidson, 2016; Fong et al., 2017).
+•
+Si elle n’est pas systématique, elle peut être discutée dans les cas suivants :
+(i)
+ avant la résection d’une volumineuse tumeur du corps ou de la queue,
+(ii)
+ et/ou en cas de taux élevé de CA 19-9 (seuil > 130 à 400 U/mL),
+(iii)
+ ou lorsqu'un traitement néoadjuvant ou d’induction est envisagé (Allen et al.,
+2016; Fong et al., 2017; Maithel et al., 2008).
+9.2.4. Preuve histologique
+•
+•
+•
+•
+•
+•
+Les biopsies doivent être réalisées sur le site tumoral le plus facile d’accès (pancréas ou
+foie le plus souvent, cf. section 9.1.3) et en privilégiant, pour le pancréas, la voie
+échoendoscopique à l’abord transpariétal sous contrôle TDM (Brugge et al., 2014; Okasha
+et al., 2013).
+Elle est indiquée dans trois situations :
+(i)
+ doute diagnostique avec une lésion bénigne ;
+(ii)
+tumeur non résécable mais sans métastase facilement accessible par voie
+transpariétale, pour avoir une preuve histologique avant de débuter le
+traitement médical ;
+(iii)
+ tumeur potentiellement résécable si un traitement néoadjuvant est envisagé.
+Le calibre de l’aiguille utilisée (25G, 22G ou 19G), son type (ex. Procore®, à fenêtre
+latérale,...) ou certaines modalités techniques (ex. wet aspiration ou fanning) permettraient
+d’optimiser les performances des biopsies sous EE.
+Une métastase hépatique (gauche) découverte pendant l’examen peut faire l’objet de la
+cytoponction sachant que le rendement histo/cytologique est meilleur que pour la tumeur
+primitive.
+En revanche, une métastase hépatique connue et accessible par voie transpariétale doit
+être prélevée sous contrôle échographique ou TDM.
+Il est important de rappeler que la preuve cyto/histologique de malignité n'est pas
+systématique ni nécessaire avant la résection chirurgicale pour une maladie
+résécable d’emblée, et qu'une biopsie non informative ne doit pas retarder la résection
+chirurgicale en cas de forte suspicion clinique de cancer pancréatique.
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+9
+•
+A contrario une ponction sous EE et des biopsies d’ampoule seront conseillées pour
+éliminer une pancréatite auto-immune de type 1 en cas de tumeur de la tête du pancréas
+chez un patient à risque chirurgical élevé (cf. ci-dessous) ou quand la tumeur présente
+certaines caractéristiques (absence de dilatation du canal de Wirsung en amont de la
+masse, aspect de cholangite associé). Une aiguille à biopsie de 20G ou 22G sera alors
+privilégiée.
+9.2.5. Classification thérapeutique
+La classification TNM AJCC 2017 (8ème version) (Tableaux II et III)
+•
+•
+introduit des modifications dans les catégories T et N par rapport aux classifications
+antérieures (Kamarajah, Burns, Frankel, Cho, & Nathan, 2017).
+s’applique aux carcinomes du pancréas exocrine et aux carcinomes neuroendocrines de
+haut grade. La maladie doit être confirmée histologiquement ou par cytologie.
+Définition du caractère régional des adénopathies
+•
+•
+•
+Les ganglions lymphatiques régionaux pour les tumeurs de la tête et de l’isthme ne sont
+pas définis de façon consensuelle. Classiquement, les adénopathies régionales sont
+définies comme étant celles du pédicule hépatique, de l’artère hépatique commune, de la
+veine porte, pyloriques, antérieurs ou postérieurs aux vaisseaux pancréatico-duodénaux,
+et le long de la VMS et du bord latéral droit de l’AMS (AJCC 2017).
+Les ganglions lymphatiques régionaux pour les tumeurs du corps et de la queue ne sont
+pas non plus définis de façon consensuelle et pourraient ne pas être les mêmes pour les
+tumeurs la partie proximale du corps et de la queue. Classiquement, les adénopathies
+régionales sont définies comme étant celles le long de l’artère hépatique commune, du
+tronc cœliaque, de l’artère splénique, et du hile splénique (AJCC 2017).
+Les atteintes des autres groupes lymphatiques sont considérées comme des métastases
+à distance.
+Tableau II - Classification TNM
+CatégorieT1
+T2
+T3
+T4
+T
+Taille de la tumeur, mesurée dans sa
+plus grande dimension
+Tumeur ≤ 2 cm
+T1a
+ Tumeur ≤ 0,5 cm
+T1b
+ Tumeur > 0,5 cm et < 1 cm
+T1c
+ Tumeur > 1 cm et ≤ 2 cm
+Tumeur > 2 et ≤ 4 cm
+Tumeur > 4 cm
+Tumeur envahissant l’axe cœliaque
+l’artère mésentérique supérieure et/ou à
+l’artère hépatique commune
+Modifications par rapport à la 7ème
+classification*
+Basée sur la taille et non pas sur
+l’invasion extra-pancréatique
+(avantage : plus objective,
+meilleure corrélation avec la
+survie)
+Basée sur l’envahissement des
+artères et non pas la notion de
+résécabilité
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+10
+Catégorie N
+ Adénopathies régionales
+(subdivision dans la nouvelle
+classification)
+N0
+ Pas de métastase ganglionnaire
+régionale
+N1
+ 1 à 3 ganglions régionaux
+ Distinction N1/N2.
+métastatiques
+N2
+ ≥ 4 ganglions régionaux
+métastatiques
+Catégorie M
+ Métastases à distance (pas de
+changement)
+M0
+ Pas de métastase à distance
+M1
+ Présence de métastase(s) à distance
+*En italique : les modifications par rapport à l’édition précédente.
+Tableau III - Synthèse des stades pTNM
+Stade IA
+ T1
+ N0
+ M0
+Stade IB
+ T2
+ N0
+ M0
+Stade IIA
+ T3
+ N0
+ M0
+Stade IIB
+ T1-T3
+ N1
+ M0
+Stade III
+ Tout T
+ N2
+ M0
+T4
+ Tout N
+ M0
+Stage IV
+ Tout T
+ Tout N
+ M1
+En pratique, la séparation des tumeurs en fonction de leur caractère résécable, borderline,
+localement avancé ou métastatique (Tableau IV) est plus utile que la classification TNM
+(Tempero et al., 2017).
+•
+•
+La détermination précise de l’atteinte vasculaire en imagerie peut être difficile, notamment
+pour distinguer une infiltration tumorale d’une zone de fibrose ou inflammatoire.
+Les images de TDM/IRM doivent être analysées en réunion pluridisciplinaire en présence
+de radiologues, chirurgiens et oncologues/gastroentérologues expérimentés en
+pathologie bilio-pancréatique.
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+11
+Tableau IV - Définition des critères de résécabilité selon le stade d'envahissement
+vasculaire selon le MD Anderson Cancer Center (MDACC) ou le National
+Comprehensive Cancer Network (NCCN). AMS : artère mésentérique supérieure, AHC :
+artère hépatique commune, VMS/VP : veine mésentérique supérieure/veine porte, TC :
+tronc cœliaque
+NCCN 2015
+Résécable
+ Borderline
+ Localement avancé
+VMS/VP
+AMS
+Contact < 180° sans
+irrégularité du
+calibre de la veine
+Pas de contact
+Contact ≥ 180°
+Contact < 180° avec irrégularité
+du calibre de la veinesans
+occlusion
+et/ou occlusion tumorale
+chirurgicalement reconstructible
+Contact< 180°
+Occlusion tumorale
+chirurgicalement
+non reconstructible
+ou envahissement
+des principales
+veines jéjunales
+Contact ≥ 180°
+AHC
+TC
+Pas de contact
+Pas de contact
+Contact court, quel que soit le
+degré de circonférence, sans
+envahissement du tronc cœliaque
+ou de l’origine de l’artère
+hépatique commune,
+chirurgicalement reconstructible
+Contact< 180°
+Chirurgicalement
+non reconstructible
+Contact ≥ 180°
+•
+•
+•
+En cas de TIPMP dégénérée, il est fréquent que l’atteinte vasculaire soit surestimée.
+Toutes les extensions vasculaires ne sont pas synonymes de non-résécabilité. En
+particulier, un envahissement de l’artère et/ou de la veine splénique ne constitue(nt) pas
+une contre-indication à une résection chirurgicale d’emblée pour un AP du corps ou de la
+queue du pancréas.
+L’envahissement ganglionnaire de la loge pancréatique est un facteur pronostique
+indépendant défavorable de la survie, mais ne contre-indique pas une exérèse (Moutardier
+et al., 2004). En revanche, une atteinte ganglionnaire à distance documentée (hile
+hépatique, racine du mésentère, rétro-péritonéale ou inter-aortico-cave) est un facteur de
+très mauvais pronostic et doit contre-indiquer une stratégie de chirurgie première.
+9.2.6. Stratification pronostique
+L'évaluation du patient (performance status [PS], état nutritionnel, comorbidités) est
+déterminante pour les possibilités thérapeutiques.
+9.2.6.1. Tumeurs résécables
+•
+•
+Le pronostic est principalement déterminé par les facteurs liés à la tumeur (diamètre,
+différenciation, envahissement ganglionnaire et/ou des marges chirurgicales), et le fait
+qu’une chimiothérapie adjuvante puisse être administrée (Neuzillet et al., 2011).
+L'âge n'est pas un critère pour récuser les patients pour une approche chirurgicale. En
+effet, la faisabilité et l’efficacité sur la survie de la chirurgie pancréatique a été démontrée
+chez les sujets âgés (y compris ceux âgés de plus de 80 ans) (Turrini et al., 2013).
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+12
+Cependant, en cas de comorbidités lourdes, de PS altéré (ECOG > 2) ou de dénutrition
+sévère malgré des soins de support optimaux, l'abstention d’une chirurgie pourtant
+techniquement possible peut être justifiée (intérêt d’algorithmes nord-américains pour
+évaluer le risque de morbidité et de mortalité postopératoires dans ce contexte ;
+https://riskcalculator.facs.org/RiskCalculator/).
+9.2.6.2. Tumeurs avancées
+•
+•
+Les facteurs liés au patient et au volume tumoral métastatique jouent un rôle pronostique
+majeur.
+L’altération de l'état général (PS ECOG ≥ 2), un âge > 65 ans, une albuminémie < 35 g/L,
+une qualité de vie altérée, la présence de métastases synchrones et leur localisation
+hépatique, le nombre de sites métastatiques et un taux sérique élevé de CA 19-9 sont
+associés négativement à la survie (T. Conroy et al., 2011; Gourgou-Bourgade et al., 2013;
+Tabernero et al., 2015; Vernerey et al., 2015; Vernerey et al., 2016).
+9.2.7. Recommandations d’explorations pré-thérapeutiques
+9.2.7.1. REFERENCES
+•
+•
+•
+•
+•
+L’évaluation de l’état général (PS ECOG), des symptômes et de l’état nutritionnel
+ainsi que des co-morbidités est indispensable.
+Le bilan diagnostique, d’extension et de résécabilité repose sur :
+la TDM TAP selon le protocole recommandé au paragraphe 9.2.3.1 (niveau de
+recommandation : grade A).
+le CA 19-9 : n’a pas d’utilité diagnostique mais un intérêt pronostique avant laparotomie et
+pour le suivi sous traitement ainsi que pour le surveillance après traitement à visée curative
+(niveau de recommandation : grade B).
+Indications de la biopsie :
+Sous EE pour tumeur potentiellement opérable/résécable d’emblée seulement si doute
+diagnostique ou si un traitement néoadjuvant est envisagé (niveau de recommandation :
+grade A).
+Avant décision thérapeutique pour tumeur non opérable ou non résécable d’emblée,
+biopsie du site le plus facilement accessible, préférentiellement sous contrôle EE s’il s’agit
+du pancréas, ou par voie transpariétale (contrôle échographique ou TDM) en cas de
+métastase hépatique ou extra-hépatique accessible (niveau de recommandation : grade
+A).
+9.2.7.2. OPTIONS
+•
+•
+•
+EE : son principal intérêt est de permettre la réalisation de biopsies guidées du pancréas
+(niveau de recommandation : grade A). Autres indications : forte suspicion d’AP non visible
+avec les autres examens d’imagerie ou masse pancréatique de nature incertaine.
+IRM avec séquences de diffusion en complément de la TDM-TAP pour toute tumeur
+potentiellement opérable (résécable d’emblée ou après traitement d’induction), pour
+éliminer des métastases hépatiques de petite taille, sans retarder le geste chirurgical
+(niveau de recommandation : grade B).
+IRM avec séquences de cholangio-pancréatographie en alternative à la TDM
+abdomino-pelvienne ou en cas de tumeur pancréatique isodense ou de lésion hépatique
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+13
+•
+•
+indéterminée en TDM (niveau de recommandation : grade B). Elle doit dans ce cas être
+complétée par une TDM thoracique pour le bilan d’extension.
+Brossage biliaire per-CPRE si indication à un geste de drainage biliaire endoscopique
+(niveau de recommandation : grade B).
+Laparoscopie avant tentative de résection ou traitement néoadjuvant ou d’induction si
+volumineuse tumeur du corps ou de la queue et/ou CA 19-9 sérique >200 U/mL (avis
+d’experts).
+9.3. DEPISTAGE DES LESIONS PRECANCEREUSES ET
+DES FORMES FAMILIALES
+9.3.1. Lésions précancéreuses
+•
+•
+•
+•
+Elles comprennent les néoplasies intra-épithéliales (PanIN), les tumeurs intra-canalaires
+papillaires et mucineuses du pancréas (TIPMP) et les cystadénomes mucineux (Basturk
+et al., 2015; Lennon et al., 2014; Vogelstein et al., 1988).
+Des signes radiologiques préoccupants ont été définis pour guider les indications
+opératoires des TIPMP et des cystadénomes mucineux (European Study Group on Cystic
+Tumours of the, 2018). Sont en faveur d’une résection :
+o
+pour les TIPMP :
+§
+ indications relatives : (i) diamètre du canal de Wirsung entre 5 et 9,9 mm ou
+(ii) canal secondaire ≥ 40 mm.
+o
+§
+indications absolues : (i) ictère, (ii) nodule mural > 5 mm prenant le
+contraste, ou (iii) diamètre du canal de Wirsung > 10 mm
+pour les cystadénomes mucineux : (i) diamètre ≥ 40 mm, ou (ii) nodule prenant le
+contraste.
+Pour les patients non opérés, il est recommandé de réaliser une surveillance par IRM et/ou
+EE tous les 6 mois la première année, puis annuelle (European Study Group on Cystic
+Tumours of the, 2018).
+Les résultats de la cohorte prospective TEAM-P attendus pour fin 2018 permettront de
+préciser la conduite à tenir.
+9.3.2. Formes génétiques
+•
+•
+•
+•
+Une susceptibilité génétique expliquerait environ 5%-10% des AP (de Mestier, Védie,
+Salfati, Rebours, & Hammel, 2017; Ryan, Hong, & Bardeesy, 2014).
+Les cancers du pancréas familiaux (CaPaFa) sont définis par la survenue d’un AP chez au
+moins 2 apparentés au premier degré, ou en présence d’au moins 3 cas de la même
+branche quels que soient le degré de parenté et l’âge de survenue.
+Le risque de développer un AP augmente avec le nombre d’apparentés atteints dans la
+famille (Canto et al., 2013; de Mestier et al., 2016; de Mestier et al., 2017).
+Les situations et syndromes de prédisposition héréditaires indiqués dans le Tableau V sont
+associés à un risque augmenté de développer un AP (Canto et al., 2013; de Mestier et al.,
+2017).
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+14
+•
+Aucune mutation germinale n’est actuellement identifiée dans près de 85 % des cas de
+CaPaFa (contexte d’agrégation familiale non syndromique), et à l’inverse des mutations
+germinales (BRCA1/2, ATM, PALB2, MLH1, CDKN2A et TP53) peuvent être identifiées
+chez des patients sans histoire familiale (Shindo et al., 2017).
+Tableau V - Risque de développer un adénocarcinome pancréatique et principaux
+syndromes héréditaires de prédisposition à l’adénocarcinome du pancréas
+Histoires familiales
+et syndromes de
+predisposition
+héréditaires
+Gène(s)
+Risque
+ Risque
+ % parmi
+ Autres cancers
+relatif
+ d’AP à 70
+ les
+ liés
+ans (%)
+ CaPaFa
+Pas d’antécédent
+familial
+-
+1
+ 0,5-1
+ -
+ -
+2 apparentés au
+ Inconnus
+ 4-6
+ 5-12
+ 80-85
+ ?
+premier degré
+atteint d’AP
+≥ 3 apparentés au
+premier degré
+atteint d’AP
+Inconnus
+20-40
+ 40
+Cancers
+ BRCA1
+ 2-4
+ 3-4
+héréditaires du sein
+BRCA2
+ 2-10
+ 4-5
+et de l’ovaire
+PALB2,
+ 2-6
+ 4-5
+FANC-C/G
+1-5
+5-20
+1-3
+?
+Sein, ovaire,
+prostate, +/-
+côlon, mélanome
+Pancréatite
+ PRSS1
+ 50-80
+ 40-55
+ 1-4
+héréditaire
+Mélanomes
+multiples
+héréditaires
+(FAMMM)
+p16/CDKN2A
+ 10-25
+ 5-25
+2-3
+Mélanome, rein,
+ORL
+glioblastome,
+plèvre
+Peutz-Jeghers
+LKB1/STK11
+ 100-
+ 30-40
+ 1-3
+130
+Côlon, estomac,
+intestin grêle,
+sein, col utérin,
+ovaire, testicule
+Lynch
+hMLH1,
+ 4-8
+ 3-5
+ 1-3
+ Côlon,
+hMSH2,
+ endomètre,
+hMSH6,
+ intestin grêle,
+PMS1/2
+ estomac, voies
+urinaires, ovaire,
+voies biliaire
+Ataxie-
+ ATM
+ ?
+ ?
+télangiectasie
+Li-Fraumeni
+ TP53
+ ?
+ ?
+Mc Cune Albright
+ GNAS
+ ?
+ ?
+< 2 %
+< 2 %
+0%
+Hémopathies,
+sein, estomac
+Sarcomes, sein,
+hémopathies,
+cerveau,
+surrénale
+thyroïde
+TIPMP
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+15
+9.3.3. Dépistage
+•
+•
+•
+•
+L’objectif du dépistage de l’AP est de détecter les lésions précancéreuses (PanIN de haut
+grade et TIPMP en dysplasie de haut grade) accessibles à une prise en charge chirurgicale
+précoce à visée curative et donc seulement chez les sujets éligibles à une chirurgie
+pancréatique.
+Il s’applique aux individus ayant un risque théorique cumulé d’AP > 5% au cours de la vie
+ou un risque relatif estimé ≥ 5 (Bartsch et al., 2016; Canto et al., 2013; de Mestier et al.,
+2017): (i) ayant ≥ 2 apparentés atteints d’AP dont ≥ 1 au premier degré ; (ii) porteurs d’une
+mutation germinale d’un gène de prédisposition et ayant ≥ 2 apparentés atteints d’un AP
+ou ≥ 1 au premier degré ; (iii) tout patient atteint d’un syndrome de Peutz-Jeghers,
+indépendamment de l’histoire familiale.
+Ces sujets doivent être adressés à des centres experts pour consultation d’oncogénétique
+et discussion en RCP du rapport bénéfice/risque et des modalités (types d’examens,
+intervalles) d’un éventuel dépistage, conformément aux recommandations internationales
+CAPS (Canto et al., 2013).
+Dans tous les cas, la prise en charge des sujets à risque doit inclure la correction des
+éventuels co-facteurs de risque (tabagisme, surpoids ou diabète) et prendre en compte
+leur espérance de vie et opérabilité, ainsi que l’acceptabilité psychologique du dépistage,
+une fois expliquées ses contraintes et ses incertitudes quant à son efficacité.
+REFERENCES (accord d’experts)
+•
+•
+•
+Le dépistage est indiqué chez les sujets ayant un risque théorique cumulé d’AP > 5% ou
+risque relatif ≥ 5 :
+o
+ ayant ≥2 apparentés atteints d’AP dont ≥1 au premier degré,
+o
+ ou ayant une mutation germinale d’un gène de prédisposition et ≥2 apparentés atteint
+d’un AP ou ≥1 au premier degré,
+o
+ ou un syndrome de Peutz-Jeghers
+o
+ et éligibles à une éventuelle résection pancréatique (espérance de vie théorique, co-
+mordibités)
+o
+ et après discussion des avantages potentiels et risques d’un tel dépistage (accord
+d’experts).
+Les modalités de dépistage sont à définir en RCP en centre expert (accord d’experts).
+La correction des autres facteurs de risque est recommandée (tabagisme, obésité,
+diabète) (accord d’experts).
+9.4. TRAITEMENTS
+9.4.1. Tumeurs résécables d’emblée
+9.4.1.1. Chirurgie
+Après une évaluation pré-thérapeutique rigoureuse, seuls 15% à 20% des patients sont
+candidats à une résection chirurgicale.
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+16
+L'objectif de la chirurgie est de réaliser une résection en limites saines (marges R0) pour
+espérer qu’elle soit à visée curative (Seufferlein, Bachet, Van Cutsem, Rougier, & Group,
+2012). Pour cela, elle doit être réalisée dans un centre expert à haut volume, dont la définition
+précise reste controversée (Farges et al., 2017; Nimptsch, Krautz, Weber, Mansky, &
+Grutzmann, 2016), et dans les 3-4 semaines suivant la dernière évaluation scanographique
+(Sanjeevi et al., 2016).
+•
+Il faut identifier et déterminer dès le diagnostic :
+(i)
+ d’éventuelle(s) contre-indication(s) opératoire(s) : métastases à distance, contre-
+indication technique ou comorbidités ;
+(ii)
+ le risque de mortalité post-opératoire ;
+(iii)
+ les possibilités d’exérèse R0 (résécable d’emblée versus borderline faisant discuter
+un traitement d’induction) ;
+(iv)
+ la prise en charge optimale d’un éventuel ictère et de l’état nutritionnel.
+Le type de geste de résection chirurgicale est déterminé par la localisation et l’extension
+de la tumeur (J.R. Delpero, Paye, & Bachellier, 2010).
+•
+Pour les cancers de la tête du pancréas, la duodéno-pancréatectomie céphalique (DPC)
+est l'intervention de référence.
+o
+Un curage ganglionnaire, emportant au moins 15 ganglions (Tol et al., 2014) et les
+relais 5, 6, 8a, 12b1, 12b2, 12c, 13a, 13b, 14a, 14b, 17a, et 17b (Figure 1), et une
+résection de la lame rétroporte mettant à nu le bord droit de l’artère mésentérique
+supérieure doivent être réalisés. Une chirurgie plus agressive, avec
+lymphadénectomie étendue et/ou résection artérielle en bloc, n'améliore pas la survie
+à long terme et n'est pas recommandée (Martin et al., 2009; Tol et al., 2014)
+Figure 1 - Curage ganglionnaire recommandé en cas de duodéno-
+pancréatectomie céphalique (DPC) (relais grisés) (Tol et al., 2014)
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+17
+•
+•
+•
+•
+•
+•
+o
+La conservation du pylore n’a pas d’influence pronostique négative (Diener et al.,
+2014; Hackert et al., 2017).
+o
+o
+Un picking inter-aortico-cave avec examen extemporané est une option (Schwarz et
+al., 2014).
+La présence d’une artère hépatique droite ou d’un ligament arqué ne contre-indique
+pas définitivement une tentative de résection carcinologique, mais doivent être
+dépistés en pré-opératoire (Eshuis, Olde Loohuis, Busch, van Gulik, & Gouma, 2011;
+Sulpice et al., 2013; Turrini et al., 2010).
+Les AP du corps ou de la queue du pancréas sont traités par spléno-pancréatectomie
+gauche (SPG), qui doit être réalisée de la droite vers la gauche avec un curage
+ganglionnaire associé, emportant au moins les relais 10, 11, et 18. Il doit comporter de 15
+à 20 ganglions (Malleo et al., 2018).
+Les indications de la pancréatectomie totale sont très rares :
+(i)
+(ii)
+une tumeur intra-canalaire papillaire et mucineuse (TIPMP) diffuse dégénérée,
+ou une nouvelle tumeur (ou plus rarement une récidive loco-régionale unique)
+localisée au pancréas restant.
+La voie d’abord laparoscopique est une option, non encore validée, mais pourrait être
+envisagée en particulier pour les petites tumeurs du pancréas gauche. Elle semble
+diminuer la durée d’hospitalisation, mais on ne dispose pas d’étude randomisée permettant
+de la recommander (de Rooij, Sitarz, Busch, Besselink, & Abu Hilal, 2015; Tran Cao et al.,
+2014).
+Un examen pathologique extemporané est systématique pour écarter un envahissement
+de la tranche de section pancréatique et éventuellement élargir le geste.
+La définition d’une résection R0, dont le taux a été précédemment surestimé, nécessite
+un examen attentif des marges de résection incluant l'encrage multicolore par le chirurgien
+des trois marges de résection (VMS/VP, AMS et marge postérieure). Une résection R0 doit
+être définie comme une clairance (distance cellules tumorales-marge) >1 mm (J. R.
+Delpero et al., 2014; J. R. Delpero et al., 2017).
+La pièce opératoire doit être classifiée selon l’OMS 2010 et l’AJCC 2017. La
+standardisation du compte-rendu, par exemple selon les items du Royal College of
+Pathologists (www.rcpath.org) ou le College of American Pathologists (www.cap.org), est
+encouragée.
+9.4.1.2. Drainage biliaire
+•
+•
+•
+La CPRE avec pose d’une prothèse biliaire avant chirurgie n’est pas systématique car
+on observe une augmentation du taux de complications, notamment infectieuses, après
+drainage biliaire préopératoire, plus particulièrement en cas de prothèse plastique (Eshuis
+et al., 2010; van der Gaag et al., 2010).
+En cas de drainage, la pose d’une prothèse métallique courte est à privilégier (Tol et al.,
+2016).
+Un drainage est discuté en cas de :
+(i)
+ angiocholite,
+(ii)
+ taux de bilirubine> 250 μmol/L,
+(iii)
+ traitement néoadjuvant envisagé,
+(iv)
+ chirurgie différée (> 3-4 semaines).
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+18
+9.4.1.3. Traitement adjuvant
+Environ 80% des patients opérés à visée « curative » pour un AP localisé auront une récidive
+locale ou métastatique (Hishinuma et al., 2006).
+Un traitement adjuvant est indiqué chez tous les patients opérés d'un AP, quel que soit le stade
+pTNM, et en mesure de pouvoir le débuter dans les 3 mois suivant la chirurgie.
+•
+•
+•
+•
+•
+•
+•
+•
+Depuis 2001, la chimiothérapie adjuvante est le standard (étude de phase III ESPAC-1,
+chimiothérapie par 5-fluorouracile [5-FU] en bolus et acide folinique [AF] supérieure à
+observation) (Neoptolemos et al., 2001; Neoptolemos et al., 2004). Sur la base des études
+de phase III CONKO-001 (Oettle et al., 2013) (gemcitabine supérieure à observation) et
+ESPAC-3 (Neoptolemos et al., 2010) (gemcitabine aussi efficace que5-FU bolus, mais
+moins toxique), 6 mois de chimiothérapie adjuvante par gemcitabine ou 5-FU sont
+recommandés. L’expression du transporteur hENT-1 a été proposée comme marqueur
+prédictif de l’efficacité de la gemcitabine (Greenhalf et al., 2014), mais ne peut être
+recommandée en raison de résultats discordants et en l’absence d’anticorps validé pour la
+routine (Svrcek et al., 2015).
+En 2017, l’étude de phase III ESPAC-4 a montré une augmentation de la SG à 28 mois
+versus 25,5 mois (hazard ratio [HR]: 0,82, p=0,032) avec l’association gemcitabine plus
+capécitabine versus gemcitabine seule (Neoptolemos et al., 2017). Cette étude a fait l’objet
+de critiques méthodologiques, en particulier du fait de l’absence de scanner post-
+opératoire à l’inclusion et surtout de l’absence de bénéfice significatif en survie sans
+maladie (SSM) (T. Conroy, Gourgou, & Malka, 2017). Néanmoins, compte tenu de la
+différence significative observée pour la SG, la combinaison gemcitabine plus capécitabine
+peut être recommandé en situation adjuvante.
+Le composé S-1, un dérivé oral de fluoropyrimidine, s'est révélé non inférieur, et même
+supérieur à la gemcitabine dans un essai randomisé de phase III dans une population
+japonaise (JASPAC-01) mais ce produit n’a pas été testé en Europe et n’est pas disponible
+(Uesaka et al., 2016).
+Les résultats de l’étude de phase III PRODIGE 24 phase III ont été présentés au congrès
+de l’ASCO 2018 (T. Conroy et al., 2018). Par rapport à la gemcitabine, la chimiothérapie
+par FOLFIRINOX modifié (5-FU, AF, irinotécan, et oxaliplatine) pendant 6 mois (12 cycles)
+améliore la SSM (médiane: 21,6 vs. 12,8 mois, HR: 0,58, p<0.0001) et la SG FOLFIRINOX
+(médiane: 54,4 vs. 35 mois, HR=0,64, p=0,003) chez les patients OMS 0-1 sans diarrhée
+majeure ni contre-indication cardiaque au 5-FU. Le FOLFIRINOX modifié peut être
+considéré comme une référence dans cette indication. Les résultats de l’étude de phase
+III APACT (gemcitabine plus nab-paclitaxel versus gemcitabine) sont attendus.
+La chimiothérapie apporte un bénéfice de survie quels que soient les statuts T, N et R (T.
+Conroy et al., 2018; Neoptolemos et al., 2017).
+Deux études randomisées, la phase III CONKO-005 (après résection R0) et la phase IIb
+CONKO-006 (après résection R1), évaluant respectivement l'adjonction d'erlotinib ou de
+sorafenib à la gemcitabine adjuvante n'ont pas montré d’amélioration de la SSM ni de la
+SG (Sinn et al., 2017; Sinn et al., 2014).
+Quelle que soit la chimiothérapie choisie, il est important de la réaliser en totalité (6 mois)
+même si son initiation est retardée (mais avec un délai ne devant pas dépasser 3 mois)
+(Valle et al., 2014).
+En revanche, la place de la radiothérapie en situation adjuvante n'est pas consensuelle
+(études contradictoires mais anciennes et protocoles d'irradiation non optimaux/non
+contrôlés) (Corsini et al., 2008; Hsu et al., 2010; Klinkenbijl et al., 1999; Liu et al., 2015;
+Lutz et al., 2017; McDonald et al., 2015; Neoptolemos et al., 2004; Stocken et al., 2005;
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+19
+Van Laethem et al., 2010). Même en cas de résection R1, aucun gain de survie n'a été
+observé avec la chimioradiothérapie adjuvante dans un essai prospectif. Un essai
+randomisé dans cette indication est en cours aux États-Unis (RTOG-0848, NCT01013649).
+La chimioradiothérapie n’est donc pas recommandée même en clôture en cas de résection
+R1.
+9.4.1.4. Traitement néoadjuvant
+Cette stratégie n’est actuellement pas la référence, mais des essais randomisés sont en cours
+pour évaluer son intérêt.
+•
+•
+•
+•
+Son rationnel est de: (i) se donner un temps d'observation (4-6 mois) pour identifier les
+patients atteints d'une tumeur agressive, à l’évolution métastatique précoce, qui ne sont
+pas de bons candidats à la chirurgie (environ 30%) ; (ii) induire une réponse tumorale et
+ainsi augmenter les chances de résection R0 ; (iii) traiter précocement une éventuelle
+maladie micrométastatique ; (iv) tester la chimiosensibilité de la tumeur, ainsi que la
+tolérance du patient au traitement comme éléments de sélection pour la chirurgie.
+Les méta-analyses de Gillen et al. (Gillen, Schuster, Meyer Zum Buschenfelde, Friess, &
+Kleeff, 2010) et Assifi et al. (Assifi et al., 2011), très fréquemment citées, ont été critiquées
+pour leur méthodologie, rassemblant des études très hétérogènes et de petits effectifs ; de
+plus, les associations FOLFIRINOX et gemcitabine plus nab-paclitaxel, ultérieures à leur
+parution, n’ont pas été prises en compte. Des essais cliniques de phase II/III testant ces
+associations sont actuellement en cours.
+Les résultats de l'étude de phase III NEOPAC (NCT01314027) comparant la gemcitabine
+adjuvante à la séquence GEMOX (ou FOLFIRINOX suite à un amendement) néoadjuvant
+plus gemcitabine adjuvante sont attendus.
+Des questions restent en suspens concernant : (i) l’intérêt d’administrer une
+chimioradiothérapie pré-opératoire après la chimiothérapie et (ii) le type et la durée de la
+chimiothérapie adjuvante dans cette situation.
+9.4.2. Tumeurs borderline
+9.4.2.1. Traitement
+Leur prise en charge doit se faire idéalement dans un centre expert et si possible dans le cadre
+d’un essai clinique.
+•
+•
+•
+•
+En raison du risque élevé de résection R1 et malgré l’absence d’étude de haut niveau de
+preuve, un traitement d’induction est souvent privilégié à une chirurgie d’emblée. La
+faisabilité et la tolérance de celle-ci semblent correctes. Les taux de résection R0, de
+réponses tumorales majeures, et de survie prolongée, dans le sous-groupe des malades
+opérés, sont prometteurs (Bockhorn et al., 2014; J. R. Delpero et al., 2015; Katz et al.,
+2016; Pietrasz et al., 2015).
+Dans les essais en cours, cette stratégie d’induction se base le plus souvent sur une
+chimiothérapie à base de FOLFIRINOX ou gemcitabine plus nab-paclitaxel.
+La nécessité de la faire suivre d’une chimioradiothérapie est discutée. Il semblerait que
+celle-ci augmente le taux de réponse histologique (Pietrasz et al., 2015).
+Il n’existe actuellement aucune donnée sur l’efficacité de la chimiothérapie adjuvante après
+un traitement d’induction suivi de chirurgie.
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+20
+1.4.2.2. L'évaluation de la réponse tumorale
+•
+•
+•
+•
+•
+L'évaluation de la réponse tumorale après traitement d’induction par imagerie est difficile
+(Cassinotto et al., 2014; Ferrone et al., 2015; Wagner et al., 2017). La corrélation entre la
+réponse radiologique et la réponse anatomopathologique est mauvaise, et une absence
+de réponse radiologique ne doit pas faire contre indiquer un geste de résection.
+Un aspect d’infiltration périvasculaire persiste souvent et il est difficile de distinguer des
+remaniements fibro-inflammatoires d’une infiltration tumorale résiduelle (Kim et al., 2009).
+Néanmoins, la diminution de la taille tumorale et surtout du contact entre la tumeur et les
+vaisseaux et/ou le rétablissement du calibre vasculaire, suggèrent la possibilité d’aboutir à
+une résection R0, et doivent inciter à réaliser une exploration chirurgicale (Cassinotto et
+al., 2014).
+Un autre critère d'efficacité important est l'absence d'apparition de métastases à distance,
+qui du fait de la difficulté d’évaluation de la réponse thérapeutique locale, peut suffire à
+inciter à l’exploration chirurgicale.
+Une diminution voire une normalisation du taux de CA 19-9 peut aussi guider l’indication
+opératoire (Bockhorn et al., 2014; Takahashi et al., 2010).
+Il n'y a pas de consensus sur les critères d’analyse pathologique permettant de définir la
+réponse tumorale (pourcentage de cellules résiduelles, nécrose, fibrose) et leur valeur
+pronostique est controversée ; le score du College of American Pathologists est le système
+de classification le plus largement utilisé (Verbeke, Lohr, Karlsson, & Del Chiaro, 2015;
+Washington et al., 2014).
+1.4.3. Tumeurs localement avancées
+9.4.3.1. Chimiothérapie
+Le traitement de référence des AP localement avancés est la chimiothérapie qui, comme pour
+les tumeurs borderline, ne doit pas prendre l’appellation de “néoadjuvante” car la résection
+secondaire n’est pas la règle, même si elle peut être envisagée dans certains cas favorables.
+On doit parler de chimiothérapie « d’induction ».
+•
+•
+•
+•
+La gemcitabine reste la chimiothérapie de référence, sur la base des études menées dans
+les AP «avancés», regroupant des patients atteints de tumeurs métastatiques et
+localement avancées.
+L'ajout de l'erlotinib à la gemcitabine ne s'est pas avéré supérieur dans l'étude LAP07
+(Hammel et al., 2016).
+Au vu des résultats obtenus avec les associations FOLFIRINOX et gemcitabine plus nab-
+paclitaxel en situation métastatique et par extrapolation, elles ont été testées chez des
+patients atteints d’un AP localement avancé avec des résultats intéressants (Ferrone et
+al., 2015; Mahaseth et al., 2013; Marthey et al., 2015; Petrelli et al., 2015; Suker et al.,
+2016). Néanmoins, on ne dispose pas d'une validation prospective en comparaison avec
+la gemcitabine (l’étude LAPACT évaluant l’association gemcitabine plus nab-paclitaxel est
+une phase II monobras et l’étude de phase III NEOPAN évaluant le FOLFIRINOX est en
+cours).
+Les problématiques d’imagerie et d'examen pathologique après traitement d’induction sont
+les mêmes que pour les tumeurs borderline (Ferrone et al., 2015; Verbeke et al., 2015).
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+21
+9.4.3.2. Radiothérapie
+•
+•
+•
+La place de la radiothérapie n’est pas consensuelle.
+Elle peut être proposée comme traitement de "clôture" après une chimiothérapie
+d'induction de 3 à 6 mois (afin d’écarter les patients mauvais candidats avec une évolution
+tumorale agressive métastatique précoce) et avec administration concomitante de
+capécitabine à visée radiosensibilisante (Chauffert et al., 2008; F. Huguet et al., 2007;
+Krishnan et al., 2007; Loehrer et al., 2011; Mukherjee et al., 2013).
+L'étude de phase III LAP07 n'a pas montré de supériorité en terme de SG avec la
+chimioradiothérapie par rapport à la poursuite de la chimiothérapie initiale(Hammel et al.,
+2016). Une analyse secondaire indiquait que l’administration de la chimioradiothérapie
+était associée à un meilleur contrôle local et à un délai plus long avant reprise d'un
+traitement (F. Huguet et al., 2014).
+La chimioradiothérapie de « clôture » reste donc une option à discuter en RCP chez des
+patients sélectionnés.
+9.4.3.3. Chirurgie
+•
+•
+•
+•
+•
+La chirurgie de dérivation des AP non résécables de la tête du pancréas n’a pas de place
+chez un patient asymptomatique.
+Un traitement endoscopique (prothèse biliaire et/ou duodénale) est à préférer chez les
+patients symptomatiques.
+En cas de découverte per-opératoire d’une contre-indication à un geste chirurgical curatif,
+il est licite, chez un patient ayant une sténose biliaire justifiant un drainage, de réaliser une
+anastomose cholédoco-duodénale, plus simple à réaliser et aussi efficace que
+l'anastomose cholédoco-jéjunale.
+La réalisation d’une gastro-jéjunostomie prophylactique pour mettre à l’abri des
+conséquences d’une sténose duodénale ne semble pas justifiée.
+En cas d’obstruction digestive haute chez un patient non candidat à un geste chirurgical
+potentiellement curatif, un traitement endoscopique est à préférer en première intention
+(Ducreux et al., 2015).
+1.4.4. Formes métastatiques
+9.4.4.1. Chimiothérapie de première ligne
+•
+•
+La chimiothérapie par gemcitabine a été établie comme référence dans le traitement de
+l’AP avancé en 1997, sur la base d’une étude de phase II randomisée ayant montré sa
+supériorité par rapport au 5-FU en termes de bénéfice clinique (Burris et al., 1997).
+Ensuite, de multiples études de phase II et III ont tenté d’améliorer les résultats de la
+gemcitabine, soit par modulation de sa pharmacocinétique, soit par association avec
+d’autres agents. Cependant, ni la perfusion de gemcitabine à un débit optimisé (fixed dose
+rate, FDR) (Poplin et al., 2009), ni le CO-101, sa forme conjuguée à un lipide (Poplin et al.,
+2013), n’ont montré de supériorité. Parallèlement, l’association à d’autres molécules de
+chimiothérapie ou de thérapies dites ciblées a aussi été décevante. Les résultats des méta-
+analyses regroupant ces essais ont montré que le bénéfice des doublets de chimiothérapie
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+22
+•
+•
+•
+•
+(en particulier, gemcitabine avec dérivés de platine ou capécitabine) était restreint aux
+patients en bon état général (PS 0-1) (Bria et al., 2007; Ciliberto et al., 2013; Heinemann,
+Boeck, Hinke, Labianca, & Louvet, 2008; Sultana et al., 2007; Xie et al., 2010). Les
+thérapies ciblées (notamment les anti-angiogéniques, les agents ciblant le récepteur de
+l’EGF, de l’IGF, les voies de Hedgehog et des MAP kinases) n’ont apporté aucun bénéfice
+de SG en associationavec la gemcitabine versus gemcitabine seule, excepté pour
+l’association gemcitabine plus erlotinib, qui procurait un gain de SG statistiquement
+significatif mais cliniquement très modeste (< 1 mois) (Bramhall et al., 2002; Catenacci et
+al., 2015; Fuchs et al., 2015; Goncalves et al., 2012; Harder et al., 2012; Kindler et al.,
+2011; Kindler et al., 2010; Moore et al., 2007; Philip et al., 2010; Philip et al., 2014; Rinehart
+et al., 2004; Rougier et al., 2013; Safran et al., 2011; Van Cutsem et al., 2004; Van Cutsem
+et al., 2009; Van Laethem et al., 2017).
+L'inefficacité de l'erlotinib chez les patients ayant un AP localement avancé dans l'essai
+LAP07 est un argument supplémentaire contre son utilisation dans cette indication
+(Hammel et al., 2016).
+En 2011, l’étude de phase III PRODIGE-4/ACCORD-11 a démontré la supériorité du
+schéma FOLFIRINOX par rapport à la gemcitabine (SG médiane : 11,1 contre 6,8 mois,
+p<0,001) chez des patients âgés de moins de 75 ans avec PS 0-1 et taux de bilirubine <
+1,5 fois la limite supérieure de la normale (LSN) (T. Conroy et al., 2011). Une plus grande
+fréquence d’événements indésirables a été observée dans le groupe FOLFIRINOX, dont
+5,4% de patients ayant eu une neutropénie avec fièvre. Le FOLFIRINOX modifié (sans
+bolus de 5-FU +/- diminution de la dose d’irinotécan à 150 mg/m 2) semble avoir un meilleur
+profil de tolérance et une efficacité maintenue au vu des études rétrospectives ultérieures
+(Mahaseth et al., 2013). La place des stratégies de maintenance (allègement du
+FOLFIRINOX) après une période de contrôle tumoral, reste à préciser ; les résultats de
+l’étude de phase II randomisée PANOPTIMOX présentés à l’ASCO 2018 suggèrent que la
+maintenance par LV5FU2 après 4 mois de chimiothérapie d’induction par FOLFIRINOX
+pourrait être une option (Dahan et al., 2018).
+En 2013, l’association de la gemcitabine au nab-paclitaxel a aussi montré une
+augmentation significative de la SG (médiane : 8,5 contre 6,7 mois, p<0,001) en
+comparaison avec la gemcitabine seule dans l’étude de phase III MPACT (Von Hoff et al.,
+2013).
+Il n’existe pas d’étude comparant directement ces deux associations ni de marqueur
+prédictif de réponse validé pour l’un ou l’autre de ces schémas.
+9.4.4.2. Chimiothérapie de deuxième ligne
+•
+•
+•
+•
+Après progression sous une première ligne de chimiothérapie, la moitié environ des
+patients atteints d’AP métastatique sont en mesure de recevoir une ou plusieurs ligne(s)
+ultérieure(s) (Walker & Ko, 2014). Seuls les patients restant dans un bon état général (PS
+ECOG 0-1) semblent en tirer un bénéfice.
+Après progression sous gemcitabine, les associations de 5-FU avec un platine (oxaliplatine
+ou cisplatine) ou l’irinotécan (forme standard ou nanoliposomale) ont été principalement
+étudiées (Chen et al., 2015; Dahan et al., 2010; Gill et al., 2016; Neuzillet et al., 2012;
+Oettle et al., 2014; Wang-Gillam et al., 2016; Yoo et al., 2009; Zaanan et al., 2014).
+L’association du nal-IRI (MM-398), avec le 5-FU et l’AF a montré une amélioration de la
+SG (médiane : 6,1 contre 4,2 mois, p=0,012) par rapport au 5-FU/AF seul dans une étude
+de phase III (NAPOLI-1) (Wang-Gillam et al., 2016).
+Les données concernant l’association 5-FU et platine en deuxième ligne sont plus
+controversées : un essai de phase III randomisé (CONKO-003) avait montré une
+amélioration significative de la SG (médiane : 5,9 contre 3,3 mois, p=0,010) avec le
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+23
+•
+schéma OFF (oxaliplatine, 5-FU, AF) par rapport au même schéma sans oxaliplatine (FF)
+(Oettle et al., 2014). Ce bénéfice n’a pas été retrouvé avec le schéma FOLFOX6 modifié
+(mFOLFOX6) en comparaison avec le 5-FU/AF dans un autre essai de phase III
+(PANCREOX) (Gill et al., 2016). Cette absence de bénéfice pourrait s’expliquer par une
+toxicité plus marquée dans le bras mFOLFOX6 avec un plus grand nombre de patients
+sortis de l'étude en raison d'événements indésirables, et le recours plus fréquent à des
+lignes de traitement ultérieures après progression dans le bras 5-FU/AF.
+Les données concernant les traitements de deuxième ligne chez les patients atteints d’AP
+métastatique progressant sous FOLFIRINOX ou gemcitabine plus nab-paclitaxel sont
+limitées à des études rétrospectives (Assaf et al., 2011; Lee et al., 2013; Portal et al., 2015).
+9.4.5. Traitements spécifiques formes rares
+•
+•
+Les patients atteints d'un AP dans le cadre d’une mutation germinale des gènes
+BRCA1 ou BRCA2 sont plus sensibles aux agents entraînant des lésions de l'ADN
+(ex. dérivés de platines) ; des essais sont en cours avec des inhibiteurs de PARP dans
+cette population (de Mestier et al., 2016; Waddell et al., 2015).
+Il n’y a pas de spécificité thérapeutique pour les cystadénocarcinomes, les
+carcinomes à cellules acineuses ou adénosquameux et les autres variantes
+histologiques d’AP ; les mêmes recommandations s'appliquent.
+9.4.6. Soins de support
+Les soins de support occupent une place centrale dans la prise en charge. Ils ont pour but
+d’améliorer la qualité de vie et la tolérance, et l’adhérence aux traitements anti-tumoraux.
+•
+•
+•
+•
+Ils comprennent le traitement (Pelzer et al., 2015; Tempero et al., 2014):
+(i)
+ des obstructions biliaire et/ou digestive,
+(ii)
+ de la douleur,
+(iii) des troubles anxieux et dépressifs,
+(iv) de la dénutrition et de la sarcopénie (prise en charge nutritionnelle et d’activité
+physique – cf. futur Chapitre TNCD),
+(v)
+ des complications thromboemboliques.
+Une prévention primaire des complications thromboemboliques peut être indiquée chez
+les patients à haut risque selon le score de Khorana (Farge et al., 2016; Khorana, Carrier,
+Garcia, & Lee, 2016; Pelzer et al., 2015).
+Par ailleurs, une irradiation hypofractionnée à visée antalgique ou hémostatique peut être
+envisagée en situation palliative.
+Le bloc du plexus cœliaque guidé sous EE chez les patients atteints de douleur liée au
+cancer du pancréas non résécable peut être discuté en cas de douleurs réfractaires ou
+mal contrôlées par les traitements antalgiques standard en alternative à la radiothérapie à
+visée antalgique.
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+24
+9.5. INDICATIONS THERAPEUTIQUES
+9.5.1. Tumeur opérable/résécable d’emblée (Algorithme 1)
+REFERENCES
+•
+•
+•
+•
+Chirurgie à visée curative (R0) :
+o
+AP de la tête du pancréas :
+§
+§
+DPC par laparotomie dans un centre expert (niveau de recommandation : grade
+A) avec un curage emportant au moins 15 ganglions et les relais 5, 6, 8a, 12b1,
+12b2, 12c, 13a, 13b, 14a, 14b, 17a, et 17b (niveau de recommandation : grade
+B).
+La résection rétro-artérielle (marge rétro-artérielle, ou lame rétro-porte) du
+pancréas, jusqu’au bord droit de l’AMS est fortement conseillée (avis d’experts).
+§
+ La lymphadénectomie étendue et résection artérielle en bloc ne sont pas
+recommandées.
+o
+AP du corps ou de la queue du pancréas :
+§
+SPG (niveau de recommandation : grade A) par laparotomie avec un curage
+ganglionnaire, emportant au moins les relais 10, 11, et 18 ((niveau de
+recommandation : grade B).
+Une approche de la droite vers la gauche de type RAMPS (radical antegrade modular
+pancreatosplenectomy) est fortement conseillée (avis d’experts).
+Chimiothérapie adjuvante pendant 6 mois (à débuter dans les 3 mois post-opératoires si
+possible) chez tous les patients après résection d’un AP, quels que soient les statuts T, N
+et R ; par FOLFIRINOX modifié, et si patient non éligible par gemcitabine, 5-FU ou
+gemcitabine plus capécitabine, à discuter au cas par cas (niveau de recommandation :
+grade A).
+Pas de chimioradiothérapie hors essai clinique (accord d’experts).
+OPTIONS
+•
+•
+•
+Drainage biliaire (CPRE, prothèse métallique courte de préférence) avant chirurgie
+o
+ si angiocholite, taux de bilirubine > 250 μmol/L (niveau de recommandation : grade
+A),
+o
+ si traitement néoadjuvant envisagé, ou chirurgie retardée (accord d’experts).
+SPG laparoscopique exclusivement pour les petites tumeurs du corps et de la queue(avis
+d’experts) par des opérateurs entrainés.
+Si tumeur résécable mais malade non opérable : prise en charge comme une tumeur
+localement avancée (chimiothérapie si l’état général le permet +/- chimioradiothérapie)
+(accord d’experts).
+ESSAIS CLINIQUES
+•
+Essai PRODIGE 48 (PANACHE-01) : phase II évaluant la toxicité et l'efficacité de deux
+types de chimiothérapie néoadjuvante (FOLFIRINOX et FOLFOX) pour adénocarcinome
+pancréatique résécable. Coordonnateur : L Schwarz (Rouen)
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+25
+•
+Essai PRODIGE 56 (APACaPOp) : phase II randomisée d'évaluation d'un programme
+d'activité physique adaptée (APA) chez des patients ayant un cancer du pancréas opéré.
+Coordonnateur : C Neuzillet (Paris)
+9.5.2. Tumeur borderline (Algorithme 1)
+REFERENCES
+•
+ Aucune
+•
+ Privilégier l’inclusion dans les essais cliniques
+OPTIONS
+•
+•
+•
+•
+•
+Traitement d’induction par FOLFIRINOX (niveau de recommandation : grade B).
+Chimioradiothérapie (avec capécitabine) pré-opératoire après chimiothérapie d’induction
+(accord d’experts).
+Chirurgie secondaire si absence d’apparition de métastases et patient opérable (accord
+d’experts).
+Chimiothérapie adjuvante (accord d’experts).
+Drainage biliaire (CPRE, prothèse métallique courte de préférence) avant chirurgie
+o
+ si angiocholite, taux de bilirubine > 250 μmol/L (niveau de recommandation : grade A).
+o
+ si traitement d’induction, ou chirurgie retardée (accord d’experts).
+ESSAIS CLINIQUES
+•
+•
+Essai PRODIGE 44 (PANDAS) : phase II, randomisée multicentrique, évaluant l’efficacité
+d’une chimiothérapie néoadjuvante par mFOLFIRINOX, suivie ou non d’une
+radiochimiothérapie concomitante avant chirurgie d’un adénocarcinome du pancréas à la
+limite de la résécabilité. Coordonnateur : T Conroy (Nancy)
+Essai PRODIGE 56 (APACaPOp) : phase II randomisée d'évaluation d'un programme
+d'APA chez des patients ayant un cancer du pancréas opéré. Coordonnateur : C Neuzillet
+(Paris)
+9.5.3. Tumeur localement avancée (Algorithme 2)
+REFERENCES
+•
+•
+•
+•
+Soins de support dès le diagnostic (niveau de recommandation : grade A) : endoscopies
+(en première intention plutôt que chirurgie) pour drainage biliaire en cas d’ictère et/ou
+prothèse duodénale en cas de sténose symptomatique, traitement de la douleur, prise en
+charge nutritionnelle (cf. Chapitre TNCD Nutrition et APA).
+PS 0-2 : chimiothérapie (induction) par gemcitabine (niveau de recommandation : grade
+A).
+PS 3-4 : soins de supports exclusifs (accord d’experts).
+Ré-évaluation à chaque contrôle de l’opérabilité potentielle en cas de bonne réponse
+tumorale (accord d’experts).
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+26
+OPTIONS
+•
+•
+•
+Chimiothérapie (induction) par FOLFIRINOX (PS 0-1) (niveau de recommandation : grade
+B) ou gemcitabine plus nab-paclitaxel (PS 0-2) (avis d’expert).
+Chimioradiothérapie avec capécitabine après au moins 3 mois de contrôle tumoral par
+chimiothérapie systémique (niveau de recommandation : grade B).
+Chirurgie secondaire si très bonne réponse (clinique, imagerie, CA19-9), absence
+d’apparition de métastases et patient opérable (accord d’experts).
+ESSAIS CLINIQUES
+•
+•
+•
+Essai PRODIGE 29 (NEOPAN) : phase III comparant une chimiothérapie par
+FOLFIRINOX à la gemcitabine dans le traitement du cancer pancréatique localement
+avancé. Coordonnateur : M Ducreux (Villejuif)
+Essai PRODIGE 63 (TEDOPaM) : phase II randomisée non comparative d’évaluation
+d’un traitement de maintenance par vaccin OSE2101 seul ou en combinaison avec le
+nivolumab, ou par FOLFIRI après chimiothérapie d’induction par FOLFIRINOX pour
+adénocarcinome du pancréas localement avancé ou métastatique. Coordonnateur : C
+Neuzillet (Paris)
+Essai APACaP : phase III d’évaluation d’un programme APA chez des patients ayant un
+cancer du pancréas non résécable, localement avancé ou métastatique. Coordonnateurs :
+P. Hammel (Clichy) et C. Neuzillet (Paris)
+9.5.4. Tumeur métastatique (Algorithme 3)
+9.5.4.1. Première ligne
+REFERENCES
+•
+•
+•
+•
+•
+Soins de support dès le diagnostic (niveau de recommandation : grade A) : endoscopie
+(en première intention plutôt que chirurgie) pour drainage biliaire en cas d’ictère et/ou
+prothèse duodénale en cas de sténose symptomatique, traitement de la douleur, prise
+en charge nutritionnelle (cf. Chapitre TNCD Nutrition et APA) et psychologique
+PS 3-4 : soins de supports exclusifs (accord d’experts)
+Age < 75 ans, PS 0-1 et bilirubine < 1,5 LSN : chimiothérapie par FOLFIRINOX ou
+gemcitabine plus nab-paclitaxel (niveau de recommandation : grade A).
+PS 2 et bilirubine < 1,5 LSN : chimiothérapie par gemcitabine plus nab-paclitaxel
+(niveau de recommandation : grade B ) ou gemcitabine (niveau de recommandation :
+grade A).
+PS 0-2 et bilirubine ≥ 1,5 LSN ou comorbidités : chimiothérapie par gemcitabine
+(niveau de recommandation : grade A).
+OPTIONS
+•
+•
+PS 0-1 : gemcitabine plus dérivé de platine ou gemcitabine plus 5-FU (ou capécitabine)
+(niveau de recommandation : grade B)
+PS 2 et/ou bilirubine ≥ 1,5 LSN : chimiothérapie par FOLFOX (avis d’experts)
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+27
+ESSAIS CLINIQUES
+•
+•
+•
+•
+Essai APACaP : phase III d’évaluation d’un programme d’Activité Physique Adaptée
+chez des patients ayant un cancer du pancréas non résécable, localement avancé ou
+métastatique. Coordonnateur : P. Hammel (Clichy) et C. Neuzillet (Paris)
+Etude URGENCE Pancréas : Cohorte prospective évaluant un programme de soins
+de support précoce des adénocarcinomes du pancréas avancés symptomatiques.
+Coordonnateur : B Rousseau (Paris)
+Essai PRODIGE 63 (TEDOPaM) : phase II randomisée non comparative d’évaluation
+d’un traitement de maintenance par vaccin OSE2101 seul ou en combinaison avec le
+nivolumab, ou par FOLFIRI après chimiothérapie d’induction par FOLFIRINOX pour
+adénocarcinome du pancréas localement avancé ou métastatique. Coordonnateur : C
+Neuzillet (Paris)
+Essai PRODIGE (GEMFOX) : phase III comparant le FOLFOX à la gemcitabine en
+1ère ligne métastatique chez les patients avec un adénocarcinome du pancréas et non
+éligibles au FOLFIRINOX. Coordonnateur : JB Bachet (Paris)
+9.5.4.2. Deuxième ligne
+REFERENCES
+Chimiothérapie si PS 0-1 (niveau de recommandation : grade A).
+•
+ Chimiothérapie par 5-FU plus oxaliplatine (niveau de recommandation : grade B)après
+1ère ligne par gemcitabine
+•
+ Chimiothérapie par 5-FU plus nal-IRI (niveau de recommandation : grade B) après 1 ère
+ligne par gemcitabine
+OPTIONS
+•
+•
+•
+•
+•
+Chimiothérapie par FOLFIRI après 1ère ligne par gemcitabine (niveau de
+recommandation : grade C)
+Chimiothérapie par gemcitabine après 1 ère ligne par FOLFIRINOX(accord d’experts)
+Chimiothérapie par gemcitabine plus nab-paclitaxel après 1 ère ligne par FOLFIRINOX
+si PS 0-1 (avis d’experts)
+Monothérapie par gemcitabine ou 5-FU si PS2(avis d’experts)
+Chimiothérapie par paclitaxel seul ou associé à la gemcitabine (avis d’expert)
+ESSAIS CLINIQUES
+•
+•
+Essai GRASPANC 3 : phase II évaluant Eryaspase en association à la chimiothérapie
+vs chimiothérapie seule en 2ième ligne pour cancer pancréatique métastatique.
+Coordonnateur : P Hammel (Paris).
+Etude PRODIGE (GEMPAX): phase III randomisé évaluant l’association gemcitabine
+plus paclitaxel vs gemcitabine seule en 2ème ligne de traitement après échec de
+FOLFIRINOX. Coordonnateur : C de la Fouchardière (Lyon)
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+28
+9.6. SURVEILLANCE POST-THERAPEUTIQUE
+9.6.1. Surveillance après traitement
+•
+Après résection chirurgicale à visée curative, une surveillance clinique et paraclinique
+pourrait être utile pour diagnostiquer précocement les récidives (Tjaden et al., 2016; Tzeng
+et al., 2012). Elle s’appuie sur :
+(i)
+(ii)
+(iii)
+un examen clinique,
+un dosage du taux de CA19-9 sérique s’il était élevé au diagnostic,
+et une TDM TAP, tous les 3 mois pendant la période la plus à risque de récidive
+(2-3 ans) puis selon un rythme plus espacé tous les 6-12 mois jusqu’à 5 ans.
+9.6.2. Evaluations en cours de traitement
+•
+Il n’existe pas de données de la littérature comparant les modalités et les rythmes optimaux
+de surveillance. On peut proposer :
+(i)
+ un examen clinique,
+(ii)
+ un dosage du taux de CA 19-9 sérique,
+(iii)
+ une TDM TAP comme suit :
+§
+ en situation néoadjuvante ou d’induction : tous les 2 mois
+§
+ en situation adjuvante : tous les 3 mois
+§
+ en situation avancée : tous les 2 à 3 mois.
+REFERENCES
+•
+ Aucune
+OPTIONS
+•
+•
+Après résection chirurgicale : examen clinique, dosage du CA19-9 sérique et TDM TAP
+tous les 3-6 mois pendant 2-3 ans (accord d’experts) puis tous les 6-12 mois jusqu’à 5
+ans (avis d’experts).
+Evaluations en cours de traitement : examen clinique, dosage du CA19-9 sérique et TDM
+TAP(accord d’experts)
+o
+ tous les 2 mois en situation néoadjuvante ou d’induction,
+o
+ tous les 3 mois en situation adjuvante
+o
+ tous les 2-3 mois en situation avancée.
+9.7. TRAITEMENT DES RECIDIVES
+9.7.1. Récidive métastatique
+•
+ En cas de récidive métastatique (70%), le traitement repose sur la chimiothérapie dont le
+choix dépend :
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+29
+•
+(i)
+(ii)
+(iii)
+(iv)
+(v)
+de l’état général (PS, état nutritionnel, comorbidités) du patient,
+de l’extension de la maladie et de son caractère symptomatique ou non,
+d’une éventuelle toxicité résiduelle des traitements antérieurs (ex. neuropathie),
+de leur efficacité initiale,
+et du délai de la récidive.
+Chez des patients très sélectionnés (intervalle long entre l’exérèse de la lésion primitive et
+celle de la métastase ; réponse prolongée à une chimiothérapie ; en particulier s’il s’agit
+d’une atteinte pulmonaire isolée et oligométastatique, celle ci étant de meilleur pronostic)
+et avec une possibilité de traitement R0, une chirurgie ou un traitement de destruction
+locale (ex. radiofréquence ou radiothérapie stéréotaxique) peut être discutée. En cas
+d’antécédent de DPC, la chirurgie hépatique est préconisée plutôt que la destruction locale
+en raison du risque de complication infectieuse (abcès sur cholangite ischémique
+secondaire à la réduction de la vascularisation artérielle biliaire) en présence d’une
+anastomose bilio-digestive.
+9.7.2. Récidive loco-régionale
+•
+•
+•
+En cas de récidive loco-régionale (30%), le patient doit être traitée comme les formes non
+résécables.
+De façon exceptionnelle, en cas de stabilité ou de réponse prolongée à une chimiothérapie
++/- chimioradiothérapie, et de possibilité technique de résection R0, une chirurgie peut être
+discutée (Strobel et al., 2013).
+Cette situation doit être distinguée de la survenue d’un second cancer sur pancréas restant
+dans le cadre d’une affection prédisposante (ex. mutation germinale prédisposante ou
+TIPMP diffuse) qui doit être pris en charge comme un premier cancer s’il est résécable
+(chirurgie et traitement péri-opératoire), sous réserve de l’état général/co-morbidités du
+patient et de son acceptation des contraintes liées àla réalisation d’une pancréatectomie
+totale.
+REFERENCES
+•
+ Aucune
+OPTIONS
+•
+ Récidive : chimiothérapie (niveau de recommandation : grade B).
+•
+ Chez des patients très sélectionnés (réponse prolongée à une chimiothérapie) et avec
+une possibilité de résection R0, une chirurgie peut être discutée (avis d’experts).
+9.8. PROTOCOLES THERAPEUTIQUES
+Gemcitabine (adjuvant)
+1000 mg/m2 en perfusion de 30 min à J1.
+Traitement répété toutes les semaines 3 semaines/4.
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+30
+LV5-FU2 simplifié (adjuvant)
+Acide folinique 400 mg/m2 (ou l-folinique 200 mg/m2) en 2 h dans 250 ml G5 %,
+rincer puis 5-FU 400 mg/m 2 en 10 min dans 100 ml de G5 %,
+puis 5-FU 2400 mg/m2 en perfusion continue de 46 h dans du G5% par infuseur portable,
+pompe ou pousse seringue portable.
+Traitement répété tous les 14 jours.
+Gemcitabine - capécitabine (adjuvant)
+Gemcitabine 1000 mg/m2 en perfusion de 30 min à J1,
+plus capécitabine 1660 mg/m2/j par voie orale en deux prises J1-J21.
+Traitement répété toutes les semaines 3 semaines/4.
+FOLFIRINOX
+Oxaliplatine 85 mg/m2 en 2 h dans 250 ml de G5%,
+puis acide folinique 400 mg/m2 (ou l-folinique 200 mg/m2) en 2 h dans 250 ml G5%,
+puis après 30 min démarrer en Y irinotécan 180 mg/m2en 90 minutes,
+puis 5-FU bolus 400 mg/m2
+puis 5-FU 2400 mg/m2 en perfusion continue de 46 h dans du G5% par infuseur portable,
+pompe ou pousse seringue portable.
+Traitement répété tous les 14 jours.
+FOLFIRINOX modifié (mFOLFIRINOX)
+Oxaliplatine 85 mg/m2 en 2 h dans 250 ml de G5%,
+puis acide folinique 400 mg/m2 (ou l-folinique 200 mg/m2) en 2 h dans 250 ml G5%,
+puis après 30 min démarrer en Y irinotécan 150 mg/m2 en 90 minutes,
+puis 5-FU 2400 mg/m2 en perfusion continue de 46 h dans du G5% par infuseur portable,
+pompe ou pousse seringue portable.
+Traitement répété tous les 14 jours.
+Gemcitabine plus nab-paclitaxel
+nab-paclitaxel 125 mg/m2en perfusion de 30-40 min à J1,
+puis gemcitabine 1000 mg/m2 en perfusion de 30 min à J1.
+Traitement répété toutes les semaines 3 semaines/4 (J1, J8 et J15, 1 cycle = 4 semaines).
+Gemcitabine (formes avancées)
+1000 mg/m2 en perfusion de 30 min à J1.
+Traitement répété toutes les semaines (7 semaines/8 pour le premier cycle puis 3 semaines/4.
+Gemcitabine FDR (formes avancées)
+1500 mg/m2 en perfusion de 150 min à J1.
+Traitement répété tous les 14 jours.
+Gemcitabine plus paclitaxel
+paclitaxel 80 mg/m2en perfusion de 1 heure à J1,
+puis gemcitabine 1000 mg/m2 en perfusion de 30 min à J1.
+Traitement répété toutes les semaines 3 semaines/4 (J1, J8 et J15, 1 cycle = 4 semaines).
+LV5-FU2 simplifié (formes avancées)
+Identique à l’adjuvant
+FOLFOX 4 simplifié (USA=FOLFOX 6 modifié)
+Oxaliplatine + LV5-FU2 simplifié =
+Oxaliplatine 85 mg/m2 en 2 h dans 250 ml de G5%
+en Y de l’acide folinique au J1 du LV5-FU2 simplifié.
+Traitement répété tous les 14 jours.
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+31
+LV5-FU2 simplifié plus nal-IRI
+Irinotécan nanoliposomal (nal-IRI) 80 mg/m2 en perfusion de 90 minutes,
+suivi de acide folinique 400 mg/m2 (ou l-folinique 200 mg/m2) en 2 h dans 250 ml G5 %, rincer
+puis 5-FU 400 mg/m2 en 10 min dans 100 ml de G5 %,
+puis 5-FU 2400 mg/m 2 en perfusion continue de 46 h dans du G5% par infuseur portable (QSP
+230 ml, 5 ml/h), pompe ou pousse seringue portable.
+Traitement répété tous les 14 jours.
+FOLFIRI
+Irinotécan (Campto®) + LV5-FU2 simplifié =
+Irinotécan 180 mg/m2 en perfusion de 90 min dans 250 ml de G5%
+en Y de l'acide folinique au J1 du LV5-FU2 simplifié.
+Traitement répété tous les 14 jours.
+Chimioradiothérapie néoadjuvante (F. Huguet, Mornex, & Orthuon, 2016)
+Dose totale recommandée est de 45 à 50,4 Gy
+• à raison de 5 fractions de 1,8 Gy par semaine,
+•
+ délivrée par radiothérapie conformationnelle en 3 dimensions ou radiothérapie
+conformationnelle avec modulation d'intensité.
+•
+ Le pancréas ne doit pas être inclus en totalité dans la zone irradiée.
+•
+ Pas d'indication d’irradiation prophylactique systématique des aires ganglionnaires non
+suspectes.
+•
+ Si possible, les mouvements de la tumeur liés à la respiration doivent être pris en
+compte.
+Chimiothérapie concomitante par capécitabine
+• administrée pendant toute la durée de la radiothérapie, du lundi au vendredi,
+•
+ à une dose de 1650 mg/m2 par jour, divisée en 2 prises espacées de 12h.
+Chimioradiothérapie pour les tumeurs localement avancées (F. Huguet et al., 2016)
+Dose totale recommandée est de 50,4 à 54 Gy
+• à raison de 5 fractions de 1,8 Gy par semaine,
+•
+ délivrée par radiothérapie conformationnelle en 3 dimensions ou radiothérapie
+conformationnelle avec modulation d'intensité.
+Les modalités sont les mêmes qu'en cas de traitement néoadjuvant.
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+32
+9.9. ARBRES DECISIONNELS (ALGORITHMES)
+Algorithme 1 - Traitements pour cancer résécable ou borderline
+Adénocarcinome du pancréas opérable
+Progression
+Résécable R0
+Essai
+thérapeu9que
+néoadjuvant
+Tumeur contrôlée
+Chimiothérapie
+Chirurgie
+Borderline
+(non résécable R0)
+Essai thérapeu9que
+Op6on : FOLFIRINOX
+Tumeur contrôlée
+Op6on :
+chimioradiothérapie
+Tumeur contrôlée
+Progression
+RésecIon
+•
+•
+•
+•
+•
+Chimiothérapie adjuvante
+début < 3 mois - durée 6 mois
+FOLFIRINOX modifié
+Gemcitabine
+5-FU
+Gemcitabine-capécitabine
+Après traitement néoadjuvant : non défini
+Non résécable
+•
+•
+•
+Chimiothérapie
+Gemcitabine
+FOLFIRINOX
+Gemcitabine plus nab-
+paclitaxel
+Chimiothérapie
+ou soins de support
+exclusifs
+Algorithme 2 - Traitements pour cancer localement avancé
+Adénocarcinome du pancréas localement avancé
+PS 0-2 / Eligible pour chimiothérapie ?
+Oui
+ Non
+ Soins de support exclusifs
+Essai thérapeu5que
+Chimiothérapie
+ Gemcitabine
+Op#on : FOLFIRINOX ou gemcitabine plus nab-paclitaxel
+Tumeur contrôlée
+Tumeur jugée
+ Op#on :
+ Poursuite
+résécable
+ Chimioradiothérapie
+ chimiothérapie
+Tumeur contrôlée
+Chirurgie
+ Pause
+Progression
+PS ≥ 2
+Soins de support
+exclusifs
+PS 0-1
+Chimiothérapie
+2ème ligne
+(ou reprise 1ère ligne si
+progression après radiothérapie
+et intervalle ≥ 6 mois)
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+33
+Algorithme 3 - Traitements pour cancer métastatique
+Adénocarcinome du pancréas métasta1que
+PS 0-1 et bilirubine < 1,5 N
+FOLFIRINOX
+ou
+Gemcitabine
+plus nab-paclitaxel
+Ou essai thérapeu1que
+1ère ligne
+PS 2 et/ou bilirubine > 1,5 LSN
+et/ou comorbidités limitantes
+Gemcitabine
+Op=on : Gem plus nab-paclitaxel
+si AEG en rapport avec le volume
+tumoral important
+PS 3-4
+A progression - si PS 0-1 : 2ème ligne
+ PS 2
+ PS 3-4
+Essai thérapeu1que
+ou
+Chimiothérapie
+à base de
+gemcitabine
+Gemcitabine
+Gem plus taxane
+Essai thérapeu1que
+ou
+Chimiothérapie
+à base de 5FU
+FOLFOX
+FOLFIRI ou LV5FU2 plus nal-IRI
+FOLFIRINOX
+Monothérapie
+Gemcitabine ou 5FU
+ou
+Soins de supports
+exclusifs
+Soins de support
+exclusifs
+LSN : limite supérieure de la valeur normale
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+34
+REFERENCES BIBLIOGRAPHIQUES
+1. Al-Hawary, M. M., Francis, I. R., Chari, S. T., Fishman, E. K., Hough, D. M., Lu, D. S.,
+. . . Simeone, D. M. (2014). Pancreatic ductal adenocarcinoma radiology reporting
+template: consensus statement of the society of abdominal radiology and the american
+pancreatic
+ association.
+ Gastroenterology,
+ 146(1),
+ 291-304
+ e291.
+doi:10.1053/j.gastro.2013.11.004
+2.Allen, V. B., Gurusamy, K. S., Takwoingi, Y., Kalia, A., & Davidson, B. R. (2016).
+Diagnostic accuracy of laparoscopy following computed tomography (CT) scanning for
+assessing the resectability with curative intent in pancreatic and periampullary cancer.
+Cochrane Database Syst Rev, 7, CD009323. doi:10.1002/14651858.CD009323.pub3
+3.Assaf, E., Verlinde-Carvalho, M., Delbaldo, C., Grenier, J., Sellam, Z., Pouessel, D., .
+. . Culine, S. (2011). 5-fluorouracil/leucovorin combined with irinotecan and oxaliplatin
+(FOLFIRINOX) as second-line chemotherapy in patients with metastatic pancreatic
+adenocarcinoma. Oncology, 80(5-6), 301-306. doi:10.1159/000329803
+4.Assifi, M. M., Lu, X., Eibl, G., Reber, H. A., Li, G., & Hines, O. J. (2011). Neoadjuvant
+therapy in pancreatic adenocarcinoma: a meta-analysis of phase II trials. Surgery,
+150(3), 466-473. doi:10.1016/j.surg.2011.07.006
+5. Ballehaninna, U. K., & Chamberlain, R. S. (2012). The clinical utility of serum CA 19-9
+in the diagnosis, prognosis and management of pancreatic adenocarcinoma: An
+evidence
+ based
+ appraisal.
+ J
+ Gastrointest
+ Oncol,
+ 3(2),
+ 105-119.
+doi:10.3978/j.issn.2078-6891.2011.021
+6.Bartsch, D. K., Slater, E. P., Carrato, A., Ibrahim, I. S., Guillen-Ponce, C., Vasen, H. F.,
+. . . Gress, T. M. (2016). Refinement of screening for familial pancreatic cancer. Gut,
+65(8), 1314-1321. doi:10.1136/gutjnl-2015-311098
+7. Basturk, O., Hong, S. M., Wood, L. D., Adsay, N. V., Albores-Saavedra, J., Biankin, A.
+V., . . . Baltimore Consensus, M. (2015). A Revised Classification System and
+Recommendations From the Baltimore Consensus Meeting for Neoplastic Precursor
+Lesions in the Pancreas. Am J Surg Pathol, 39(12), 1730-1741.
+doi:10.1097/PAS.0000000000000533
+8.9.Bipat, S., Phoa, S. S., van Delden, O. M., Bossuyt, P. M., Gouma, D. J., Lameris, J. S.,
+& Stoker, J. (2005). Ultrasonography, computed tomography and magnetic resonance
+imaging for diagnosis and determining resectability of pancreatic adenocarcinoma: a
+meta-analysis. J Comput Assist Tomogr, 29(4), 438-445.
+Bockhorn, M., Uzunoglu, F. G., Adham, M., Imrie, C., Milicevic, M., Sandberg, A. A., .
+. . International Study Group of Pancreatic, S. (2014). Borderline resectable pancreatic
+cancer: a consensus statement by the International Study Group of Pancreatic Surgery
+(ISGPS). Surgery, 155(6), 977-988. doi:10.1016/j.surg.2014.02.001
+10. Bouvier, A. M., Uhry, Z., Jooste, V., Drouillard, A., Remontet, L., Launoy, G., . . . French
+Network of Cancer, R. (2017). Focus on an unusual rise in pancreatic cancer incidence
+in France. Int J Epidemiol, 46(6), 1764-1772. doi:10.1093/ije/dyx088
+11. Bramhall, S. R., Schulz, J., Nemunaitis, J., Brown, P. D., Baillet, M., & Buckels, J. A.
+(2002). A double-blind placebo-controlled, randomised study comparing gemcitabine
+and marimastat with gemcitabine and placebo as first line therapy in patients with
+advanced pancreatic cancer. Br J Cancer, 87(2), 161-167. doi:10.1038/sj.bjc.6600446
+12. Bria, E., Milella, M., Gelibter, A., Cuppone, F., Pino, M. S., Ruggeri, E. M., . . .
+Giannarelli, D. (2007). Gemcitabine-based combinations for inoperable pancreatic
+cancer: have we made real progress? A meta-analysis of 20 phase 3 trials. Cancer,
+110(3), 525-533. doi:10.1002/cncr.22809
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+35
+13. Brugge, W. R., De Witt, J., Klapman, J. B., Ashfaq, R., Shidham, V., Chhieng, D., . . .
+Staerkel, G. (2014). Techniques for cytologic sampling of pancreatic and bile duct
+lesions: The Papanicolaou Society of Cytopathology Guidelines. Cytojournal, 11(Suppl
+1), 2. doi:10.4103/1742-6413.133311
+14. Burris, H. A., 3rd, Moore, M. J., Andersen, J., Green, M. R., Rothenberg, M. L.,
+Modiano, M. R., . . . Von Hoff, D. D. (1997). Improvements in survival and clinical benefit
+with gemcitabine as first-line therapy for patients with advanced pancreas cancer: a
+randomized trial. J Clin Oncol, 15(6), 2403-2413.
+15. Canto, M. I., Harinck, F., Hruban, R. H., Offerhaus, G. J., Poley, J. W., Kamel, I., . . .
+International Cancer of Pancreas Screening, C. (2013). International Cancer of the
+Pancreas Screening (CAPS) Consortium summit on the management of patients with
+increased risk for familial pancreatic cancer. Gut, 62(3), 339-347. doi:10.1136/gutjnl-
+2012-303108
+16. Cassinotto, C., Mouries, A., Lafourcade, J. P., Terrebonne, E., Belleannee, G., Blanc,
+J. F., . . . Montaudon, M. (2014). Locally advanced pancreatic adenocarcinoma:
+reassessment of response with CT after neoadjuvant chemotherapy and radiation
+therapy. Radiology, 273(1), 108-116. doi:10.1148/radiol.14132914
+17. Catenacci, D. V., Junttila, M. R., Karrison, T., Bahary, N., Horiba, M. N., Nattam, S. R.,
+. . . Kindler, H. L. (2015). Randomized Phase Ib/II Study of Gemcitabine Plus Placebo
+or Vismodegib, a Hedgehog Pathway Inhibitor, in Patients With Metastatic Pancreatic
+Cancer. J Clin Oncol, 33(36), 4284-4292. doi:10.1200/JCO.2015.62.8719
+18. Chari, S. T., Leibson, C. L., Rabe, K. G., Ransom, J., de Andrade, M., & Petersen, G.
+M. (2005). Probability of pancreatic cancer following diabetes: a population-based
+study. Gastroenterology, 129(2), 504-511. doi:10.1016/j.gastro.2005.05.007
+19. Chauffert, B., Mornex, F., Bonnetain, F., Rougier, P., Mariette, C., Bouche, O., . . .
+Bedenne, L. (2008). Phase III trial comparing intensive induction chemoradiotherapy
+(60 Gy, infusional 5-FU and intermittent cisplatin) followed by maintenance gemcitabine
+with gemcitabine alone for locally advanced unresectable pancreatic cancer. Definitive
+results of the 2000-01 FFCD/SFRO study. Ann Oncol, 19(9), 1592-1599.
+doi:10.1093/annonc/mdn281
+20. Chen, L. T., Von Hoff, D. D., Li, C. P., Wang-Gillam, A., Bodoky, G., Dean, A. P., . . .
+Bayever, E. (2015). Expanded analyses of napoli-1: Phase 3 study of MM-398 (nal-
+IRI), with or without 5-fluorouracil and leucovorin, versus 5-fluorouracil and leucovorin,
+in metastatic pancreatic cancer (mPAC) previously treated with gemcitabine-based
+therapy. J Clin Oncol, 33(suppl 3), abstr #234.
+21. Chiorean, E. G., Von Hoff, D. D., Reni, M., Arena, F. P., Infante, J. R., Bathini, V. G., .
+. . Ko, A. (2016). CA19-9 decrease at 8 weeks as a predictor of overall survival in a
+randomized phase III trial (MPACT) of weekly nab-paclitaxel plus gemcitabine versus
+gemcitabine alone in patients with metastatic pancreatic cancer. Ann Oncol, 27(4), 654-
+660. doi:10.1093/annonc/mdw006
+22. Ciliberto, D., Botta, C., Correale, P., Rossi, M., Caraglia, M., Tassone, P., & Tagliaferri,
+P. (2013). Role of gemcitabine-based combination therapy in the management of
+advanced pancreatic cancer: a meta-analysis of randomised trials. Eur J Cancer, 49(3),
+593-603. doi:10.1016/j.ejca.2012.08.019
+23. Conroy, T., Desseigne, F., Ychou, M., Bouche, O., Guimbaud, R., Becouarn, Y., . . .
+Intergroup, P. (2011). FOLFIRINOX versus gemcitabine for metastatic pancreatic
+cancer. N Engl J Med, 364(19), 1817-1825. doi:10.1056/NEJMoa1011923
+24. Conroy, T., Gourgou, S., & Malka, D. (2017). Traitement adjuvant du cancer du
+pancréas : CAP ou pas CAP ? Hépato-Gastro & Oncologie Digestive, 24, 532-538.
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+36
+25. Conroy, T., Hammel, P., Hebbar, M., Abdelghani, M. B., Chia-chi Wei, A., Raoul, J. L.,
+. . . Bachet, J. B. (2018). Unicancer GI PRODIGE 24/CCTG PA.6 trial: A multicenter
+international randomized phase III trial of adjuvant mFOLFIRINOX versus gemcitabine
+(gem) in patients with resected pancreatic ductal adenocarcinomas. J Clin Oncol, 36
+suppl, abstr LBA4001.
+26. Corsini, M. M., Miller, R. C., Haddock, M. G., Donohue, J. H., Farnell, M. B., Nagorney,
+D. M., . . . Gunderson, L. L. (2008). Adjuvant radiotherapy and chemotherapy for
+pancreatic carcinoma: the Mayo Clinic experience (1975-2005). J Clin Oncol, 26(21),
+3511-3516. doi:10.1200/JCO.2007.15.8782
+27. Cowppli-Bony, A., Uhry, Z., Remontet, L., Guizard, A. V., Voirin, N., & Monnereau, A.
+(2016). Survie des personnes atteintes de cancer en France métropolitaine,
+28. 1989-2013. Partie 1 – Tumeurs solides – Synthèse. . Institut de veille sanitaire.
+29. Dahan, L., Bonnetain, F., Ychou, M., Mitry, E., Gasmi, M., Raoul, J. L., . . . Federation
+Francophone de Cancerologie, D. (2010). Combination 5-fluorouracil, folinic acid and
+cisplatin (LV5FU2-CDDP) followed by gemcitabine or the reverse sequence in
+metastatic pancreatic cancer: final results of a randomised strategic phase III trial
+(FFCD 0301). Gut, 59(11), 1527-1534. doi:10.1136/gut.2010.216135
+30. Dahan, L., Phelip, J. M., Le Malicot, K., Williet, N., Desrame, J., Volet, J., . . . Francois,
+E. (2018). FOLFIRINOX until progression, FOLFIRINOX with maintenance treatment,
+or sequential treatment with gemcitabine and FOLFIRI.3 for first-line treatment of
+metastatic pancreatic cancer: A randomized phase II trial (PRODIGE 35-
+PANOPTIMOX). J Clin Oncol, 36 suppl, abstr 4000.
+31. De Angelis, C., Brizzi, R. F., & Pellicano, R. (2013). Endoscopic ultrasonography for
+pancreatic cancer: current and future perspectives. J Gastrointest Oncol, 4(2), 220-
+230. doi:10.3978/j.issn.2078-6891.2013.002
+32. de Mestier, L., Danset, J. B., Neuzillet, C., Rebours, V., Cros, J., Soufir, N., & Hammel,
+P. (2016). Pancreatic ductal adenocarcinoma in BRCA2 mutation carriers. Endocr
+Relat Cancer, 23(10), T57-67. doi:10.1530/ERC-16-0269
+33. de Mestier, L., Védie, A. L., Salfati, D., Rebours, V., & Hammel, P. (2017). Cancer du
+pancréas : causes, formes génétiques et dépistage. Hépato-Gastro Oncol Dig, 24, 7-
+17. doi:doi:10.1684/hpg.2017.1445
+34. de Rooij, T., Sitarz, R., Busch, O. R., Besselink, M. G., & Abu Hilal, M. (2015). Technical
+Aspects of Laparoscopic Distal Pancreatectomy for Benign and Malignant Disease:
+Review of the Literature. Gastroenterol Res Pract, 2015, 472906.
+doi:10.1155/2015/472906
+35. Delpero, J. R., Bachellier, P., Regenet, N., Le Treut, Y. P., Paye, F., Carrere, N., . . .
+Boher, J. M. (2014). Pancreaticoduodenectomy for pancreatic ductal adenocarcinoma:
+a French multicentre prospective evaluation of resection margins in 150 evaluable
+specimens. HPB (Oxford), 16(1), 20-33. doi:10.1111/hpb.12061
+36. Delpero, J. R., Boher, J. M., Sauvanet, A., Le Treut, Y. P., Sa-Cunha, A., Mabrut, J. Y.,
+. . . Paye, F. (2015). Pancreatic adenocarcinoma with venous involvement: is up-front
+synchronous portal-superior mesenteric vein resection still justified? A survey of the
+association francaise de chirurgie. Ann Surg Oncol, 22(6), 1874-1883.
+doi:10.1245/s10434-014-4304-3
+37. Delpero, J. R., Jeune, F., Bachellier, P., Regenet, N., Le Treut, Y. P., Paye, F., . . .
+Boher, J. M. (2017). Prognostic Value of Resection Margin Involvement After
+Pancreaticoduodenectomy for Ductal Adenocarcinoma: Updates From a French
+Prospective
+ Multicenter
+ Study.
+ Ann
+ Surg,
+ 266(5),
+ 787-796.
+doi:10.1097/SLA.0000000000002432
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+37
+38. Delpero, J. R., Paye, F., & Bachellier, P. (2010). Cancer du Pancréas Monographies
+de l’Association Française de Chirurgie (Vol. 112e Congrès Français de Chirurgie ).
+Paris: Wolters Kluwer France.
+39. Diener, M. K., Fitzmaurice, C., Schwarzer, G., Seiler, C. M., Huttner, F. J., Antes, G., .
+. . Buchler, M. W. (2014). Pylorus-preserving pancreaticoduodenectomy (pp Whipple)
+versus pancreaticoduodenectomy (classic Whipple) for surgical treatment of
+periampullary and pancreatic carcinoma. Cochrane Database Syst Rev, 11,
+CD006053. doi:10.1002/14651858.CD006053.pub5
+40. Ducreux, M., Cuhna, A. S., Caramella, C., Hollebecque, A., Burtin, P., Goere, D., . . .
+Committee, E. G. (2015). Cancer of the pancreas: ESMO Clinical Practice Guidelines
+for diagnosis, treatment and follow-up. Ann Oncol, 26 Suppl 5, v56-68.
+doi:10.1093/annonc/mdv295
+41. Eshuis, W. J., Olde Loohuis, K. M., Busch, O. R., van Gulik, T. M., & Gouma, D. J.
+(2011). Influence of aberrant right hepatic artery on perioperative course and longterm
+survival after pancreatoduodenectomy. HPB (Oxford), 13(3), 161-167.
+doi:10.1111/j.1477-2574.2010.00258.x
+42. Eshuis, W. J., van der Gaag, N. A., Rauws, E. A., van Eijck, C. H., Bruno, M. J., Kuipers,
+E. J., . . . Gouma, D. J. (2010). Therapeutic delay and survival after surgery for cancer
+of the pancreatic head with or without preoperative biliary drainage. Ann Surg, 252(5),
+840-849. doi:10.1097/SLA.0b013e3181fd36a2
+43. European Study Group on Cystic Tumours of the, P. (2018). European evidence-based
+guidelines on pancreatic cystic neoplasms. Gut, 67(5), 789-804. doi:10.1136/gutjnl-
+2018-316027
+44. Farge, D., Bounameaux, H., Brenner, B., Cajfinger, F., Debourdeau, P., Khorana, A.
+A., . . . Kakkar, A. (2016). International clinical practice guidelines including guidance
+for direct oral anticoagulants in the treatment and prophylaxis of venous
+thromboembolism in patients with cancer. Lancet Oncol, 17(10), e452-e466.
+doi:10.1016/S1470-2045(16)30369-2
+45. Farges, O., Bendersky, N., Truant, S., Delpero, J. R., Pruvot, F. R., & Sauvanet, A.
+(2017). The Theory and Practice of Pancreatic Surgery in France. Ann Surg, 266(5),
+797-804. doi:10.1097/SLA.0000000000002399
+46. Ferlay, J., Partensky, C., & Bray, F. (2016). More deaths from pancreatic cancer than
+breast cancer in the EU by 2017. Acta Oncol, 55(9-10), 1158-1160.
+doi:10.1080/0284186X.2016.1197419
+47. Ferrone, C. R., Marchegiani, G., Hong, T. S., Ryan, D. P., Deshpande, V., McDonnell,
+E. I., . . . Fernandez-del Castillo, C. (2015). Radiological and surgical implications of
+neoadjuvant treatment with FOLFIRINOX for locally advanced and borderline
+resectable
+ pancreatic
+ cancer.
+ Ann
+ Surg,
+ 261(1),
+ 12-17.
+doi:10.1097/SLA.0000000000000867
+48. Fong, Z. V., Alvino, D. M. L., Fernandez-Del Castillo, C., Mehtsun, W. T., Pergolini, I.,
+Warshaw, A. L., . . . Ferrone, C. R. (2017). Reappraisal of Staging Laparoscopy for
+Patients with Pancreatic Adenocarcinoma: A Contemporary Analysis of 1001 Patients.
+Ann Surg Oncol, 24(11), 3203-3211. doi:10.1245/s10434-017-5973-5
+49. Fuchs, C. S., Azevedo, S., Okusaka, T., Van Laethem, J. L., Lipton, L. R., Riess, H., .
+. . Carrato, A. (2015). A phase 3 randomized, double-blind, placebo-controlled trial of
+ganitumab or placebo in combination with gemcitabine as first-line therapy for
+metastatic adenocarcinoma of the pancreas: the GAMMA trial. Ann Oncol, 26(5), 921-
+927. doi:10.1093/annonc/mdv027
+50. Ghaneh, P., Hanson, R., Titman, A., Lancaster, G., Plumpton, C., Lloyd-Williams, H., .
+. . Neoptolemos, J. P. (2018). PET-PANC: multicentre prospective diagnostic accuracy
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+38
+and health economic analysis study of the impact of combined modality 18fluorine-2-
+fluoro-2-deoxy-d-glucose positron emission tomography with computed tomography
+scanning in the diagnosis and management of pancreatic cancer. Health Technol
+Assess, 22(7), 1-114. doi:10.3310/hta22070
+51. Gill, S., Ko, Y. J., Cripps, C., Beaudoin, A., Dhesy-Thind, S., Zulfiqar, M., . . . Moore,
+M. (2016). PANCREOX: A Randomized Phase III Study of 5-Fluorouracil/Leucovorin
+With or Without Oxaliplatin for Second-Line Advanced Pancreatic Cancer in Patients
+Who Have Received Gemcitabine-Based Chemotherapy. J Clin Oncol.
+doi:10.1200/JCO.2016.68.5776
+52. Gillen, S., Schuster, T., Meyer Zum Buschenfelde, C., Friess, H., & Kleeff, J. (2010).
+Preoperative/neoadjuvant therapy in pancreatic cancer: a systematic review and meta-
+analysis of response and resection percentages. PLoS Med, 7(4), e1000267.
+doi:10.1371/journal.pmed.1000267
+53. Glant, J. A., Waters, J. A., House, M. G., Zyromski, N. J., Nakeeb, A., Pitt, H. A., . . .
+Schmidt, C. M. (2011). Does the interval from imaging to operation affect the rate of
+unanticipated
+ metastasis
+ encountered
+ during
+ operation
+ for
+ pancreatic
+adenocarcinoma? Surgery, 150(4), 607-616. doi:10.1016/j.surg.2011.07.048
+54. Goncalves, A., Gilabert, M., Francois, E., Dahan, L., Perrier, H., Lamy, R., . . . Raoul,
+J. L. (2012). BAYPAN study: a double-blind phase III randomized trial comparing
+gemcitabine plus sorafenib and gemcitabine plus placebo in patients with advanced
+pancreatic cancer. Ann Oncol, 23(11), 2799-2805. doi:10.1093/annonc/mds135
+55. Gourgou-Bourgade, S., Bascoul-Mollevi, C., Desseigne, F., Ychou, M., Bouche, O.,
+Guimbaud, R., . . . Conroy, T. (2013). Impact of FOLFIRINOX compared with
+gemcitabine on quality of life in patients with metastatic pancreatic cancer: results from
+the PRODIGE 4/ACCORD 11 randomized trial. J Clin Oncol, 31(1), 23-29.
+doi:10.1200/JCO.2012.44.4869
+56. Greenhalf, W., Ghaneh, P., Neoptolemos, J. P., Palmer, D. H., Cox, T. F., Lamb, R. F.,
+. . . European Study Group for Pancreatic, C. (2014). Pancreatic cancer hENT1
+expression and survival from gemcitabine in patients from the ESPAC-3 trial. J Natl
+Cancer Inst, 106(1), djt347. doi:10.1093/jnci/djt347
+57. Hackert, T., Probst, P., Knebel, P., Doerr-Harim, C., Bruckner, T., Klaiber, U., . . .
+Buchler, M. W. (2017). Pylorus Resection Does Not Reduce Delayed Gastric Emptying
+After Partial Pancreatoduodenectomy: A Blinded Randomized Controlled Trial
+(PROPP Study, DRKS00004191). Ann Surg. doi:10.1097/SLA.0000000000002480
+58. Hammel, P., Huguet, F., van Laethem, J. L., Goldstein, D., Glimelius, B., Artru, P., . . .
+Group, L. A. P. T. (2016). Effect of Chemoradiotherapy vs Chemotherapy on Survival
+in Patients With Locally Advanced Pancreatic Cancer Controlled After 4 Months of
+Gemcitabine With or Without Erlotinib: The LAP07 Randomized Clinical Trial. JAMA,
+315(17), 1844-1853. doi:10.1001/jama.2016.4324
+59. Harder, J., Ihorst, G., Heinemann, V., Hofheinz, R., Moehler, M., Buechler, P., . . .
+Geissler, M. (2012). Multicentre phase II trial of trastuzumab and capecitabine in
+patients with HER2 overexpressing metastatic pancreatic cancer. Br J Cancer, 106(6),
+1033-1038. doi:10.1038/bjc.2012.18
+60. Hart, P. A., Bellin, M. D., Andersen, D. K., Bradley, D., Cruz-Monserrate, Z., Forsmark,
+C. E., . . . Pancreatic, C. (2016). Type 3c (pancreatogenic) diabetes mellitus secondary
+to chronic pancreatitis and pancreatic cancer. Lancet Gastroenterol Hepatol, 1(3), 226-
+237. doi:10.1016/S2468-1253(16)30106-6
+61. Heinemann, V., Boeck, S., Hinke, A., Labianca, R., & Louvet, C. (2008). Meta-analysis
+of randomized trials: evaluation of benefit from gemcitabine-based combination
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+39
+chemotherapy applied in advanced pancreatic cancer. BMC Cancer, 8, 82.
+doi:10.1186/1471-2407-8-82
+62. Hishinuma, S., Ogata, Y., Tomikawa, M., Ozawa, I., Hirabayashi, K., & Igarashi, S.
+(2006). Patterns of recurrence after curative resection of pancreatic cancer, based on
+autopsy
+ findings.
+ J
+ Gastrointest
+ Surg,
+ 10(4),
+ 511-518.
+doi:10.1016/j.gassur.2005.09.016
+63. Hsu, C. C., Herman, J. M., Corsini, M. M., Winter, J. M., Callister, M. D., Haddock, M.
+G., . . . Miller, R. C. (2010). Adjuvant chemoradiation for pancreatic adenocarcinoma:
+the Johns Hopkins Hospital-Mayo Clinic collaborative study. Ann Surg Oncol, 17(4),
+981-990. doi:10.1245/s10434-009-0743-7
+64. Huang, Z., & Liu, F. (2014). Diagnostic value of serum carbohydrate antigen 19-9 in
+pancreatic cancer: a meta-analysis. Tumour Biol, 35(8), 7459-7465.
+doi:10.1007/s13277-014-1995-9
+65. Huguet, F., Andre, T., Hammel, P., Artru, P., Balosso, J., Selle, F., . . . Louvet, C.
+(2007). Impact of chemoradiotherapy after disease control with chemotherapy in locally
+advanced pancreatic adenocarcinoma in GERCOR phase II and III studies. J Clin
+Oncol, 25(3), 326-331. doi:10.1200/JCO.2006.07.5663
+66. Huguet, F., Hammel, P., Vernerey, D., Goldstein, D., van Laethem, J. L., Glimelius, B.,
+. . . Louvet, C. (2014). Impact of chemoradiotherapy (CRT) on local control and time
+without treatment in patients with locally advanced pancreatic cancer (LAPC) included
+in the international phase III LAP 07 study. J Clin Oncol, 32(suppl), abstr 4001.
+67. Huguet, F., Mornex, F., & Orthuon, A. (2016). Radiothérapie des cancers du pancréas.
+Cancer Radiother, 20 Suppl, S169-173.
+68. Kalser, M. H., Barkin, J., & MacIntyre, J. M. (1985). Pancreatic cancer. Assessment of
+prognosis by clinical presentation. Cancer, 56(2), 397-402.
+69. Kamarajah, S. K., Burns, W. R., Frankel, T. L., Cho, C. S., & Nathan, H. (2017).
+Validation of the American Joint Commission on Cancer (AJCC) 8th Edition Staging
+System for Patients with Pancreatic Adenocarcinoma: A Surveillance, Epidemiology
+and End Results (SEER) Analysis. Ann Surg Oncol, 24(7), 2023-2030.
+doi:10.1245/s10434-017-5810-x
+70. Katz, M. H., Shi, Q., Ahmad, S. A., Herman, J. M., Marsh Rde, W., Collisson, E., . . .
+Venook, A. P. (2016). Preoperative Modified FOLFIRINOX Treatment Followed by
+Capecitabine-Based Chemoradiation for Borderline Resectable Pancreatic Cancer:
+Alliance for Clinical Trials in Oncology Trial A021101. JAMA Surg, 151(8), e161137.
+doi:10.1001/jamasurg.2016.1137
+71. Khorana, A. A., Carrier, M., Garcia, D. A., & Lee, A. Y. (2016). Guidance for the
+prevention and treatment of cancer-associated venous thromboembolism. J Thromb
+Thrombolysis, 41(1), 81-91. doi:10.1007/s11239-015-1313-4
+72. Kim, Y. E., Park, M. S., Hong, H. S., Kang, C. M., Choi, J. Y., Lim, J. S., . . . Kim, K. W.
+(2009). Effects of neoadjuvant combined chemotherapy and radiation therapy on the
+CT evaluation of resectability and staging in patients with pancreatic head cancer.
+Radiology, 250(3), 758-765. doi:10.1148/radiol.2502080501
+73. Kindler, H. L., Ioka, T., Richel, D. J., Bennouna, J., Letourneau, R., Okusaka, T., . . .
+Van Cutsem, E. (2011). Axitinib plus gemcitabine versus placebo plus gemcitabine in
+patients with advanced pancreatic adenocarcinoma: a double-blind randomised phase
+3 study. Lancet Oncol, 12(3), 256-262. doi:10.1016/S1470-2045(11)70004-3
+74. Kindler, H. L., Niedzwiecki, D., Hollis, D., Sutherland, S., Schrag, D., Hurwitz, H., . . .
+Goldberg, R. M. (2010). Gemcitabine plus bevacizumab compared with gemcitabine
+plus placebo in patients with advanced pancreatic cancer: phase III trial of the Cancer
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+40
+and Leukemia Group B (CALGB 80303). J Clin Oncol, 28(22), 3617-3622.
+doi:10.1200/JCO.2010.28.1386
+75. Klinkenbijl, J. H., Jeekel, J., Sahmoud, T., van Pel, R., Couvreur, M. L., Veenhof, C. H.,
+. . . Wils, J. (1999). Adjuvant radiotherapy and 5-fluorouracil after curative resection of
+cancer of the pancreas and periampullary region: phase III trial of the EORTC
+gastrointestinal tract cancer cooperative group. Ann Surg, 230(6), 776-782; discussion
+782-774.
+76. Krishnan, S., Rana, V., Janjan, N. A., Varadhachary, G. R., Abbruzzese, J. L., Das, P.,
+. . . Crane, C. H. (2007). Induction chemotherapy selects patients with locally advanced,
+unresectable pancreatic cancer for optimal benefit from consolidative chemoradiation
+therapy. Cancer, 110(1), 47-55. doi:10.1002/cncr.22735
+77. Lee, M. G., Lee, S. H., Lee, S. J., Lee, Y. S., Hwang, J. H., Ryu, J. K., . . . Woo, S. M.
+(2013). 5-Fluorouracil/leucovorin combined with irinotecan and oxaliplatin
+(FOLFIRINOX) as second-line chemotherapy in patients with advanced pancreatic
+cancer who have progressed on gemcitabine-based therapy. Chemotherapy, 59(4),
+273-279. doi:10.1159/000356158
+78. Lennon, A. M., Wolfgang, C. L., Canto, M. I., Klein, A. P., Herman, J. M., Goggins, M.,
+. . . Hruban, R. H. (2014). The early detection of pancreatic cancer: what will it take to
+diagnose and treat curable pancreatic neoplasia? Cancer Res, 74(13), 3381-3389.
+doi:10.1158/0008-5472.CAN-14-0734
+79. Liu, Z., Luo, G., Guo, M., Jin, K., Xiao, Z., Liu, L., . . . Yu, X. (2015). Lymph node status
+predicts the benefit of adjuvant chemoradiotherapy for patients with resected
+pancreatic cancer. Pancreatology, 15(3), 253-258. doi:10.1016/j.pan.2015.03.012
+80. Loehrer, P. J., Sr., Feng, Y., Cardenes, H., Wagner, L., Brell, J. M., Cella, D., . . .
+Benson, A. B., 3rd. (2011). Gemcitabine alone versus gemcitabine plus radiotherapy
+in patients with locally advanced pancreatic cancer: an Eastern Cooperative Oncology
+Group trial. J Clin Oncol, 29(31), 4105-4112. doi:10.1200/JCO.2011.34.8904
+81. Lutz, M. P., Zalcberg, J. R., Ducreux, M., Aust, D., Bruno, M. J., Buchler, M. W., . . .
+Otto, F. (2017). 3rd St. Gallen EORTC Gastrointestinal Cancer Conference:
+Consensus recommendations on controversial issues in the primary treatment of
+pancreatic cancer. Eur J Cancer, 79, 41-49. doi:10.1016/j.ejca.2017.03.022
+82. Mahaseth, H., Brutcher, E., Kauh, J., Hawk, N., Kim, S., Chen, Z., . . . El-Rayes, B. F.
+(2013). Modified FOLFIRINOX regimen with improved safety and maintained efficacy
+in
+ pancreatic
+ adenocarcinoma.
+ Pancreas,
+ 42(8),
+ 1311-1315.
+doi:10.1097/MPA.0b013e31829e2006
+83. Maithel, S. K., Maloney, S., Winston, C., Gonen, M., D'Angelica, M. I., Dematteo, R. P.,
+. . . Allen, P. J. (2008). Preoperative CA 19-9 and the yield of staging laparoscopy in
+patients with radiographically resectable pancreatic adenocarcinoma. Ann Surg Oncol,
+15(12), 3512-3520. doi:10.1245/s10434-008-0134-5
+84. Malleo, G., Maggino, L., Ferrone, C. R., Marchegiani, G., Mino-Kenudson, M., Capelli,
+P., . . . Salvia, R. (2018). Number of Examined Lymph Nodes and Nodal Status
+Assessment in Distal Pancreatectomy for Body/Tail Ductal Adenocarcinoma. Ann Surg.
+doi:10.1097/SLA.0000000000002781
+85. Marion-Audibert, A. M., Mabrut, J. Y., Zins, M., Sauvanet, A., Souquet, J. C., Sa Cuhna,
+A., . . . Rode, A. (2014). Intérêt de l'IRM de diffusion dans le bilan préthérapeutique de
+l'adénocarcinome pancréatique potentiellement résécable. Journées Francophones
+d'Hépato-Gastroenterologie et d'Oncologie Digestive, abstr P135.
+86. Marthey, L., Sa-Cunha, A., Blanc, J. F., Gauthier, M., Cueff, A., Francois, E., . . . Taïeb,
+J. (2015). FOLFIRINOX for locally advanced pancreatic adenocarcinoma: results of an
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+41
+AGEO multicenter prospective observational cohort. Ann Surg Oncol, 22(1), 295-301.
+doi:10.1245/s10434-014-3898-9
+87. Martin, R. C., 2nd, Scoggins, C. R., Egnatashvili, V., Staley, C. A., McMasters, K. M.,
+& Kooby, D. A. (2009). Arterial and venous resection for pancreatic adenocarcinoma:
+operative
+ and
+ long-term
+ outcomes.
+ Arch
+ Surg,
+ 144(2),
+ 154-159.
+doi:10.1001/archsurg.2008.547
+88. McDonald, A. M., Dulaney, C. R., Lopez-Araujo, J., Posey, J. A., Keene, K. S.,
+Christein, J. D., . . . Jacob, R. (2015). Patterns of Failure for Lymph Node-Positive
+Resected Pancreatic Adenocarcinoma After Adjuvant Radiotherapy or Gemcitabine-
+based Chemotherapy Alone. J Gastrointest Cancer, 46(2), 149-155.
+doi:10.1007/s12029-015-9702-7
+89. Modolell, I., Guarner, L., & Malagelada, J. R. (1999). Vagaries of clinical presentation
+of pancreatic and biliary tract cancer. Ann Oncol, 10 Suppl 4, 82-84.
+90. Moore, M. J., Goldstein, D., Hamm, J., Figer, A., Hecht, J. R., Gallinger, S., . . . National
+Cancer Institute of Canada Clinical Trials, G. (2007). Erlotinib plus gemcitabine
+compared with gemcitabine alone in patients with advanced pancreatic cancer: a phase
+III trial of the National Cancer Institute of Canada Clinical Trials Group. J Clin Oncol,
+25(15), 1960-1966. doi:10.1200/JCO.2006.07.9525
+91. Moutardier, V., Giovannini, M., Magnin, V., Viret, F., Lelong, B., & Delpero, J. R. (2004).
+[How to improve treatment of resectable pancreatic adenocarcinomas? Surgical
+resection, histopathological examination, adjuvant therapies]. Gastroenterol Clin Biol,
+28(11), 1083-1091.
+92. Mukherjee, S., Hurt, C. N., Bridgewater, J., Falk, S., Cummins, S., Wasan, H., . . .
+Maughan, T. (2013). Gemcitabine-based or capecitabine-based chemoradiotherapy for
+locally advanced pancreatic cancer (SCALOP): a multicentre, randomised, phase 2
+trial. Lancet Oncol, 14(4), 317-326. doi:10.1016/S1470-2045(13)70021-4
+93. Neoptolemos, J. P., Dunn, J. A., Stocken, D. D., Almond, J., Link, K., Beger, H., . . .
+European Study Group for Pancreatic, C. (2001). Adjuvant chemoradiotherapy and
+chemotherapy in resectable pancreatic cancer: a randomised controlled trial. Lancet,
+358(9293), 1576-1585.
+94. Neoptolemos, J. P., Palmer, D. H., Ghaneh, P., Psarelli, E. E., Valle, J. W., Halloran,
+C. M., . . . European Study Group for Pancreatic, C. (2017). Comparison of adjuvant
+gemcitabine and capecitabine with gemcitabine monotherapy in patients with resected
+pancreatic cancer (ESPAC-4): a multicentre, open-label, randomised, phase 3 trial.
+Lancet, 389(10073), 1011-1024. doi:10.1016/S0140-6736(16)32409-6
+95. Neoptolemos, J. P., Stocken, D. D., Bassi, C., Ghaneh, P., Cunningham, D., Goldstein,
+D., . . . European Study Group for Pancreatic, C. (2010). Adjuvant chemotherapy with
+fluorouracil plus folinic acid vs gemcitabine following pancreatic cancer resection: a
+randomized controlled trial. JAMA, 304(10), 1073-1081. doi:10.1001/jama.2010.1275
+96. Neoptolemos, J. P., Stocken, D. D., Friess, H., Bassi, C., Dunn, J. A., Hickey, H., . . .
+European Study Group for Pancreatic, C. (2004). A randomized trial of
+chemoradiotherapy and chemotherapy after resection of pancreatic cancer. N Engl J
+Med, 350(12), 1200-1210. doi:10.1056/NEJMoa032295
+97. Neuzillet, C., Hentic, O., Rousseau, B., Rebours, V., Bengrine-Lefevre, L., Bonnetain,
+F., . . . Hammel, P. (2012). FOLFIRI regimen in metastatic pancreatic adenocarcinoma
+resistant to gemcitabine and platinum-salts. World J Gastroenterol, 18(33), 4533-4541.
+doi:10.3748/wjg.v18.i33.4533
+98. Neuzillet, C., Sauvanet, A., & Hammel, P. (2011). Prognostic factors for resectable
+pancreatic
+ adenocarcinoma.
+ J
+ Visc
+ Surg,
+ 148(4),
+ e232-243.
+doi:10.1016/j.jviscsurg.2011.07.007
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+42
+99. Ni, X. G., Bai, X. F., Mao, Y. L., Shao, Y. F., Wu, J. X., Shan, Y., . . . Zhao, P. (2005).
+The clinical value of serum CEA, CA19-9, and CA242 in the diagnosis and prognosis
+of pancreatic cancer. Eur J Surg Oncol, 31(2), 164-169. doi:10.1016/j.ejso.2004.09.007
+100.
+ Nimptsch, U., Krautz, C., Weber, G. F., Mansky, T., & Grutzmann, R. (2016).
+Nationwide In-hospital Mortality Following Pancreatic Surgery in Germany is Higher
+than Anticipated. Ann Surg, 264(6), 1082-1090. doi:10.1097/SLA.0000000000001693
+101.
+ Nouts, A., Levy, P., Voitot, H., & Bernades, P. (1998). [Diagnostic value of
+serum Ca 19-9 antigen in chronic pancreatitis and pancreatic adenocarcinoma].
+Gastroenterol Clin Biol, 22(2), 152-159.
+102.
+ Oettle, H., Neuhaus, P., Hochhaus, A., Hartmann, J. T., Gellert, K., Ridwelski,
+K., . . . Riess, H. (2013). Adjuvant chemotherapy with gemcitabine and long-term
+outcomes among patients with resected pancreatic cancer: the CONKO-001
+randomized trial. JAMA, 310(14), 1473-1481. doi:10.1001/jama.2013.279201
+103.
+ Oettle, H., Riess, H., Stieler, J. M., Heil, G., Schwaner, I., Seraphin, J., . . .
+Pelzer, U. (2014). Second-line oxaliplatin, folinic acid, and fluorouracil versus folinic
+acid and fluorouracil alone for gemcitabine-refractory pancreatic cancer: outcomes
+from
+ the
+ CONKO-003
+ trial.
+ J
+ Clin
+ Oncol,
+ 32(23),
+ 2423-2429.
+doi:10.1200/JCO.2013.53.6995
+104.
+ Okasha, H. H., Naga, M. I., Esmat, S., Naguib, M., Hassanein, M., Hassani, M.,
+. . . Foda, A. M. (2013). Endoscopic Ultrasound-Guided Fine Needle Aspiration versus
+Percutaneous Ultrasound-Guided Fine Needle Aspiration in Diagnosis of Focal
+Pancreatic Masses. Endosc Ultrasound, 2(4), 190-193. doi:10.4103/2303-
+9027.121239
+105.
+ Pelzer, U., Opitz, B., Deutschinoff, G., Stauch, M., Reitzig, P. C., Hahnfeld, S.,
+. . . Riess, H. (2015). Efficacy of Prophylactic Low-Molecular Weight Heparin for
+Ambulatory Patients With Advanced Pancreatic Cancer: Outcomes From the CONKO-
+004 Trial. J Clin Oncol, 33(18), 2028-2034. doi:10.1200/JCO.2014.55.1481
+106.
+ Petrelli, F., Coinu, A., Borgonovo, K., Cabiddu, M., Ghilardi, M., Lonati, V., . . .
+Gruppo Italiano per lo Studio dei Carcinomi dell'Apparato, D. (2015). FOLFIRINOX-
+Based Neoadjuvant Therapy in Borderline Resectable or Unresectable Pancreatic
+Cancer: A Meta-Analytical Review of Published Studies. Pancreas, 44(4), 515-521.
+doi:10.1097/MPA.0000000000000314
+107.
+ Philip, P. A., Benedetti, J., Corless, C. L., Wong, R., O'Reilly, E. M., Flynn, P.
+J., . . . Blanke, C. D. (2010). Phase III study comparing gemcitabine plus cetuximab
+versus gemcitabine in patients with advanced pancreatic adenocarcinoma: Southwest
+Oncology Group-directed intergroup trial S0205. J Clin Oncol, 28(22), 3605-3610.
+doi:10.1200/JCO.2009.25.7550
+108.
+ Philip, P. A., Goldman, B., Ramanathan, R. K., Lenz, H. J., Lowy, A. M.,
+Whitehead, R. P., . . . Blanke, C. D. (2014). Dual blockade of epidermal growth factor
+receptor and insulin-like growth factor receptor-1 signaling in metastatic pancreatic
+cancer: phase Ib and randomized phase II trial of gemcitabine, erlotinib, and
+cixutumumab versus gemcitabine plus erlotinib (SWOG S0727). Cancer, 120(19),
+2980-2985. doi:10.1002/cncr.28744
+109.
+ Pietrasz, D., Marthey, L., Wagner, M., Blanc, J. F., Laurent, C., Turrini, O., . . .
+Bachet, J. B. (2015). Pathologic Major Response After FOLFIRINOX is Prognostic for
+Patients Secondary Resected for Borderline or Locally Advanced Pancreatic
+Adenocarcinoma: An AGEO-FRENCH, Prospective, Multicentric Cohort. Ann Surg
+Oncol, 22 Suppl 3, S1196-1205. doi:10.1245/s10434-015-4783-x
+110.
+ Poplin, E., Feng, Y., Berlin, J., Rothenberg, M. L., Hochster, H., Mitchell, E., . .
+. Benson, A. B., 3rd. (2009). Phase III, randomized study of gemcitabine and oxaliplatin
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+43
+versus gemcitabine (fixed-dose rate infusion) compared with gemcitabine (30-minute
+infusion) in patients with pancreatic carcinoma E6201: a trial of the Eastern
+Cooperative
+ Oncology
+ Group.
+ J
+ Clin
+ Oncol,
+ 27(23),
+ 3778-3785.
+doi:10.1200/JCO.2008.20.9007
+111.
+ Poplin, E., Wasan, H., Rolfe, L., Raponi, M., Ikdahl, T., Bondarenko, I., . . . Allen,
+A. (2013). Randomized, multicenter, phase II study of CO-101 versus gemcitabine in
+patients with metastatic pancreatic ductal adenocarcinoma: including a prospective
+evaluation of the role of hENT1 in gemcitabine or CO-101 sensitivity. J Clin Oncol,
+31(35), 4453-4461. doi:10.1200/JCO.2013.51.0826
+112.
+ Portal, A., Arbaud, C., Bachet, J. B., Bonnetain, F., Dahan, L., Dreanic, J., . . .
+de la Fouchardière, C. (2015). Gemcitabine et nab-paclitaxel en 2ème ligne de
+chimiothérapie palliative après FOLFIRINOX chez des patients atteints d’un
+adénocarcinome du pancréas métastatique : cohorte prospective multicentrique de
+l’AGEO. Journées Francophones d'Hépato-Gastroenterologie et d'Oncologie
+Digestive, abstr P256.
+113.
+ Poruk, K. E., Gay, D. Z., Brown, K., Mulvihill, J. D., Boucher, K. M., Scaife, C.
+L., . . . Mulvihill, S. J. (2013). The clinical utility of CA 19-9 in pancreatic
+adenocarcinoma: diagnostic and prognostic updates. Curr Mol Med, 13(3), 340-351.
+114.
+ Rahib, L., Smith, B. D., Aizenberg, R., Rosenzweig, A. B., Fleshman, J. M., &
+Matrisian, L. M. (2014). Projecting cancer incidence and deaths to 2030: the
+unexpected burden of thyroid, liver, and pancreas cancers in the United States. Cancer
+Res, 74(11), 2913-2921. doi:10.1158/0008-5472.CAN-14-0155
+115.
+ Raman, S. P., Reddy, S., Weiss, M. J., Manos, L. L., Cameron, J. L., Zheng, L.,
+. . . Wolfgang, C. L. (2015). Impact of the time interval between MDCT imaging and
+surgery on the accuracy of identifying metastatic disease in patients with pancreatic
+cancer. AJR Am J Roentgenol, 204(1), W37-42. doi:10.2214/AJR.13.12439
+116.
+ Rijkers, A. P., Valkema, R., Duivenvoorden, H. J., & van Eijck, C. H. (2014).
+Usefulness of F-18-fluorodeoxyglucose positron emission tomography to confirm
+suspected pancreatic cancer: a meta-analysis. Eur J Surg Oncol, 40(7), 794-804.
+doi:10.1016/j.ejso.2014.03.016
+117.
+ Rinehart, J., Adjei, A. A., Lorusso, P. M., Waterhouse, D., Hecht, J. R., Natale,
+R. B., . . . Meyer, M. B. (2004). Multicenter phase II study of the oral MEK inhibitor, CI-
+1040, in patients with advanced non-small-cell lung, breast, colon, and pancreatic
+cancer. J Clin Oncol, 22(22), 4456-4462. doi:10.1200/JCO.2004.01.185
+118.
+ Rougier, P., Riess, H., Manges, R., Karasek, P., Humblet, Y., Barone, C., . . .
+Philip, P. A. (2013). Randomised, placebo-controlled, double-blind, parallel-group
+phase III study evaluating aflibercept in patients receiving first-line treatment with
+gemcitabine for metastatic pancreatic cancer. Eur J Cancer, 49(12), 2633-2642.
+doi:10.1016/j.ejca.2013.04.002
+119.
+ Ryan, D. P., Hong, T. S., & Bardeesy, N. (2014). Pancreatic adenocarcinoma.
+N Engl J Med, 371(22), 2140-2141. doi:10.1056/NEJMc1412266
+120.
+ Safran, H., Miner, T., Bahary, N., Whiting, S., Lopez, C. D., Sun, W., . . . Sio, T.
+(2011). Lapatinib and gemcitabine for metastatic pancreatic cancer. A phase II study.
+Am J Clin Oncol, 34(1), 50-52.
+121.
+ Sanjeevi, S., Ivanics, T., Lundell, L., Kartalis, N., Andren-Sandberg, A.,
+Blomberg, J., . . . Ansorge, C. (2016). Impact of delay between imaging and treatment
+in patients with potentially curable pancreatic cancer. Br J Surg, 103(3), 267-275.
+doi:10.1002/bjs.10046
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+44
+122.
+ Schwarz, L., Lupinacci, R. M., Svrcek, M., Lesurtel, M., Bubenheim, M.,
+Vuarnesson, H., . . . Paye, F. (2014). Para-aortic lymph node sampling in pancreatic
+head adenocarcinoma. Br J Surg, 101(5), 530-538. doi:10.1002/bjs.9444
+123.
+ Seufferlein, T., Bachet, J. B., Van Cutsem, E., Rougier, P., & Group, E. G. W.
+(2012). Pancreatic adenocarcinoma: ESMO-ESDO Clinical Practice Guidelines for
+diagnosis, treatment and follow-up. Ann Oncol, 23 Suppl 7, vii33-40.
+doi:10.1093/annonc/mds224
+124.
+ Shindo, K., Yu, J., Suenaga, M., Fesharakizadeh, S., Cho, C., Macgregor-Das,
+A., . . . Goggins, M. (2017). Deleterious Germline Mutations in Patients With Apparently
+Sporadic Pancreatic Adenocarcinoma. J Clin Oncol, 35(30), 3382-3390.
+doi:10.1200/JCO.2017.72.3502
+125.
+ Sinn, M., Bahra, M., Liersch, T., Gellert, K., Messmann, H., Bechstein, W., . . .
+Riess, H. (2017). CONKO-005: Adjuvant Chemotherapy With Gemcitabine Plus
+Erlotinib Versus Gemcitabine Alone in Patients After R0 Resection of Pancreatic
+Cancer: A Multicenter Randomized Phase III Trial. J Clin Oncol, 35(29), 3330-3337.
+doi:10.1200/JCO.2017.72.6463
+126.
+ Sinn, M., Liersch, T., Riess, H., Gellert, K., Stübs, P., Waldschmidt, D. T., . . .
+Oettle, H. (2014). LBA18 - CONKO-006: A randomized double-blinded phase IIb-study
+of adjuvant therapy with gemcitabine + sorafenib/placebo for patients with R1-resection
+of pancreatic cancer. Ann Oncol, 25(5).
+127.
+ Stocken, D. D., Buchler, M. W., Dervenis, C., Bassi, C., Jeekel, H., Klinkenbijl,
+J. H., . . . Pancreatic Cancer Meta-analysis, G. (2005). Meta-analysis of randomised
+adjuvant therapy trials for pancreatic cancer. Br J Cancer, 92(8), 1372-1381.
+doi:10.1038/sj.bjc.6602513
+128.
+ Strobel, O., Hartwig, W., Hackert, T., Hinz, U., Berens, V., Grenacher, L., . . .
+Werner, J. (2013). Re-resection for isolated local recurrence of pancreatic cancer is
+feasible, safe, and associated with encouraging survival. Ann Surg Oncol, 20(3), 964-
+972. doi:10.1245/s10434-012-2762-z
+129.
+ Suker, M., Beumer, B. R., Sadot, E., Marthey, L., Faris, J. E., Mellon, E. A., . . .
+Koerkamp, B. G. (2016). FOLFIRINOX for locally advanced pancreatic cancer: a
+systematic review and patient-level meta-analysis. Lancet Oncol, 17(6), 801-810.
+doi:10.1016/S1470-2045(16)00172-8
+130.
+ Sulpice, L., Rayar, M., Paquet, C., Bergeat, D., Merdrignac, A., Cunin, D., . . .
+Boudjema, K. (2013). Does an aberrant right hepatic artery really influence the short-
+and long-term results of a pancreaticoduodenectomy for malignant disease? A
+matched
+ case-controlled
+ study.
+ J
+ Surg
+ Res,
+ 185(2),
+ 620-625.
+doi:10.1016/j.jss.2013.07.015
+131.
+ Sultana, A., Smith, C. T., Cunningham, D., Starling, N., Neoptolemos, J. P., &
+Ghaneh, P. (2007). Meta-analyses of chemotherapy for locally advanced and
+metastatic
+ pancreatic
+ cancer.
+ J
+ Clin
+ Oncol,
+ 25(18),
+ 2607-2615.
+doi:10.1200/JCO.2006.09.2551
+132.
+ Svrcek, M., Cros, J., Marechal, R., Bachet, J. B., Flejou, J. F., & Demetter, P.
+(2015). Human equilibrative nucleoside transporter 1 testing in pancreatic ductal
+adenocarcinoma: a comparison between murine and rabbit antibodies. Histopathology,
+66(3), 457-462. doi:10.1111/his.12577
+133.
+ Tabernero, J., Chiorean, E. G., Infante, J. R., Hingorani, S. R., Ganju, V.,
+Weekes, C., . . . Von Hoff, D. D. (2015). Prognostic factors of survival in a randomized
+phase III trial (MPACT) of weekly nab-paclitaxel plus gemcitabine versus gemcitabine
+alone in patients with metastatic pancreatic cancer. Oncologist, 20(2), 143-150.
+doi:10.1634/theoncologist.2014-0394
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+45
+134.
+ Takahashi, H., Ohigashi, H., Ishikawa, O., Eguchi, H., Gotoh, K., Yamada, T., .
+. . Yano, M. (2010). Serum CA19-9 alterations during preoperative gemcitabine-based
+chemoradiation therapy for resectable invasive ductal carcinoma of the pancreas as an
+indicator for therapeutic selection and survival. Ann Surg, 251(3), 461-469.
+doi:10.1097/SLA.0b013e3181cc90a3
+135.
+ Tamm, E. P., Balachandran, A., Bhosale, P. R., Katz, M. H., Fleming, J. B., Lee,
+J. H., & Varadhachary, G. R. (2012). Imaging of pancreatic adenocarcinoma: update
+on
+ staging/resectability.
+ Radiol
+ Clin
+ North
+ Am,
+ 50(3),
+ 407-428.
+doi:10.1016/j.rcl.2012.03.008
+136.
+ Tang, S., Huang, G., Liu, J., Liu, T., Treven, L., Song, S., . . . Zhang, T. (2011).
+Usefulness of 18F-FDG PET, combined FDG-PET/CT and EUS in diagnosing primary
+pancreatic carcinoma: a meta-analysis. Eur J Radiol, 78(1), 142-150.
+doi:10.1016/j.ejrad.2009.09.026
+137.
+ Tempero, M. A., Malafa, M. P., Al-Hawary, M., Asbun, H., Bain, A., Behrman,
+S. W., . . . Darlow, S. (2017). Pancreatic Adenocarcinoma, Version 2.2017, NCCN
+Clinical Practice Guidelines in Oncology. J Natl Compr Canc Netw, 15(8), 1028-1061.
+doi:10.6004/jnccn.2017.0131
+138.
+ Tempero, M. A., Malafa, M. P., Behrman, S. W., Benson, A. B., 3rd, Casper, E.
+S., Chiorean, E. G., . . . Freedman-Cass, D. A. (2014). Pancreatic adenocarcinoma,
+version 2.2014: featured updates to the NCCN guidelines. J Natl Compr Canc Netw,
+12(8), 1083-1093.
+139.
+ Tjaden, C., Michalski, C. W., Strobel, O., Giese, N., Hennche, A. K., Buchler,
+M. W., & Hackert, T. (2016). Clinical Impact of Structured Follow-up After Pancreatic
+Surgery. Pancreas, 45(6), 895-899. doi:10.1097/MPA.0000000000000564
+140.
+ Tol, J. A., Gouma, D. J., Bassi, C., Dervenis, C., Montorsi, M., Adham, M., . . .
+International Study Group on Pancreatic, S. (2014). Definition of a standard
+lymphadenectomy in surgery for pancreatic ductal adenocarcinoma: a consensus
+statement by the International Study Group on Pancreatic Surgery (ISGPS). Surgery,
+156(3), 591-600. doi:10.1016/j.surg.2014.06.016
+141.
+ Tol, J. A., van Hooft, J. E., Timmer, R., Kubben, F. J., van der Harst, E., de
+Hingh, I. H., . . . Gouma, D. J. (2016). Metal or plastic stents for preoperative biliary
+drainage in resectable pancreatic cancer. Gut, 65(12), 1981-1987. doi:10.1136/gutjnl-
+2014-308762
+142.
+ Tran Cao, H. S., Lopez, N., Chang, D. C., Lowy, A. M., Bouvet, M.,
+Baumgartner, J. M., . . . Sicklick, J. K. (2014). Improved perioperative outcomes with
+minimally invasive distal pancreatectomy: results from a population-based analysis.
+JAMA Surg, 149(3), 237-243. doi:10.1001/jamasurg.2013.3202
+143.
+ Turrini, O., Paye, F., Bachellier, P., Sauvanet, A., Sa Cunha, A., Le Treut, Y. P.,
+. . . French Surgical, A. (2013). Pancreatectomy for adenocarcinoma in elderly patients:
+postoperative outcomes and long term results: a study of the French Surgical
+Association. Eur J Surg Oncol, 39(2), 171-178. doi:10.1016/j.ejso.2012.08.017
+144.
+ Turrini, O., Wiebke, E. A., Delpero, J. R., Viret, F., Lillemoe, K. D., & Schmidt,
+C. M. (2010). Preservation of replaced or accessory right hepatic artery during
+pancreaticoduodenectomy for adenocarcinoma: impact on margin status and survival.
+J Gastrointest Surg, 14(11), 1813-1819. doi:10.1007/s11605-010-1272-1
+145.
+ Tzeng, C. W., Fleming, J. B., Lee, J. E., Wang, X., Pisters, P. W., Vauthey, J.
+N., . . . Katz, M. H. (2012). Yield of clinical and radiographic surveillance in patients
+with resected pancreatic adenocarcinoma following multimodal therapy. HPB (Oxford),
+14(6), 365-372. doi:10.1111/j.1477-2574.2012.00445.x
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+46
+146.
+ Uesaka, K., Boku, N., Fukutomi, A., Okamura, Y., Konishi, M., Matsumoto, I., .
+. . Group, J. S. (2016). Adjuvant chemotherapy of S-1 versus gemcitabine for resected
+pancreatic cancer: a phase 3, open-label, randomised, non-inferiority trial (JASPAC
+01). Lancet, 388(10041), 248-257. doi:10.1016/S0140-6736(16)30583-9
+147.
+ Valle, J. W., Palmer, D., Jackson, R., Cox, T., Neoptolemos, J. P., Ghaneh, P.,
+. . . Buchler, M. W. (2014). Optimal duration and timing of adjuvant chemotherapy after
+definitive surgery for ductal adenocarcinoma of the pancreas: ongoing lessons from the
+ESPAC-3 study. J Clin Oncol, 32(6), 504-512. doi:10.1200/JCO.2013.50.7657
+148.
+ Van Cutsem, E., van de Velde, H., Karasek, P., Oettle, H., Vervenne, W. L.,
+Szawlowski, A., . . . Von Hoff, D. (2004). Phase III trial of gemcitabine plus tipifarnib
+compared with gemcitabine plus placebo in advanced pancreatic cancer. J Clin Oncol,
+22(8), 1430-1438. doi:10.1200/JCO.2004.10.112
+149.
+ Van Cutsem, E., Vervenne, W. L., Bennouna, J., Humblet, Y., Gill, S., Van
+Laethem, J. L., . . . Moore, M. J. (2009). Phase III trial of bevacizumab in combination
+with gemcitabine and erlotinib in patients with metastatic pancreatic cancer. J Clin
+Oncol, 27(13), 2231-2237. doi:10.1200/JCO.2008.20.0238
+150.
+ van der Gaag, N. A., Rauws, E. A., van Eijck, C. H., Bruno, M. J., van der Harst,
+E., Kubben, F. J., . . . Gouma, D. J. (2010). Preoperative biliary drainage for cancer of
+the
+ head
+ of
+ the
+ pancreas.
+ N
+ Engl
+ J
+ Med,
+ 362(2),
+ 129-137.
+doi:10.1056/NEJMoa0903230
+151.
+ Van Laethem, J. L., Hammel, P., Mornex, F., Azria, D., Van Tienhoven, G.,
+Vergauwe, P., . . . Haustermans, K. (2010). Adjuvant gemcitabine alone versus
+gemcitabine-based chemoradiotherapy after curative resection for pancreatic cancer:
+a randomized EORTC-40013-22012/FFCD-9203/GERCOR phase II study. J Clin
+Oncol, 28(29), 4450-4456. doi:10.1200/JCO.2010.30.3446
+152.
+ Van Laethem, J. L., Riess, H., Jassem, J., Haas, M., Martens, U. M., Weekes,
+C., . . . Childs, B. H. (2017). Phase I/II Study of Refametinib (BAY 86-9766) in
+Combination with Gemcitabine in Advanced Pancreatic cancer. Target Oncol, 12(1),
+97-109. doi:10.1007/s11523-016-0469-y
+153.
+ Verbeke, C., Lohr, M., Karlsson, J. S., & Del Chiaro, M. (2015). Pathology
+reporting of pancreatic cancer following neoadjuvant therapy: challenges and
+uncertainties. Cancer Treat Rev, 41(1), 17-26. doi:10.1016/j.ctrv.2014.11.002
+154.
+ Vernerey, D., Hammel, P., Paget-Bailly, S., Huguet, F., Van Laethem, J. L.,
+Goldstein, D., . . . Bonnetain, F. (2015). Prognosis model for overall survival in locally
+advanced unresecable pancreatic carcinoma: An ancillary study of the LAP 07 trial. J
+Clin Oncol, 33(3 suppl), abstr #235.
+155.
+ Vernerey, D., Huguet, F., Vienot, A., Goldstein, D., Paget-Bailly, S., Van
+Laethem, J. L., . . . Bonnetain, F. (2016). Prognostic nomogram and score to predict
+overall survival in locally advanced untreated pancreatic cancer (PROLAP). Br J
+Cancer, 115(3), 281-289. doi:10.1038/bjc.2016.212
+156.
+ Vogelstein, B., Fearon, E. R., Hamilton, S. R., Kern, S. E., Preisinger, A. C.,
+Leppert, M., . . . Bos, J. L. (1988). Genetic alterations during colorectal-tumor
+development. N Engl J Med, 319(9), 525-532. doi:10.1056/NEJM198809013190901
+157.
+ Von Hoff, D. D., Ervin, T., Arena, F. P., Chiorean, E. G., Infante, J., Moore, M.,
+. . . Renschler, M. F. (2013). Increased survival in pancreatic cancer with nab-paclitaxel
+plus gemcitabine. N Engl J Med, 369(18), 1691-1703. doi:10.1056/NEJMoa1304369
+158.
+ Waddell, N., Pajic, M., Patch, A. M., Chang, D. K., Kassahn, K. S., Bailey, P., .
+. . Grimmond, S. M. (2015). Whole genomes redefine the mutational landscape of
+pancreatic cancer. Nature, 518(7540), 495-501. doi:10.1038/nature14169
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+47
+159.
+ Wagner, M., Antunes, C., Pietrasz, D., Cassinotto, C., Zappa, M., Sa Cunha,
+A., . . . Bachet, J. B. (2017). CT evaluation after neoadjuvant FOLFIRINOX
+chemotherapy for borderline and locally advanced pancreatic adenocarcinoma. Eur
+Radiol, 27(7), 3104-3116. doi:10.1007/s00330-016-4632-8
+160.
+ Walker, E. J., & Ko, A. H. (2014). Beyond first-line chemotherapy for advanced
+pancreatic cancer: an expanding array of therapeutic options? World J Gastroenterol,
+20(9), 2224-2236. doi:10.3748/wjg.v20.i9.2224
+161.
+ Wang, Z., Chen, J. Q., Liu, J. L., Qin, X. G., & Huang, Y. (2013). FDG-PET in
+diagnosis, staging and prognosis of pancreatic carcinoma: a meta-analysis. World J
+Gastroenterol, 19(29), 4808-4817. doi:10.3748/wjg.v19.i29.4808
+162.
+ Wang-Gillam, A., Li, C. P., Bodoky, G., Dean, A., Shan, Y. S., Jameson, G., . .
+. Group, N.-S. (2016). Nanoliposomal irinotecan with fluorouracil and folinic acid in
+metastatic pancreatic cancer after previous gemcitabine-based therapy (NAPOLI-1): a
+global, randomised, open-label, phase 3 trial. Lancet, 387(10018), 545-557.
+doi:10.1016/S0140-6736(15)00986-1
+163.
+ Washington, K., Berlin, J., Branton, P., Burgart, L. J., Carter, D. K., Fitzgibbons,
+P., . . . Compton, C. C. (2014). Protocol for the Examination of Specimens From
+Patients With Carcinoma of the Exocrine Pancreas College of American Pathologists,
+http://www.cap.org.
+164.
+ Weilert, F., Bhat, Y. M., Binmoeller, K. F., Kane, S., Jaffee, I. M., Shaw, R. E., .
+. . Shah, J. N. (2014). EUS-FNA is superior to ERCP-based tissue sampling in
+suspected malignant biliary obstruction: results of a prospective, single-blind,
+comparative study. Gastrointest Endosc, 80(1), 97-104. doi:10.1016/j.gie.2013.12.031
+165.
+ Xie, D. R., Yang, Q., Chen, D. L., Jiang, Z. M., Bi, Z. F., Ma, W., & Zhang, Y. D.
+(2010). Gemcitabine-based cytotoxic doublets chemotherapy for advanced pancreatic
+cancer: updated subgroup meta-analyses of overall survival. Jpn J Clin Oncol, 40(5),
+432-441. doi:10.1093/jjco/hyp198
+166.
+ Yoo, C., Hwang, J. Y., Kim, J. E., Kim, T. W., Lee, J. S., Park, D. H., . . . Lee, J.
+L. (2009). A randomised phase II study of modified FOLFIRI.3 vs modified FOLFOX as
+second-line therapy in patients with gemcitabine-refractory advanced pancreatic
+cancer. Br J Cancer, 101(10), 1658-1663. doi:10.1038/sj.bjc.6605374
+167.
+ Yuan, C., Rubinson, D. A., Qian, Z. R., Wu, C., Kraft, P., Bao, Y., . . . Wolpin,
+B. M. (2015). Survival among patients with pancreatic cancer and long-standing or
+recent-onset
+ diabetes
+ mellitus.
+ J
+ Clin
+ Oncol,
+ 33(1),
+ 29-35.
+doi:10.1200/JCO.2014.57.5688
+168.
+ Zaanan, A., Trouilloud, I., Markoutsaki, T., Gauthier, M., Dupont-Gossart, A. C.,
+Lecomte, T., . . . Taïeb, J. (2014). FOLFOX as second-line chemotherapy in patients
+with pretreated metastatic pancreatic cancer from the FIRGEM study. BMC Cancer,
+14, 441. doi:10.1186/1471-2407-14-441
+TNCD - Chapitre 9 : Cancer du pancréas - 27/06/2018
+48

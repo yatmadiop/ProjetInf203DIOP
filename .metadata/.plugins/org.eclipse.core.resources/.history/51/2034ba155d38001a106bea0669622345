@@ -1,0 +1,25 @@
+package siti.inf203.jena.app;
+
+import java.io.IOException;
+import java.util.List;
+import java.util.TreeMap;
+
+import siti.inf203.jena.outils.EditDistance;
+import siti.inf203.jena.outils.ReadFile;
+
+public class SearchMorpho {
+	public static String searchMorpho(String inputWord) throws IOException {
+		String bestMatch = null;
+		TreeMap<Integer, String> myMorphoMatchMap = new TreeMap<Integer, String>();
+		List<String> maList = ReadFile.readFileInStringList("tokenisedFile/groupeMorphoTokens.txt");
+    	for (int i = 0; i < maList.size(); i++) {
+    		myMorphoMatchMap.putAll(EditDistance.calculate(maList.get(i), inputWord));
+		}
+    	
+    	bestMatch = myMorphoMatchMap.get(myMorphoMatchMap.firstKey());
+    	System.out.println("Best word retrieved : " + bestMatch);
+    	
+    	return bestMatch;
+    	
+	}
+}

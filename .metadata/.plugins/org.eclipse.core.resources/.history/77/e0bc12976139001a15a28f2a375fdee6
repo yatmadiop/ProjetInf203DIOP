@@ -1,0 +1,85 @@
+package siti.inf203.jena.javafx;
+
+import java.io.IOException;
+import java.util.List;
+
+import org.apache.lucene.queryParser.ParseException;
+
+import javafx.application.Application;
+import javafx.geometry.Insets;
+import javafx.scene.Scene;
+import javafx.scene.control.Button;
+import javafx.scene.control.Hyperlink;
+import javafx.scene.control.Label;
+import javafx.scene.control.ListView;
+import javafx.scene.control.TextField;
+import javafx.scene.layout.VBox;
+import javafx.stage.Stage;
+import siti.inf203.jena.app.SearchConsole;
+import siti.inf203.jena.index.TextFileIndexer;
+
+public class Main extends Application {
+	final static List<String> linkList = TextFileIndexer.getDocPathList();
+	final Hyperlink[] hpls = new Hyperlink[linkList.size()];
+	Stage window;
+	Scene scene, scene2;
+	Button button;
+	ListView<String> listView;
+	
+		
+	public static void main(String[] args) {
+		launch(args);
+	}
+	
+	@Override
+	public void start(Stage primaryStage) throws Exception {
+		// TODO Auto-generated method stub
+		window = primaryStage;
+		window.setTitle("Seach Engine");
+		Label labelSearch = new Label("Entrer votre requête");		
+		TextField text = new TextField();
+		//Button1
+		button = new Button("Rechercher");
+		button.setOnAction(e -> {
+			try {
+				SearchConsole.searchKey(text.getText());
+			} catch (IOException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			} catch (ParseException e1) {
+				// TODO Auto-generated catch block
+				e1.printStackTrace();
+			}
+			
+			for (int i = 0; i < hpls.length; i++) {
+				final Hyperlink hpl = hpls[i] = new Hyperlink(linkList.get(i));
+			}
+			window.setScene(scene2);
+
+			
+		});
+		TextFileIndexer.getDocPathList().clear();
+		
+
+		// Layout 1		
+		VBox layout = new VBox(20);		
+		layout.setPadding(new Insets(20,20,20,20));
+		layout.getChildren().addAll(labelSearch, text, button);
+//		layout.getChildren().addAll(hpls);
+		layout.setSpacing(5);		
+		scene = new Scene(layout, 600, 500);
+		window.setScene(scene);
+		window.show();
+		
+		//Button2
+		Button button2 = new Button("Retour à la recherche");
+		button2.setOnAction(e -> window.setScene(scene));
+		VBox layout2 = new VBox(20);	
+		layout2.setPadding(new Insets(20,20,20,20));
+		layout2.getChildren().add(button2)
+		layout2.getChildren().addAll(hpls);
+		layout2.setSpacing(5);	
+	}
+	
+	
+}

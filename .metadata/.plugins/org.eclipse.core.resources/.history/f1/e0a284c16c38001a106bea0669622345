@@ -1,0 +1,30 @@
+package siti.inf203.jena.app;
+
+import java.util.Scanner;
+
+public class SearchConsole {
+
+	static void affiche() {
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Rechercher un document ... ");
+		System.out.println("Que Cherchez-vous ... ");
+		
+	}
+	
+	static void searchOption() {
+		
+		affiche();
+		Scanner sc = new Scanner(System.in);
+
+		affiche();
+
+				
+	}
+	
+	static void searchCancer(String cancer) {
+		Scanner sc = new Scanner(System.in);
+		sc.nextLine();
+		
+	}
+}

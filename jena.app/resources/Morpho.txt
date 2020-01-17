@@ -1,0 +1,1033 @@
+CodeMorphoCIMO3,LibelleCodeCIMO3,CodeGroupeMorpho
+81202,"Carcinome à cellules transitionnelles in situ",1
+81203,"Carcinome à cellules transitionnelles, SAI",1
+81210,"Papillome schneidérien, SAI (C30.0, C31.-)",1
+81211,"Papillome transitionnel inversé, SAI",1
+81213,"Carcinome schneidérien (C30.0, C31.-)",1
+81223,Carcinome transitionnel à cellules fusiformes,1
+81233,Carcinome basaloïde,1
+81243,Tumeur cloacale maligne (C21.2),1
+81301,Tumeur transitionnelle papillaire à faible potentiel malin (C67.-),1
+81302,Carcinome transitionnel papillaire non invasif (C67.-),1
+81303,Carcinome transitionnel papillaire (C67.-),1
+81313,Carcinome transitionnel micro-papillaire (C67.-),1
+81400,"Adénome, SAI",3
+81401,Adénome atypique,3
+81402,"Adénocarcinome in situ, SAI",3
+81403,"Adénocarcinome, SAI",3
+81406,"Adénocarcinome métastatique, SAI",3
+81413,Adénocarcinome squirrheux,3
+81423,Linite plastique (C16.-),3
+81433,Adénocarcinome à extension superficielle,3
+81443,Adénocarcinome de type intestinal (C16.-),3
+81453,Carcinome de type diffus (C16.-),3
+81460,Adénome monomorphe,3
+81470,Adénome basocellulaire,3
+81473,Adénocarcinome basocellulaire,3
+81482,"Néoplasie  glandulaire intraépithéliale, grade III",3
+81490,Adénome canaliculaire,3
+81500,"Adénome insulaire, SAI (C25.-)",4
+81501,"Tumeur à cellules insulaires, SAI (C25.-)",4
+81503,Carcinome insulaire du pancréas (C25.-),4
+81510,"Insulinome, SAI (C25.-)",4
+81513,Insulinome malin (C25.-),4
+81521,"Glucagonome, SAI (C25.-)",4
+81523,Glucagonome malin (C25.-),4
+81531,"Gastrinome, SAI",4
+81533,Gastrinome malin,4
+81543,Adénocarcinome à cellules insulaires et à cellules exocrines (C25.-),4
+81551,"Vipome, SAI",4
+81553,Vipome malin,4
+81561,"Somatostatinome, SAI",4
+81563,Somatostatinome malin,4
+81571,"Entéroglucagonome, SAI",4
+81573,Entéroglucagonome malin,4
+81600,"Cholangiome bénin (C22.1, C24.0)",3
+81603,"Cholangiocarcinome (C22.1, C24.0)",3
+81610,"Cystadénome biliaire (C22.1, C24.0)",3
+81613,"Cystadénocarcinome biliaire (C22.1, C24.0)",3
+81623,"Tumeur de Klatskin (C22.1, C24.0)",3
+81700,Hépatome bénin (C22.0),4
+81703,"Carcinome hépatocellulaire, SAI (C22.0)",4
+81713,Carcinome hépatocellulaire fibrolamellaire (C22.0),4
+81723,Carcinome hépatocellulaire squirrheux (C22.0),4
+81733,"Carcinome hépatocellulaire, variante à cellules fusiformes (C22.0)",4
+81743,Carcinome hépatocellulaire à cellules claires (C22.0),4
+81753,Carcinome hépatocellulaire pléomorphe (C22.0),4
+81803,Carcinome hépatocellulaire et cholangiocarcinome combinés (C22.0),4
+81900,Adénome trabéculaire,3
+81903,"Adénocarcinome trabéculaire, SAI",3
+81910,Adénome embryonnaire,3
+82000,Cylindrome eccrine dermique (C44.-),3
+82003,Carcinome adénoïde kystique,3
+82012,Carcinome cribriforme intra-épithélial (C50.-),3
+82013,"Carcinome cribriforme, SAI",3
+82020,Adénome microkystique (C25.-),3
+82040,Adénome de lactation (C50.-),3
+82100,"Polype adénomateux, SAI",3
+82102,Adénocarcinome in situ sur polype adénomateux,3
+82103,Adénocarcinome sur polyadénome,3
+82110,"Adénome tubuleux, SAI",3
+82113,Adénocarcinome tubuleux,3
+82120,Adénome plat,3
+82130,Adénome dentelé (C18.-),3
+82143,Carcinome à cellules pariétales (C16.-),3
+82153,Adénocarcinome des glandes anales (C21.1),3
+82200,Adénomatose polypoïde du côlon (C18.-),3
+82203,Adénocarcinome sur adénomatose polypoïde du côlon (C18.-),3
+82210,Polypose multiple,3
+82213,Adénocarcinome sur polypes adénomateux multiples,3
+82302,Carcinome canalaire intraépithélial solide (C50.-),4
+82303,"Carcinome solide, SAI",4
+82313,Carcinome simplex,4
+82401,Tumeur carcinoïde de potentiel malin incertain,4
+82403,"Tumeur carcinoïde , SAI (sauf appendice,r M-8240/1)",4
+82413,Carcinoïde malin à cellules entérochromaffines,4
+82421,"Carcinoïde à cellules entérochromaffinoïdes, SAI",4
+82423,Carcinoïde malin à cellules entérochromaffinoïdes,4
+82433,Tumeur maligne mucocarcinoïde,4
+82443,Tumeur carcinoïde mixte,4
+82451,Carcinoïde tubuleux,4
+82453,Tumeur adénocarcinoïde,4
+80000,Tumeur bénigne,17
+80001,Tumeur de bénignité ou de malignité non assurée,17
+80003,"Tumeur maligne, SAI",17
+80006,Tumeur métastatique,17
+80009,Tumeur maligne de nature primaire ou secondaire non assurée,17
+80010,Cellules tumorales bénignes,17
+80011,Cellules tumorales de bénignité ou de malignité non assurée,17
+80013,Cellules tumorales malignes,17
+80023,Tumeur maligne à petites cellules,17
+80033,Tumeur maligne à grandes cellules,17
+80043,Tumeur maligne à cellules fusiformes,17
+80050,"Tumeur à cellules claires, SAI",17
+80053,Tumeur maligne à cellules claires,17
+80100,Tumeur épithéliale bénigne,5
+80102,"Carcinome in situ, SAI",5
+80103,"Carcinome, SAI",5
+80106,"Carcinome métastatique, SAI",5
+80109,Carcinomatose,5
+80110,Épithéliome bénin,5
+80113,Épithéliome malin,5
+80123,"Carcinome à grandes cellules, SAI",5
+80133,Carcinome neuroendocrinien à grandes cellules,5
+80143,Carcinome à grandes cellules avec un phénotype rhabdoïde,5
+80153,Carcinome à cellules hyalines,5
+80203,"Carcinome indifférencié, SAI",5
+80213,"Carcinome anaplasique, SAI",5
+80223,Carcinome pléomorphe,5
+80303,Carcinome à cellules géantes et à cellules fusiformes,4
+80313,Carcinome à cellules géantes,4
+80323,"Carcinome à cellules fusiformes, SAI",4
+80333,Carcinome pseudosarcomateux,4
+80343,Carcinome à cellules polygonales,4
+80353,Carcinome à cellules géantes ostéoclastiformes,4
+80400,Tumorlet bénin,4
+80401,"Tumorlet, SAI",4
+80413,"Carcinome à petites cellules, SAI",4
+80423,Carcinome à cellules en grain davoine (C34.-),4
+80433,Carcinome à petites cellules fusiformes,4
+80443,Carcinome à petites cellules intermédiaires,4
+80453,Carcinome mixte à petites cellules,4
+80463,Carcinome non à petites cellules (C34.-),4
+80500,"Papillome, SAI (à lexclusion du papillome de la vessie M-8120/1)",5
+80502,Carcinome papillaire in situ,5
+80503,"Carcinome papillaire, SAI",5
+80510,Papillome verruqueux,1
+80513,"Carcinome verruqueux, SAI",1
+80520,"Papillome spinocellulaire, SAI",1
+80522,Carcinome épidermoïde papillaire non invasif,1
+80523,Carcinome épidermoïde papillaire,1
+80530,Papillome épidermoïde inversé,1
+80600,Papillomatose épidermoïde,1
+80702,"Carcinome épidermoïde in situ, SAI",1
+80703,"Carcinome épidermoïde, SAI",1
+80706,"Carcinome épidermoïde, métastatique, SAI",1
+80713,"Carcinome épidermoïde kératinisant, SAI",1
+80723,"Carcinome épidermoïde non kératinisant, à grandes cellules, SAI",1
+80733,"Carcinome épidermoïde non kératinisant, à petites cellules",1
+80743,Carcinome épidermoïde à cellules fusiformes,1
+80753,Carcinome épidermoïde pseudo-glandulaire,1
+80762,Carcinome épidermoïde in situ avec possibilité denvahissement du stroma,1
+80763,Carcinome épidermoïde micro-invasif,1
+80772,"Néoplasie intraépithéliale, grade III (voir règles de codage, page x)",1
+80783,Carcinome épidermoïde avec formation dune corne cutanée,1
+80802,Érythroplasie de Queyrat (C60.-),1
+80812,Maladie de Bowen (C44.-),1
+80823,Carcinome lymphoépithélial,1
+80833,Carcinome épidermoïde basaloïde,1
+80843,Carcinome épidermoïde à cellules claires,1
+80901,Tumeur basocellulaire (C44.-),2
+80903,"Carcinome basocellulaire, SAI (C44.-)",2
+80913,Carcinome basocellulaire superficiel multifocal (C44.-),2
+80923,"Carcinome basocellulaire infiltrant, SAI (C44.-)",2
+80933,Carcinome basocellulaire fibro-épithélial (C44.-),2
+80943,Carcinome basospinocellulaire (C44.-),2
+80953,Carcinome intermédiaire (C44.-),2
+80960,Épithéliome intra-épidermique de Borst et Jadassohn (C44.-),2
+80973,Carcinome basocellulaire nodulaire (C44.-),2
+80983,Carcinome basocellulaire adénoïde (C53.-),2
+81000,Trichoépithéliome (C44.-),2
+81010,Trichofolliculome (C44.-),2
+81020,Trichilemmome (C44.-),2
+81023,Trichilemmocarcinome (C44.-),2
+81030,Tumeur pilaire (C44.-),2
+81100,"Pilomatrixome, SAI (C44.-)",2
+81103,Carcinome pilomatriciel (C44.-),2
+81200,Papillome bénin à cellules transitionnelles,1
+81201,"Papillome à cellules transitionnelles, SAI",1
+82463,"Carcinome neuroendocrinien, SAI",4
+82473,Carcinome à cellules de Merkel (C44.-),4
+82481,Apudome,4
+82493,Tumeur carcinoïde maligne atypique,4
+82501,Adénomatose pulmonaire (C34.-),4
+82503,"Adénocarcinome bronchioloalvéolaire, SAI (C34.-)",4
+82510,Adénome alvéolaire (C34.-),4
+82513,Adénocarcinome alvéolaire (C34.-),4
+82523,Carcinome bronchioloalvéolaire non mucineux (C34.-),4
+82533,Carcinome bronchioloalvéolaire mucineux (C34.-),4
+82543,Carcinome bronchioloalvéolaire mixte mucineux et non mucineux (C34.-),4
+82553,Adénocarcinome avec sous-types mixtes,4
+82600,"Adénome papillaire, SAI",3
+82603,"Adénocarcinome papillaire, SAI",3
+82610,Adénome villeux,3
+82612,Adénocarcinome in situ sur adénome villeux,3
+82613,Adénocarcinome sur adénome villeux,3
+82623,Adénocarcinome villeux,3
+82630,"Adénome tubulovilleux, SAI",3
+82632,Adénocarcinome in situ sur adénome tubulovilleux,3
+82633,Adénocarcinome sur adénome tubulovilleux,3
+82640,Papillomatose glandulaire,3
+82700,Adénome chromophobe (C75.1),3
+82703,Adénocarcinome chromophobe (C75.1),3
+82710,Prolactinome (C75.1),3
+82720,"Adénome pituitaire, SAI (C75.1)",3
+82723,"Carcinome pituitaire, SAI (C75.1)",3
+82800,Adénome acidophile (C75.1),3
+82803,Adénocarcinome éosinophile (C75.1),3
+82810,Adénome mixte acidophile et basophile (C75.1),3
+82813,Adénocarcinome mixte acidophile et basophile (C75.1),3
+82900,Adénome oxyphile,3
+82903,Adénocarcinome oxyphile,3
+83000,Adénome basophile (C75.1),3
+83003,Adénocarcinome à cellules basophiles (C75.1),3
+83100,Adénome à cellules claires,3
+83103,"Adénocarcinome à cellules claires, SAI",3
+83111,Tumeur hypernéphroïde [obs],3
+83123,"Carcinome à cellules rénales, SAI (C64.9)",3
+83130,Adénofibrome à cellules claires (C56.9),3
+83131,Adénofibrome à cellules claires à la limite de la malignité (C56.9),3
+83133,Adénocarcinofibrome à cellules claires (C56.9),3
+83143,Carcinome riche en lipides (C50.-),3
+83153,Carcinome riche en glycogènes (C50.-),3
+83163,Carcinome à cellules rénales associé à un kyste (C64.9),3
+83173,Carcinome à cellules rénales chromophobes (C64.9),3
+83183,Carcinome à cellules rénales sarcomatoïde (C64.9),3
+83193,Carcinome des tubes droits du rein (C64.9),3
+83203,Carcinome à cellules granuleuses,3
+83210,Adénome à cellules principales (C75.0),3
+83220,Adénome à cellules eau de roche (C75.0),3
+83223,Adénocarcinome à cellules eau de roche (C75.0),3
+83230,Adénome à cellules mixtes,3
+83233,Adénocarcinome à cellules mixtes,3
+83240,Adénolipome,3
+83250,Adénome métanéphrique (C64.9),3
+83300,Adénome vésiculaire (C73.9),3
+83301,Adénome vésiculaire atypique (C73.9),3
+83303,"Adénocarcinome vésiculaire, SAI (C73.9)",3
+83313,Adénocarcinome vésiculaire bien différencié (C73.9),3
+83323,Adénocarcinome vésiculaire trabéculaire (C73.9),3
+83330,"Adénome microvésiculaire, SAI (C73.9)",3
+83333,Adénocarcinome foetal,3
+83340,Adénome macrovésiculaire (C73.9),3
+83353,Carcinome vésiculaire microinvasif (C73.9),3
+83360,Adénome trabéculaire hyalinisant (C73.9),3
+83373,Carcinome insulaire (C73.9),3
+83403,"Carcinome papillaire, variante vésiculaire (C73.9)",4
+83413,Microcarcinome papillaire (C73.9),4
+83423,Carcinome papillaire à cellule  oxyphile (C73.9),4
+83433,Carcinome papillaire encapsulé (C73.9),4
+83443,Carcinome papillaire à cellules cylindriques (C73.9),4
+83453,Carcinome médullaire à stroma amyloïde (C73.9),4
+83463,Carcinome mixte médullaire et vésiculaire (C73.9),4
+83473,Carcinome mixte médullaire et papillaire (C73.9),4
+83503,Carcinome sclérosant non encapsulé (C73.9),3
+83601,Adénomatose endocrinienne multiple,3
+83610,Tumeur juxtaglomérulaire (C64.9),3
+83700,"Adénome corticosurrénalien, SAI (C74.0)",3
+83703,Corticosurrénalome malin (C74.0),3
+83710,Adénome corticosurrénalien à cellules compactes (C74.0),3
+83720,Adénome corticosurrénalien pigmenté (C74.0),3
+83730,Adénome corticosurrénalien à cellules claires (C74.0),3
+83740,Adénome corticosurrénalien à cellules glomérulaires (C74.0),3
+83750,Adénome corticosurrénalien à cellules mixtes (C74.0),3
+83800,"Adénome endométrioïde, SAI",3
+83801,Adénome endométrioïde à la limite de la malignité,3
+83803,"Adénocarcinome endométrioïde, SAI",3
+83810,"Adénofibrome endométrioïde, SAI",3
+83811,Adénofibrome endométrioïde à la limite de la malignité,3
+83813,Adénofibrome endométrioïde malin,3
+83823,"Adénocarcinome endométrioïde, variante sécrétoire",3
+83833,"Adénocarcinome endométrioïde, variante à cellules ciliées",3
+83843,Adénocarcinome de type endocervical,3
+83900,Adénome des annexes cutanées (C44.-),3
+83903,Carcinome des annexes cutanées (C44.-),3
+83910,Fibrome folliculaire (C44.-),3
+83920,Syringofibroadénome (C44.-),3
+84000,Adénome des glandes sudoripares (C44.-),3
+84001,"Tumeur des glandes sudoripares, SAI (C44.-)",3
+84003,Adénocarcinome des glandes sudoripares (C44.-),3
+84010,Adénome apocrine,3
+84013,Adénocarcinome apocrine,3
+84020,Hidradénome nodulaire (C44.-),3
+84023,Hidradénome nodulaire malin (C44.-),3
+84030,Spiradénome eccrine (C44.-),3
+84033,Spiradénome eccrine malin (C44.-),3
+84040,Hidrocystome (C44.-),3
+84050,Hidradénome papillaire,3
+84060,Syringoadénome papillaire (C44.-),3
+84070,"Syringome, SAI (C44.-)",3
+84073,Carcinome sclérosant dun canal sudorifère (C44.-),3
+84080,Adénome papillaire eccrine (C44.-),3
+84081,Adénome papillaire digital agressif (C44.-),3
+84083,Adénocarcinome papillaire eccrine (C44.-),3
+84090,Porome eccrine (C44.-),3
+84093,Porome eccrine malin,3
+84100,Adénome sébacé (C44.-),3
+84103,Adénocarcinome sébacé (C44.-),3
+84133,Adénocarcinome eccrine (C44.-),3
+84200,Adénome cérumineux (C44.2),3
+84203,Adénocarcinome cérumineux (C44.2),3
+84301,Tumeur muco-épidermoïde [obs],3
+84303,Carcinome muco-épidermoïde,3
+84400,"Cystadénome, SAI",3
+84403,"Cystadénocarcinome, SAI",3
+84410,"Cystadénome séreux, SAI",3
+84413,"Cystadénocarcinome séreux, SAI (C56.9)",3
+84421,Cystadénome séreux à la limite de la malignité (C56.9),3
+84430,Cystadénome à cellules claires (C56.9),3
+84441,Tumeur kystique à cellules claires à la limite de la malignité (C56.9),3
+84500,"Cystadénome papillaire, SAI (C56.9)",3
+84503,"Cystadénocarcinome papillaire, SAI (C56.9)",3
+84511,Cystadénome papillaire à la limite de la malignité (C56.9),3
+84521,Tumeur pseudopapillaire solide (C25.-),3
+84523,Carcinome pseudopapillaire solide (C25.-),3
+84530,Adénome intracanalaire mucineux et papillaire (C25.-),3
+84531,Tumeur intracanalaire mucineuse et papillaire avec dysplasie modérée (C25.-),3
+84532,"Carcinome intracanalaire mucineux et papillaire, non invasif (C25.-)",3
+84533,"Carcinome intracanalaire mucineux et papillaire, invasif (C25.-)",3
+84540,Tumeur kystique du nud auriculo-ventriculaire (C38.0),3
+84600,"Cystadénome séreux papillaire, SAI (C56.9)",3
+84603,Cystadénocarcinome séreux papillaire (C56.9),3
+84610,"Papillome séreux de surface,  (C56.9)",3
+84613,Carcinome séreux papillaire de surface (C56.9),3
+84621,Tumeur kystique séreuse papillaire à la limite de la malignité (C56.9),3
+84631,Tumeur séreuse papillaire de surface à la limite de la malignité (C56.9),3
+84700,"Cystadénome mucineux, SAI (C56.9)",3
+84701,Tumeur kystique mucineuse avec dysplasie modérée (C25.-),3
+84702,"Cystadénocarcinome mucineux, non invasif (C25.-)",3
+84703,"Cystadénocarcinome mucineux, SAI (C56.9)",3
+84710,"Cystadénome papillaire  mucineux, SAI (C56.9)",3
+84713,Cystadénocarcinome papillaire mucineux (C56.9),3
+84721,Tumeur kystique mucineuse à la limite de la malignité (C56.9),3
+84731,Cystadénome papillaire mucineux à la limite de la malignité (C56.9),3
+84800,Adénome mucineux,3
+84803,Adénocarcinome colloïde,3
+84806,Pseudomyxome du péritoine,3
+84813,Adénocarcinome mucipare,3
+84823,Adénocarcinome mucineux de type endocervical,3
+84903,Adénocarcinome à cellules en bague à chaton,3
+84906,Carcinome métastatique à cellules en bague à chaton,3
+85002,"Carcinome intracanalaire non infiltrant, SAI",3
+85003,"Adénocarcinome canalaire infiltrant, SAI (C50.-)",3
+85012,Comédocarcinome non infiltrant (C50.-),3
+85013,"Comédocarcinome, SAI (C50.-)",3
+85023,Carcinome juvénile du sein (C50.-),3
+85030,Papillome intracanalaire,3
+85032,Adénocarcinome papillaire intracanalaire non infiltrant (C50.-),3
+85033,Adénocarcinome papillaire intracanalaire infiltrant,3
+85040,Adénome papillaire intrakystique,3
+85042,Carcinome intrakystique non infiltrant,3
+85043,"Carcinome intrakystique, SAI",3
+85050,"Papillomatose intracanalaire, SAI",3
+85060,Adénomatose du mamelon (C50.0),3
+85072,Carcinome intracanalaire micropapillaire (C50.-),3
+85083,Carcinome hypersécrétoire kystique (C50.-),3
+85103,"Carcinome médullaire, SAI",3
+85123,Carcinome médullaire à stroma lymphoïde,3
+85133,Carcinome médullaire atypique (C50.-),3
+85143,Carcinome canalaire de type desmoplasique,3
+85202,"Carcinome lobulaire in situ, SAI (C50.-)",3
+85203,"Carcinome lobulaire, SAI (C50.-)",3
+85213,Carcinome canaliculaire infiltrant (C50.-),3
+85222,Carcinome intracanalaire et carcinome lobulaire in situ (C50.-),3
+85223,Carcinome canalaire et lobulaire infiltrant (C50.-),3
+85233,Carcinome canalaire infiltrant avec autres types de carcinomes (C50.-),3
+85243,Carcinome lobulaire infiltrant avec autres types de carcinomes (C50.-),3
+85253,Adénocarcinome polymorphe de bas grade,3
+85303,Carcinome inflammatoire (C50.-),3
+85403,Maladie de Paget du sein (C50.-),3
+85413,Maladie de Paget et carcinome canalaire infiltrant du sein (C50.-),3
+85423,Maladie de Paget extramammaire (à lexclusion de la maladie de Paget de los),3
+85433,Maladie de Paget et carcinome intracanalaire du sein (C50.-),3
+85500,Adénome à cellules acineuses,3
+85501,Tumeur à cellules acineuses [obs],3
+85503,Adénocarcinome à cellules acineuses,3
+85513,Cystadénocarcinome à cellules acineuses,3
+85600,Papillome mixte glandulaire et spinocellulaire,4
+85603,Carcinome adénosquameux,4
+85610,"Adénolymphome (C07.-, C08.-)",4
+85623,Carcinome épithélialmyoépithélial,4
+85703,Adénocarcinome avec métaplasie malpighienne,3
+85713,Adénocarcinome avec métaplasie cartilagineuse et osseuse,3
+85723,Adénocarcinome avec métaplasie fusocellulaire,3
+85733,Adénocarcinome avec métaplasie apocrine,3
+85743,Adénocarcinome avec différenciation neuroendocrinienne,3
+85753,"Carcinome métaplasique, SAI",3
+85763,Adénocarcinome hépatoïde,3
+85800,Thymome bénin (C37.9),4
+85801,"Thymome, SAI (C37.9)",4
+85803,"Thymome malin, SAI (C37.9)",4
+85811,"Thymome de type A, SAI (C37.9)",4
+85813,Thymome malin de type A (C37.9),4
+85821,"Thymome de type AB, SAI (C37.9)",4
+85823,Thymome malin de type AB (C37.9),4
+85831,"Thymome de type B1, SAI (C37.9)",4
+85833,Thymome malin de type B1 (C37.9),4
+85841,"Thymome de type B2, SAI (C37.9)",4
+85843,Thymome malin de type B2 (C37.9),4
+85851,"Thymome de type B3, SAI (C37.9)",4
+85853,Thymome malin de type B3 (C37.9),4
+85863,"Carcinome thymique, SAI (C37.9)",4
+85870,Thymome hamartomateux ectopique,4
+85883,Tumeur épithéliale fusiforme avec éléments dallure thymique,4
+85893,Carcinome présentant des éléments dallure thymique,4
+85901,"Tumeur des cordons sexuels et du stroma gonadique, SAI",4
+85911,"Tumeur des cordons sexuels et du stroma gonadique, partiellement différenciée",4
+85921,"Tumeur des cordons sexuels et du stroma gonadique, formes mixtes",4
+85931,Tumeur du stroma gonadique avec peu déléments de cordons sexuels (C56.9),4
+86000,"Thécome, SAI (C56.9)",4
+86003,Thécome malin (C56.9),4
+86010,Thécome lutéinisé (C56.9),4
+86020,Tumeur stromale sclérosante (C56.9),4
+86100,"Lutéome, SAI (C56.9)",4
+86201,Tumeur de la granulosa de type adulte (C56.9),4
+86203,Tumeur maligne de la granulosa (C56.9),4
+86211,Tumeur de la granulosa et de la thèque (C56.9),4
+86221,Tumeur de la granulosa juvénile (C56.9),4
+86231,Tumeur des cordons sexuels avec tubules annulaires (C56.9),4
+86300,Androblastome bénin,4
+86301,"Androblastome, SAI",4
+86303,Androblastome malin,4
+86310,"Tumeur à cellules de Sertoli-Leydig, bien différenciée",4
+86311,Tumeur à cellules de Sertoli-Leydig de différenciation intermédiaire,4
+86313,"Tumeur à cellules de Sertoli-Leydig, peu différenciée",4
+86321,Gynandroblastome (C56.9),4
+86331,Tumeur rétiforme à cellules de Sertoli-Leydig,4
+86341,"Tumeur à cellules de Sertoli-Leydig, différenciation intermédiaire, avec éléments hétérologues",4
+86343,"Tumeur à cellules de Sertoli-Leydig, peu différenciée, avec éléments hétérologues",4
+86401,"Tumeur à cellules de Sertoli, SAI",4
+86403,Carcinome à cellules de Sertoli (C62.-),4
+86410,Tumeur à cellules de Sertoli lipidiques (C56.9),4
+86421,Androblastome calcifiant à grandes cellules,4
+86500,Tumeur bénigne à cellules de Leydig (C62.-),4
+86501,"Tumeur à cellules de Leydig, SAI (C62.-)",4
+86503,Tumeur maligne à cellules de Leydig (C62.-),4
+86600,Tumeur à cellules du hile (C56.9),4
+86700,Tumeur à cellules lipoïdiques de lovaire (C56.9),4
+86703,Tumeur maligne à cellules stéroïdiennes,4
+86710,Tumeur des vestiges surrénaliens,4
+86800,Paragangliome bénin,6
+86801,"Paragangliome, SAI",6
+86803,Paragangliome malin,6
+86811,Paragangliome sympathique,6
+86821,Paragangliome parasympathique,6
+86830,Paragangliome gangliocytaire (C17.0),6
+86901,"Tumeur du glomus jugulaire, SAI (C75.5)",6
+86911,Tumeur du corpuscule aortique (C75.5),6
+86921,Tumeur du corpuscule carotidien (C75.4),6
+86931,"Paragangliome extrasurrénalien, SAI",6
+86933,Paragangliome extrasurrénalien malin,6
+87000,"Phéochromocytome, SAI (C74.1)",6
+87003,Phéochromocytome malin (C74.1),6
+87103,Glomangiosarcome,6
+87110,"Tumeur glomique, SAI",6
+87113,Tumeur glomique maligne,6
+87120,Glomangiome,6
+87130,Glomangiomyome,6
+87200,"Nævus pigmentaire, SAI (C44.-)",16
+87202,Mélanome in situ,16
+87203,"Mélanome malin, SAI (à lexception du mélanome juvénile M-8770/0)",16
+87213,Mélanome nodulaire (C44.-),16
+87220,Nævus à cellules ballonisées (C44.-),16
+87223,Mélanome à cellules ballonisées (C44.-),16
+87230,Nævus en halo (C44.-),16
+87233,Mélanome malin régressant (C44.-),16
+87250,Neuronævus (C44.-),16
+87260,Nævus à grandes cellules (C69.4),16
+87270,Nævus dysplasique (C44.-),16
+87280,Mélanocytose diffuse (C70.9),16
+87281,Mélanocytome méningé (C70.9),16
+87283,Mélanomatose méningée (C70.9),16
+87300,Nævus achromique (C44.-),16
+87303,Mélanome achromique (C44.-),16
+87400,"Nævus de jonction, SAI (C44.-)",16
+87403,Mélanome malin sur enævus de jonction (C44.-),16
+87412,"Mélanose précancéreuse, SAI (C44.-)",16
+87413,Mélanome malin sur mélanose précancéreuse (C44.-),16
+87422,Lentigo malin (C44.-),16
+87423,Mélanome malin sur lentigo malin des vieillards (C44.-),16
+87433,Mélanome à extension superficielle (C44.-),16
+87443,Mélanome acral lentigineux malin (C44.-),16
+87453,Mélanome malin desmoplasique (C44.-),16
+87463,Mélanome muqueux lentigineux,16
+87500,Nævus intradermique (C44.-),16
+87600,Nævus mixte (C44.-),16
+87610,Petit nævus congénital (C44.-),16
+87611,"Nævus pigmentaire géant, SAI (C44.-)",16
+87613,Mélanome malin sur nævus pigmentaire géant (C44.-),16
+87621,Lésion dermique proliférative sur nævus congénital (C44.-),16
+87700,Nævus à cellules épithélioïdes et à cellules fusiformes (C44.-),16
+87703,Mélanome à cellules épithélioïdes et à cellules fusiformes,16
+87710,Nævus à cellules épithélioïdes (C44.-),16
+87713,Mélanome à cellules épithélioïdes,16
+87720,"Nævus à cellules fusiformes, SAI (C44.-)",16
+87723,"Mélanome à cellules fusiformes, SAI",16
+87733,Mélanome à cellules fusiformes de type A (C69.-),16
+87743,Mélanome à cellules fusiformes de type B (C69.-),16
+87800,"Nævus bleu, SAI (C44.-)",16
+87803,Nævus bleu malin (C44.-),16
+87900,Nævus bleu cellulaire (C44.-),16
+88000,Tumeur bénigne des tissus mous,6
+88003,"Sarcome, SAI",6
+88009,"Sarcomatose, SAI",6
+88013,Sarcome à cellules fusiformes,6
+88023,Sarcome à cellules géantes (à lexception de los M-9250/3),6
+88033,Sarcome à petites cellules,6
+88043,Sarcome épithélioïde,6
+88053,Sarcome indifférencié,6
+88063,Tumeur desmoplastique à petites cellules rondes,6
+88100,"Fibrome, SAI",6
+88101,Fibrome cellulaire (C56.9),6
+88103,"Fibrosarcome, SAI",6
+88110,Fibromyxome,6
+88113,Fibromyxosarcome,6
+88120,"Fibrome périostique (C40.-, C41.-)",6
+88123,"Fibrosarcome périostique (C40.-, C41.-)",6
+88130,Fibrome des fascias,6
+88133,Fibrosarcome des fascias,6
+88143,Fibrosarcome infantile,6
+88150,Tumeur fibreuse solitaire,6
+88153,Tumeur fibreuse solitaire maligne,6
+88200,Élastofibrome,6
+88211,Fibromatose agressive,6
+88221,Fibromatose abdominale,6
+88230,Fibrome desmoplasique,6
+88240,Myofibrome,6
+88241,Myofibromatose,6
+88250,Myofibroblastome,6
+88251,"Tumeur myofibroblastique, SAI",6
+88260,Angiomyofibroblastome,6
+88271,Tumeur myofibroblastique péribronchique (C34.-),6
+88300,Histiocytome fibreux bénin,6
+88301,Histiocytome fibreux atypique,6
+88303,Histiocytome fibreux malin,6
+88310,"Histiocytome, SAI",6
+88320,"Dermatofibrome, SAI (C44.-)",6
+88323,"Dermatofibrosarcome, SAI (C44.-)",6
+88333,Dermatofibrosarcome protubérant pigmenté (C44.-),6
+88341,Fibroblastome à cellules géantes,6
+88351,Tumeur fibrohistiocytaire plexiforme,6
+88361,Histiocytome fibreux angiomatoïde,6
+88400,"Myxome, SAI",6
+88403,Myxosarcome,6
+88411,Angiomyxome,6
+88420,Tumeur fibromyxoïde ossifiante,6
+88500,"Lipome, SAI",6
+88501,Lipome atypique,6
+88503,"Liposarcome, SAI",6
+88510,Fibrolipome,6
+88513,Liposarcome bien différencié,6
+88520,Fibromyxolipome,6
+88523,Liposarcome myxoïde,6
+88533,Liposarcome à cellules rondes,6
+88540,Lipome pléomorphe,6
+88543,Liposarcome pléomorphe,6
+88553,Liposarcome à cellularité mixte,6
+88560,Lipome intramusculaire,6
+88570,Lipome à cellules fusiformes,6
+88573,Liposarcome fibroblastique,6
+88583,Liposarcome dédifférencié,6
+88600,Angiomyolipome,6
+88610,"Angiolipome, SAI",6
+88620,Lipome chondroïde,6
+88700,Myélolipome,6
+88800,Hibernome,6
+88810,Lipoblastomatose,6
+88900,"Léiomyome, SAI",6
+88901,"Léiomyomatose, SAI",6
+88903,"Léiomyosarcome, SAI",6
+88910,Léiomyome épithélioïde,6
+88913,Léiomyosarcome épithélioïde,6
+88920,Léiomyome cellulaire,6
+88930,Léiomyome bizarre,6
+88940,Angiomyome,6
+88943,Angiomyosarcome,6
+88950,Myome,6
+88953,Myosarcome,6
+88963,Leiomyosarcome myxoïde,6
+88971,Tumeur des muscles lisses à potentiel malin incertain,6
+88981,Leiomyome métastasant,6
+89000,"Rhabdomyome, SAI",6
+89003,"Rhabdomyosarcome, SAI",6
+89013,Rhabdomyosarcome pléomorphe de type ladulte,6
+89023,Rhabdomyosarcome à cellularité mixte,6
+89030,Rhabdomyome foetal,6
+89040,Rhabdomyome adulte,6
+89050,"Rhabdomyome génital (C51.-, C52.9)",6
+89103,"Rhabdomyosarcome embryonnaire, SAI",6
+89123,Rhabdomyosarcome à cellules fusiformes,6
+89203,Rhabdomyosarcome alvéolaire,6
+89213,Rhabdomyosarcome avec différenciation ganglionnaire,6
+89300,Nodule du stroma endométrial (C54.1),16
+89303,"Sarcome du stroma endométrial , SAI (C54.1)",16
+89313,Sarcome du stroma endométrial de bas grade (C54.1),16
+89320,Adénomyome,16
+89333,Adénosarcome,16
+89343,Carcinofibrome,16
+89350,Tumeur stromale bénigne,16
+89351,"Tumeur stromale, SAI",16
+89353,"Sarcome stromal, SAI",16
+89360,Tumeur bénigne du stroma gastro-intestinal,16
+89361,"Tumeur du stroma gastro-intestinal, SAI",16
+89363,Sarcome du stroma gastro-intestinal,16
+89400,Adénome polymorphe,3
+89403,"Tumeur mixte maligne, SAI",3
+89413,"Carcinome sur adénome pléomorphe (C07.-, C08.-)",3
+89503,Mulleroblastome (C54.-),16
+89513,Tumeur mixte mésodermique,16
+89590,Néphrome kystique bénin (C64.9),16
+89591,Néphroblastome kystique partiellement différencié (C64.9),16
+89593,Néphrome kystique malin (C64.9),16
+89601,Néphrome mésoblastique,16
+89603,"Néphroblastome, SAI (C64.9)",16
+89633,Tumeur rhabdoïde maligne,16
+89643,Sarcome à cellules claires du rein (C64.9),16
+89650,Adénofibrome néphrogène (C64.9),16
+89660,Tumeur à cellules interstitielles rénomédullaires (C64.9),16
+89670,Tumeur rénale ossifiante (C64.9),16
+89703,Hépatoblastome (C22.0),16
+89713,Pancréatoblastome (C25.-),16
+89723,Blastome pulmonaire (C34.-),16
+89733,Blastome pleuropulmonaire,16
+89741,Sialoblastome,16
+89803,"Carcinosarcome, SAI Esthésio-neuroblastome (C30.0)",16
+89813,Carcinosarcome de type embryonnaire,16
+89820,Myoépithéliome,16
+89823,Myoépithéliome malin,16
+89830,Adénomyoépithéliome (C50.-),16
+89900,Mésenchymome bénin,6
+89901,"Mésenchymome, SAI",6
+89903,Mésenchymome malin,6
+89913,Sarcome embryonnaire,6
+90000,"Tumeur de Brenner, SAI (C56.9)",16
+90001,Tumeur de Brenner à la limite de la malignité (C56.9),16
+90003,Tumeur de Brenner maligne (C56.9),16
+90100,"Fibroadénome, SAI (C50.-)",16
+90110,"Fibroadénome intracanaliculaire, (C50.-)",16
+90120,Fibroadénome péricanaliculaire (C50.-),16
+90130,"Adénofibrome, SAI",16
+90140,"Adénofibrome séreux, SAI",16
+90141,Adénofibrome séreux à la limite de la malignité,16
+90143,Adénocarcinofibrome séreux,16
+90150,"Adénofibrome mucineux, SAI",16
+90151,Adénofibrome mucineux à la limite de la malignité,16
+90153,Adénocarcinofibrome mucineux,16
+90160,Fibro-adénome géant (C50.-),16
+90200,Tumeur phyllode bénigne (C50.-),16
+90201,Tumeur phyllode à la limite de la malignité (C50.-),16
+90203,Tumeur phyllode maligne (C50.-),16
+90300,Fibroadénome juvénile (C50.-),16
+90400,Synoviome bénin,6
+90403,"Sarcome synovial, SAI",6
+90413,Sarcome synovial à cellules fusiformes,6
+90423,Sarcome synovial à cellules épithélioïdes,6
+90433,Sarcome synovial biphasique,6
+90443,"Sarcome à cellules claires (sauf du rein, voir M-8964/3)",6
+90500,Mésothéliome bénin,7
+90503,Mésothéliome malin,7
+90510,Mésothéliome fibreux bénin,7
+90513,Mésothéliome fibreux malin,7
+90520,Mésothéliome épithélioïde bénin,7
+90523,Mésothéliome épithélioïde malin,7
+90533,Mésothéliome biphasique malin,7
+90540,"Tumeur adénomatoïde, SAI",7
+90550,Mésothéliome polykystique bénin,7
+90551,"Mésothéliome kystique, SAI (C48.-)",7
+90603,Dysgerminome,16
+90613,"Séminome, SAI (C62.-)",16
+90623,Séminome anaplasique (C62.-),16
+90633,Séminome spermatocytaire (C62.-),16
+90642,Cellules germinales intratubulaires malignes (C62.-),16
+90643,Germinome,16
+90653,"Tumeur à cellules germinales, non séminomateuse (C62.-)",16
+90703,"Carcinome embryonnaire, SAI",16
+90713,Tumeur vitelline,16
+90723,Polyembryome,16
+90731,Gonadoblastome,16
+90800,Tératome bénin,16
+90801,"Tératome, SAI",16
+90803,"Tératome malin, SAI",16
+90813,Tératocarcinome,16
+90823,Tératome malin indifférencié,16
+90833,Tératome malin de type intermédiaire,16
+90840,"Kyste dermoïde, SAI",16
+90843,Kyste dermoïde avec transformation maligne (C56.9),16
+90853,Tumeur mixte des cellules germinales,16
+90900,"Goitre ovarien, SAI (C56.9)",16
+90903,Goitre ovarien cancérisé (C56.9),16
+90911,Carcinoïde et goitre ovarien (C56.9),16
+91000,"Môle hydatiforme, SAI (C58.9)",16
+91001,"Môle hydatiforme invasive, SAI (C58.9)",16
+91003,"Choriocarcinome, SAI",16
+91013,Choriocarcinome avec autres éléments à cellules germinales,16
+91023,Tératome malin trophoblastique,16
+91030,Môle hydatiforme partielle (C58.9),16
+91041,Tumeur trophoblastique du site placentaire (C58.9),16
+91053,Tumeur trophoblastique épithélioïde,16
+91100,Mésonéphrome bénin,16
+91101,"Tumeur mésonéphrique, SAI",16
+91103,Mésonéphrome malin,16
+91200,"Hémangiome, SAI",6
+91203,Hémangiosarcome,6
+91210,Hémangiome caverneux,6
+91220,Hémangiome veineux,6
+91230,Hémangiome racémeux,6
+91243,Sarcome à cellules de Kupffer (C22.0),6
+91250,Hémangiome épithélioïde,6
+91300,Hémangioendothéliome bénin,6
+91301,"Hémangioendothéliome, SAI",6
+91303,Hémangioendothéliome malin,6
+91310,Hémangiome capillaire,6
+91320,Hémangiome intramusculaire,6
+91331,"Hémangioendothéliome épithélioïde, SAI",6
+91333,Hémangioendothéliome épithélioïde malin,6
+91351,Angioendothéliome papillaire endovasculaire,6
+91361,Hémangioendothéliome à cellules fusiformes,6
+91403,Sarcome de Kaposi,15
+91410,Angiokératome,6
+91420,Hémangiome verruqueux kératosique,6
+91500,Hémangiopéricytome bénin,6
+91501,"Hémangiopéricytome, SAI",6
+91503,Hémangiopéricytome malin,6
+91600,"Angiofibrome, SAI",6
+91610,Hémangiome pelotonné acquis,6
+91611,Hémangioblastome,6
+91700,"Lymphangiome, SAI",6
+91703,Lymphangiosarcome,6
+91710,Lymphangiome capillaire,6
+91720,Lymphangiome caverneux,6
+91730,Lymphangiome kystique,6
+91740,Lymphangiomyome,6
+91741,Lymphangiomyomatose,6
+91750,Hémolymphangiome,6
+91800,"Ostéome, SAI (C40.-, C41.-)",6
+91803,"Ostéosarcome, SAI (C40.-, C41.-)",6
+91813,"Ostéosarcome chondroblastique (C40.-, C41.-)",6
+91823,"Ostéosarcome fibroblastique (C40.-, C41.-)",6
+91833,"Ostéosarcome télangiectasique (C40.-, C41.-)",6
+91843,"Ostéosarcome sur maladie de Paget de los (C40.-, C41.-)",6
+91853,"Ostéosarcome à petites cellules (C40.-, C41.-)",6
+91863,"Ostéosarcome central (C40.-, C41.-)",6
+91873,"Ostéosarcome intra-osseux bien différencié (C40.-, C41.-)",6
+91910,"Ostéome ostéoïde, SAI (C40.-, C41.-)",6
+91923,"Ostéosarcome parostéal (C40.-, C41.-)",6
+91933,"Ostéosarcome périosté (C40.-, C41.-)",6
+91943,"Ostéosarcome de surface de haut grade (C40.-, C41.-)",6
+91953,"Ostéosarcome intracortical (C40.-, C41.-)",6
+92000,"Ostéoblastome, SAI (C40.-, C41.-)",6
+92001,"Ostéoblastome agressif (C40.-, C41.-)",6
+92100,"Ostéochondrome (C40.-, C41.-)",6
+92101,"Ostéochondromatose, SAI (C40.-, C41.-)",6
+92200,"Chondrome, SAI (C40.-, C41.-)",6
+92201,"Chondromatose, SAI",6
+92203,"Chondrosarcome, SAI (C40.-, C41.-)",6
+92210,"Chondrome juxtacortical (C40.-, C41.-)",6
+92213,"Chondrosarcome juxtacortical (C40.-, C41.-)",6
+92300,"Chondroblastome, SAI (C40.-, C41.-)",6
+92303,"Chondroblastome malin (C40.-, C41.-)",6
+92313,Chondrosarcome myxoïde,6
+92403,Chondrosarcome mésenchymateux,6
+92410,"Fibrome chondromyxoïde (C40.-, C41.-)",6
+92423,"Chondrosarcome à cellules claires (C40.-, C41.-)",6
+92433,"Chondrosarcome dédifférencié (C40.-, C41.-)",6
+92501,"Tumeur à cellules géantes de los, SAI (C40.-, C41.-)",6
+92503,"Tumeur maligne à cellules géantes de los (C40.-, C41.-)",6
+92511,"Tumeur à cellules géantes des tissus mous, SAI",6
+92513,Tumeur maligne à cellules géantes des tissus mous,6
+92520,Tumeur ténosynoviale à cellules géantes (C49.-),6
+92523,Tumeur ténosynoviale maligne à cellules géantes (C49.-),6
+92603,Sarcome dEwing,16
+92613,Adamantinome des os longs (C40.-),16
+92620,Fibrome ossifiant,16
+92700,Tumeur odontogène bénigne,16
+92701,"Tumeur odontogène, SAI",16
+92703,Tumeur odontogène maligne,16
+92710,Fibrodentinome améloblastique,16
+92720,"Cémentome, SAI",16
+92730,Cémentoblastome bénin,16
+92740,Fibrome cémentifiant,16
+92750,Cémentome géant,16
+92800,"Odontome, SAI",16
+92810,Odontome composé,16
+92820,Odontome complexe,16
+92900,Fibro-odontome améloblastique,16
+92903,Odontosarcome améloblastique,16
+93000,Tumeur odontogène adénomatoïde,16
+93010,Kyste odontogène calcifiant,16
+93020,Tumeur odontogène à cellules fantômes,16
+93100,"Améloblastome, SAI",16
+93103,Améloblastome malin,16
+93110,Odontoaméloblastome,16
+93120,Tumeur odontogène kératinisée,16
+93200,Myxome odontogène,16
+93210,"Fibrome odontogène central, SAI",16
+93220,Fibrome odontogène périphérique,16
+93300,Fibrome améloblastique,16
+93303,Fibrosarcome améloblastique,16
+93400,Tumeur odontogène épithéliale calcifiante,16
+93411,Tumeur odontogène à cellules claires,16
+93423,Carcinosarcome odontogène,16
+93501,Craniopharyngiome (C75.2),16
+93511,Craniopharyngiome adamantinomateux (C75.2),16
+93521,Craniopharyngiome papillaire (C75.2),16
+93601,Pinéalome (C75.3),16
+93611,Pinéalocytome (C75.3),16
+93623,Pinéaloblastome (C75.3),16
+93630,Tumeur mélanotique neuroectodermique,16
+93643,Tumeur neuroectodermique périphérique,16
+93653,Tumeur de Askin,16
+93703,"Chordome, SAI",6
+93713,Chordome chondroïde,6
+93723,Chordome dédifférencié,6
+93730,Parachordome,6
+93803,Gliome malin (C71.-),16
+93813,Gliomatose du cerveau (C71.-),16
+93823,Gliome mixte (C71.-),16
+93831,Subependymome (C71.-),16
+93841,Astrocytome sous-épendymaire à cellules géantes (C71.-),16
+93900,"Papillome des plexus choroïdes, SAI (C71.5)",16
+93901,Papillome atypique des plexus choroïdes (C71.5),16
+93903,Carcinome des plexus choroïdes (C71.5),16
+93913,"Épendymome, SAI (C71.-)",16
+93923,Épendymome anaplasique (C71.-),16
+93933,Épendymome papillaire (C71.-),16
+93941,Épendymome myxopapillaire (C72.0),16
+94003,"Astrocytome, SAI (C71.-)",16
+94013,Astrocytome anaplasique (C71.-),16
+94103,Astrocytome protoplasmique (C71.-),16
+94113,Astrocytome gémistocytique (C71.-),16
+94121,Astrocytome desmoplastique infantile (C71.-),16
+94130,Tumeur neuroépithéliale dysembryoplasique,16
+94203,Astrocytome fibrillaire (C71.-),16
+94211,Astrocytome pilocytique (C71.-),16
+94233,Spongioblastome polaire (C71.-),16
+94243,Xanthoastrocytome pléomorphe (C71.-),16
+94303,Astroblastome (C71.-),16
+94403,"Glioblastome, SAI (C71.-)",16
+94413,Glioblastome à cellules géantes (C71.-),16
+94421,Gliofibrome (C71.-),16
+94423,Gliosarcome (C71.-),16
+94441,Gliome chordoïde (C71.-),16
+94503,"Oligodendrogliome, SAI (C71.-)",16
+94513,"Oligodendrogliome , anaplasique (C71.-)",16
+94603,Oligodendroblastome [obs] (C71.-),16
+94703,"Médulloblastome, SAI (C71.6)",16
+94713,Médulloblastome nodulaire desmoplastique (C71.6),16
+94723,Médullomyoblastome (C71.6),16
+94733,"Tumeur neuroectodermique primitive, SAI",16
+94743,Médulloblastome à grandes cellules (C71.6),16
+94803,"Sarcome cérébelleux, SAI  (C71.6) [obs]",16
+94900,Ganglioneurome,16
+94903,Ganglioneuroblastome,16
+94910,Ganglioneuromatose,16
+94920,Gangliocytome,16
+94930,Gangliocytome dysplasique du cervelet (maladie de J. Lhermitte et Duclos) (C71.6),16
+95003,"Neuroblastome, SAI",16
+95010,Médulloépithéliome bénin (C69.4),16
+95013,"Médullo-épithéliome, SAI",16
+95020,Médullo-épithéliome tératoïde bénin (C69.4),16
+95023,Médullo-épithéliome tératoïde,16
+95033,"Neuroépithéliome, SAI",16
+95043,Spongioneuroblastome,16
+95051,"Gangliogliome, SAI",16
+95053,Gangliogliome anaplasique,16
+95061,Neurocytome central,16
+95070,Tumeur des corpuscules de Pacini,16
+95083,Tumeur rhabdoïde/tératoïde atypique (C71.-),16
+95100,Rétinocytome (C69.2),16
+95103,"Rétinoblastome, SAI (C69.2)",16
+95113,Rétinoblastome différencié (C69.2),16
+95123,Rétinoblastome indifférencié (C69.2),16
+95133,Rétinoblastome diffus (C69.2),16
+95141,Rétinoblastome à régression spontanée (C69.2),16
+95203,Tumeur neurogénique olfactive,16
+95213,Neurocytome olfactif (C30.0),16
+95223,Neuroblastome olfactif (C30.0),16
+95233,Neuroépithéliome olfactif (C30.0),16
+95300,"Méningiome, SAI",16
+95301,"Méningiomatose, SAI",16
+95303,Méningiome malin,16
+95310,Méningiome méningothélial,16
+95320,Méningiome fibreux,16
+95330,Méningiome psammomateux,16
+95340,Méningiome angiomateux,16
+95350,Méningiome hémangioblastique [obs],16
+95370,Méningiome transitionel,16
+95381,Méningiome à cellules claires,16
+95383,Méningiome papillaire,16
+95391,Méningiome atypique,16
+95393,Sarcomatose méningée,16
+95400,"Neurofibrome, SAI",6
+95401,"Neurofibromatose, SAI",6
+95403,Tumeur maligne de la gaine des nerfs périphériques,6
+95410,Neurofibrome mélanotique,6
+95500,Neurofibrome plexiforme,6
+95600,"Neurilemmome, SAI",6
+95601,Neurinomatose,6
+95603,Neurilemmome malin [obs],6
+95613,Tumeur maligne de la gaine des nerfs périphériques avec différenciation rhabdomyoblastique,6
+95620,Neurothécome,6
+95700,"Névrome, SAI",6
+95710,"Périneurome, SAI",6
+95713,Périneurome malin,6
+95800,"Tumeur à cellules granuleuses, SAI",6
+95803,Tumeur maligne à cellules granuleuses,6
+95813,Sarcome alvéolaire des tissus mous,6
+95820,Tumeur à cellules granuleuses de la région sellaire (C75.1),6
+95903,"Lymphome malin, SAI",14
+95913,"Lymphome malin non-hodgkinien, SAI",14
+95963,Lymphome à composante hodgkinienne et non-hodgkinienne,14
+96503,"Lymphome de Hodgkin, SAI",11
+96513,Lymphome de Hodgkin riche en lymphocytes,11
+96523,"Lymphome de Hodgkin, à cellularité mixte, SAI",11
+96533,"Lymphome de Hodgkin, à déplétion lymphoïde, SAI",11
+96543,"Lymphome de Hodgkin, à déplétion lymphoïde, type fibrose diffuse",11
+96553,"Lymphome de Hodgkin, à déplétion lymphoïde, type réticulaire",11
+96593,"Lymphome de Hodgkin à prédominance lymphocytaire, forme nodulaire",11
+96613,Granulome hodgkinien [obs],11
+96623,Sarcome hodgkinien [obs],11
+96633,"Lymphome de Hodgkin, sclérose nodulaire, SAI",11
+96643,"Lymphome de Hodgkin, sclérose nodulaire, phase cellulaire",11
+96653,"Lymphome de Hodgkin, sclérose nodulaire, grade 1",11
+96673,"Lymphome de Hodgkin, sclérose nodulaire, grade 2",11
+96703,"Lymphome malin à petits lymphocytes B, SAI (voir aussi M-9823/3)",9
+96713,Lymphome malin lymphoplasmocytoïde (voir aussi M-9761/3),9
+96733,Lymphome à cellules du manteau,9
+96753,Lymphome malin diffus mixte à petites et grandes cellules [obs] (voir aussi M-9690/3),9
+96783,Lymphome malin à épanchement primaire,9
+96793,Lymphome médiastinal à grandes cellules B (C38.3),9
+96803,"Lymphome malin diffus à grandes cellules B, SAI",9
+96843,"Lymphome malin immunoblastique diffus à grandes cellules B, SAI",9
+96873,"Lymphome de Burkitt, SAI (voir aussi M-9826/3)",9
+96893,Lymphome à cellules B de la zone marginale splénique (C42.2),9
+96903,"Lymphome folliculaire, SAI (voir aussi M-9675/3)",9
+96913,"Lymphome folliculaire, grade 2",9
+96953,"Lymphome folliculaire, grade 1",9
+96983,"Lymphome folliculaire, grade 3",9
+96993,"Lymphome de la zone marginale à cellules B, SAI",9
+97003,Mycosis fongoïde (C44.-),10
+97013,Maladie de Sézary,10
+97023,"Lymphome à cellules T matures, SAI",10
+97053,Lymphome angioimmunoblastique à cellules T,10
+97083,Lymphome à cellules T simulant une panniculite,10
+97093,"Lymphome cutané à cellules T, SAI (C44.-)",10
+97143,"Lymphome anaplasique à grandes cellules, à cellules T et cellules nulles",10
+97163,Lymphome hépatosplénique à cellule ? d (gamma-delta),10
+97173,Lymphome intestinal à cellules T,10
+97183,Syndrome lymphoprolifératif cutané primitif à cellules T CD30+,10
+97193,"Lymphome à cellules T/NK, type nasal",10
+97273,"Lymphome lymphoblastique à cellules précurseurs, SAI (voir aussi M-9835/3)",14
+97283,Lymphome lymphoblastique à cellules précurseurs B (voir aussi M-9836/3),9
+97293,Lymphome lymphoblastique à cellules précurseurs T (voir aussi M-9837/3),10
+97313,"Plasmocytome, SAI",9
+97323,Myélome multiple (C42.1),9
+97333,Leucémie à plasmocytes (C42.1),9
+97343,Plasmocytome extramédullaire (ne survenant pas dans los),9
+97401,"Mastocytome, SAI",12
+97403,Sarcome à mastocytes,12
+97413,Mastocytose maligne,12
+97423,Leucémie à mastocytes (C42.1),12
+97503,Histiocytose maligne,13
+97511,"Histiocytose à cellules de Langerhans, SAI",13
+97521,"Histiocytose à cellules de Langerhans, unifocale",13
+97531,"Histiocytose à cellules de Langerhans, multifocale",13
+97543,"Histiocytose à cellules de Langerhans, disséminée",13
+97553,Sarcome histiocytaire,13
+97563,Sarcome à cellules de Langerhans,13
+97573,Sarcome à cellules dendritiques interdigitées,13
+97583,Sarcome folliculaire à cellules dendritiques,13
+97603,"Maladie immunoproliférative, SAI",14
+97613,Macroglobulinémie de Waldenström (C42.0) (voir aussi M-9671/3),9
+97623,"Maladie des chaînes lourdes, SAI",9
+97643,Maladie immunoproliférative de lintestin grêle (C17.-),9
+97651,Gammapathie monoclonale de signification indéterminée,9
+97661,Lésion immunoproliférative angiocentrique,9
+97671,Lymphadénopathie angioimmunoblastique,9
+97681,Maladie lymphoproliférative gamma-T,10
+97691,Maladie à dépôts dimmunoglobulines,9
+98003,"Leucémie, SAI",14
+98013,"Leucémie aiguë, SAI",14
+98053,Leucémie biphénotypique aiguë,14
+98203,"Leucémie lymphoïde, SAI",14
+98233,Leucémie lymphoïde chronique à cellules B/lymphome à petits lymphocytes (voir aussi M-9670/3),9
+98263,Leucémie à cellules de Burkitt (voir aussi M-9687/3),9
+98273,"Leucémie/lymphome à cellules T, type adulte (HTLV-1 positif) incluant toutes les variétés",10
+98311,Leucémie lymphoïde à grandes cellules T granuleuses,10
+98323,"Leucémie prolymphocytaire, SAI",14
+98333,Leucémie prolymphocytaire à cellules B,9
+98343,Leucémie prolymphocytaire à cellules T,10
+98353,"Leucémie lymphoblastique à cellules précurseurs, SAI (voir aussi M-9727/3)",14
+98363,Leucémie lymphoblastique à cellules précurseurs B (voir aussi M-9728/3),9
+98373,Leucémie lymphoblastique à cellules précurseurs T (voir aussi M-9729/3),10
+98403,"Leucémie myéloïde aiguë, type M6",8
+98603,"Leucémie myéloïde, SAI",14
+98613,"Leucémie aiguë myéloïde, SAI (type FAB ou OMS  non précisé) (voir aussi M-9930/3)",8
+98633,"Leucémie myéloïde chronique, SAI",8
+98663,"Leucémie promyélocytaire aiguë, t(15;17)(q22;q11-12)",8
+98673,Leucémie aiguë myélomonocytaire,8
+98703,Leucémie aiguë à basophiles,8
+98713,Leucémie myéloïde aiguë avec éosinophiles médullaires anormaux,8
+98723,"Leucémie aiguë myéloïde, à différenciation minimale",8
+98733,Leucémie aiguë myéloïde sans maturation,8
+98743,Leucémie aiguë myéloïde avec maturation,8
+98753,"Leucémie myélogène chronique, ABL-BCR positif",8
+98763,"Leucémie myéloïde chronique atypique, ABL-BCR négatif",8
+98913,Leucémie aiguë monocytaire,8
+98953,Leucémie myéloïde aiguë avec dysplasie de plusieurs lignées cellulaires,8
+98963,"Leucémie myéloïde aiguë, t(8;21)(q22;q22)",8
+98973,"Leucémie myéloïde aiguë, anomalies 11q23",8
+99103,Leucémie mégacaryoblastique aiguë,8
+99203,"Leucémie myéloïde aiguë secondaire à une thérapie, SAI",8
+99303,Sarcome myéloïde (voir aussi M-9861/3),8
+99313,Panmyélose aiguë avec myélofibrose (C42.1),8
+99403,Leucémie à tricholeucocytes (C42.1),9
+99453,"Leucémie chronique myélomonocytaire, SAI",8
+99463,Leucémie myélomonocytaire juvénile,8
+99483,Leucémie agressive à cellules NK,10
+99503,Polycythémie vraie,8
+99603,"Maladie myéloproliférative chronique, SAI",14
+99613,Myélosclérose avec métaplasie myéloïde,8
+99623,Thrombocythémie essentielle,8
+99633,Leucémie chronique à polynucléaires neutrophiles,8
+99643,Syndrome hyperéosinophilique,8
+99701,"Syndrome lymphoprolifératif, SAI",14
+99751,"Maladie myéloproliférative, SAI",14
+99803,Anémie réfractaire,8
+99823,Anémie réfractaire avec sidéroblastes,8
+99833,Anémie réfractaire avec excès de blastes,8
+99843,Anémie réfractaire avec excès de blastes en transformation [obs],8
+99853,Anémie réfractaire avec dysplasie de plusieurs lignées cellulaires,8
+99863,Syndrome myélodysplasique avec syndrome de délétion du bras court du chromosome 5 (5q-),8
+99873,"Syndrome myélodysplasique secondaire à une thérapie, SAI",8
+99893,"Syndrome myélodysplasique, SAI",14

@@ -1,0 +1,331 @@
+libelleTopoCimo3,codeTopoCimo3,libelleGroupeTopo,codeGroupeTopo
+Lésion à localisations contiguës de la lèvre,C008,Bouche,1
+Commissure des lèvres,C006,Bouche,1
+Face externe de la lèvre inférieure,C001,Bouche,1
+Face externe de la lèvre SAI,C002,Bouche,1
+Muqueuse de la lèvre SAI,C005,Bouche,1
+Muqueuse de la lèvre supérieure,C003,Bouche,1
+Lèvre SAI (à l'exclusion de la peau de la lèvre),C009,Bouche,1
+Face externe de la lèvre supérieure,C000,Bouche,1
+Muqueuse de la lèvre inférieure,C004,Bouche,1
+Base de la langue SAI,C019,Langue,2
+Face ventrale de la langue SAI,C022,Langue,2
+Bord de la langue,C021,Langue,2
+Langue SAI,C029,Langue,2
+Face dorsale de la langue SAI,C020,Langue,2
+Amygdale linguale,C024,Langue,2
+Lésion à localisations contiguës de la langue,C028,Langue,2
+Deux tiers antérieurs de la langue SAI,C023,Langue,2
+Gencive SAI,C039,Bouche,1
+Gencive inférieure,C031,Bouche,1
+Gencive supérieure,C030,Bouche,1
+Plancher de la bouche SAI,C049,Bouche,1
+Plancher latéral de la bouche,C041,Bouche,1
+Plancher antérieur de la bouche,C040,Bouche,1
+Lésion à localisations contiguës du plancher de la bouche,C048,Bouche,1
+Lésion à localisations contiguës du palais,C058,Bouche,1
+Palais mou SAI (à l'exclusion de la face nasopharyngée du palais mou),C051,Bouche,1
+Luette,C052,Bouche,1
+Palais dur,C050,Bouche,1
+Palais SAI,C059,Bouche,1
+Bouche SAI,C069,Bouche,1
+Lésion à localisations contiguës de la bouche,C068,Bouche,1
+Région rétromolaire,C062,Bouche,1
+Vestibule de la bouche,C061,Bouche,1
+Muqueuse de la joue,C060,Bouche,1
+Glande parotide,C079,Glande parotide,3
+Glande salivaire principale SAI,C089,Glandes salivaires,4
+Lésion à localisations contiguës des glandes salivaires principales,C088,Glandes salivaires,4
+Glande sub-linguale,C081,Glandes salivaires,4
+Glande sous-maxillaire,C080,Glandes salivaires,4
+Amygdale SAI (à l'exclusion de l'amygdale linguale et de l'amygdale pharyngée),C099,Pharynx (hors nasopahrynx),5
+Lésion à localisations contiguës de l'amygdale,C098,Pharynx (hors nasopahrynx),5
+Pilier de l'amygdale,C091,Pharynx (hors nasopahrynx),5
+Loge amygdalienne,C090,Pharynx (hors nasopahrynx),5
+Oropharynx SAI,C109,Pharynx (hors nasopahrynx),5
+Lésion à localisations contiguës de l'oropharynx,C108,Pharynx (hors nasopahrynx),5
+Fente branchiale (en tant que localisation néoplasique),C104,Pharynx (hors nasopahrynx),5
+Paroi postérieure de l'oropharynx,C103,Pharynx (hors nasopahrynx),5
+Paroi latérale de l'oropharynx,C102,Pharynx (hors nasopahrynx),5
+Face antérieure de l'épiglotte,C101,Pharynx (hors nasopahrynx),5
+Vallécule,C100,Pharynx (hors nasopahrynx),5
+Nasopharynx SAI,C119,Nasopharynx,6
+Lésion à localisations contiguës du nasopharynx,C118,Nasopharynx,6
+Paroi antérieure du nasopharynx,C113,Nasopharynx,6
+Paroi latérale du nasopharynx,C112,Nasopharynx,6
+Paroi postérieure du nasopharynx,C111,Nasopharynx,6
+Paroi supérieure du nasopharynx,C110,Nasopharynx,6
+Sinus piriforme,C129,Pharynx (hors nasopahrynx),5
+Hypopharynx SAI,C139,Pharynx (hors nasopahrynx),5
+Paroi postérieure de l'hypopharynx,C132,Pharynx (hors nasopahrynx),5
+Lésion à localisations contiguës de,C138,Pharynx (hors nasopahrynx),5
+Région rétrocricoïdienne,C130,Pharynx (hors nasopahrynx),5
+Face hypopharyngée du repli ary-épiglottique,C131,Pharynx (hors nasopahrynx),5
+Pharynx SAI,C140,Pharynx (hors nasopahrynx),5
+"Lésion à localisations contiguës de la lèvre, de la cavité buccale et du pharynx",C148,Pharynx (hors nasopahrynx),5
+Anneau de Waldeyer,C142,Pharynx (hors nasopahrynx),5
+Tiers moyen de l'sophage,C154,Oesophage,7
+sophage abdominal,C152,Oesophage,7
+Tiers inférieur de l'sophage,C155,Oesophage,7
+sophage thoracique,C151,Oesophage,7
+Tiers supérieur de l'sophage,C153,Oesophage,7
+sophage cervical,C150,Oesophage,7
+sophage SAI,C159,Oesophage,7
+Lésion à localisations contiguës de l'sophage,C158,Oesophage,7
+Estomac SAI,C169,Estomac,8
+Lésion à localisations contiguës de l'estomac,C168,Estomac,8
+Grande courbure de l'estomac SAI (non classable de C16.0 à C16.4),C166,Estomac,8
+Petite courbure de l'estomac SAI (non classable de C16.1 à C16.4),C165,Estomac,8
+Pylore,C164,Estomac,8
+Antre gastrique,C163,Estomac,8
+Corps de l'estomac,C162,Estomac,8
+Fundus de l'estomac,C161,Estomac,8
+Cardia SAI,C160,Estomac,8
+Lésion à localisations contiguës de l 'intestin grêle,C178,Intestin grêle,9
+Diverticule de Meckel (en tant que localisation d'un néoplasme),C173,Intestin grêle,9
+Iléon (à l'exclusion de la valvule iléocaecale),C172,Intestin grêle,9
+Jéjunum,C171,Intestin grêle,9
+Duodénum,C170,Intestin grêle,9
+Intestin grêle SAI,C179,Intestin grêle,9
+Côlon ascendant,C182,Colon,10
+Appendice,C181,Colon,10
+Caecum,C180,Colon,10
+Côlon SAI,C189,Colon,10
+Côlon descendant,C186,Colon,10
+Lésion à localisations contiguës du côlon,C188,Colon,10
+Angle splénique du côlon,C185,Colon,10
+Côlon transverse,C184,Colon,10
+Côlon sigmoïde,C187,Colon,10
+Angle hépatique du côlon,C183,Colon,10
+Jonction recto-sigmoïdienne,C199,Rectum et jonction,11
+Rectum SAI,C209,Rectum et jonction,11
+Canal anal,C211,Anus et canal anal,12
+"Anus SAI (à l'exclusion de la peau de l'anus, péri-anale et de la marge anale  C44.5)",C210,Anus et canal anal,12
+"Lésion à localisations contiguës du rectum, de l'anus et du canal anal",C218,Anus et canal anal,12
+Zone cloacale,C212,Anus et canal anal,12
+Voies biliaires intrahépatiques,C221,Foie et voies biliaires intrahépatiques,13
+Foie,C220,Foie et voies biliaires intrahépatiques,13
+Vésicule biliaire,C239,Vésicule et autres localisations des voies biliaires,14
+Voies biliaires SAI,C249,Vésicule et autres localisations des voies biliaires,14
+Lésion à localisations contiguës des voies biliaires,C248,Vésicule et autres localisations des voies biliaires,14
+Ampoule de Vater,C241,Vésicule et autres localisations des voies biliaires,14
+Voies biliaires extra-hépatiques,C240,Vésicule et autres localisations des voies biliaires,14
+Pancréas SAI,C259,Pancréas,15
+Autres localisations spécifiées du pancréas,C257,Pancréas,15
+Ilôts de Langerhans,C254,Pancréas,15
+Canal pancréatique,C253,Pancréas,15
+Lésion à localisations contiguës du pancréas,C258,Pancréas,15
+Queue du pancréas,C252,Pancréas,15
+Corps du pancréas,C251,Pancréas,15
+Tête du pancréas,C250,Pancréas,15
+Lésion à localisations contiguës de l'appareil digestif,C268,Tractus gastro-intestinal SAI,16
+Tractus intestinal SAI,C260,Tractus gastro-intestinal SAI,16
+Tractus gastro-intestinal SAI,C269,Tractus gastro-intestinal SAI,16
+Oreille moyenne,C301,Fosse nasale et oreille moyenne,17
+Fosse nasale (à l'exclusion du nez SAI C76.0),C300,Fosse nasale et oreille moyenne,17
+Sinus annexe SAI,C319,Sinus de la face,18
+Lésion à localisations contiguës des sinus accessoires,C318,Sinus de la face,18
+Sinus sphénoïdal,C313,Sinus de la face,18
+Sinus frontal,C312,Sinus de la face,18
+Sinus ethmoïdal,C311,Sinus de la face,18
+Sinus maxillaire,C310,Sinus de la face,18
+Larynx SAI,C329,Larynx,19
+Lésion à localisations contiguës du larynx,C328,Larynx,19
+Cartilage laryngé,C323,Larynx,19
+Étage sous-glottique,C322,Larynx,19
+Étage sus-glottique,C321,Larynx,19
+Glotte,C320,Larynx,19
+Trachée,C339,Trachée Bronche et poumon,20
+Poumon SAI,C349,Trachée Bronche et poumon,20
+Lésion à localisations contiguës du poumon,C348,Trachée Bronche et poumon,20
+Lobe inférieur du poumon,C343,Trachée Bronche et poumon,20
+Lobe moyen du poumon,C342,Trachée Bronche et poumon,20
+Lobe supérieur du poumon,C341,Trachée Bronche et poumon,20
+Bronche souche,C340,Trachée Bronche et poumon,20
+Thymus,C379,Thymus,21
+"Lésion à localisations contiguës du cur, du",C388,Médiastin,22
+Plèvre SAI,C384,Médiastin,22
+Médiastin SAI,C383,Médiastin,22
+Médiastin postérieur,C382,Médiastin,22
+Médiastin antérieur,C381,Médiastin,22
+Coeur,C380,Médiastin,22
+Voies respiratoires supérieures SAI,C390,Appareil respiratoire,23
+Localisations mal définies de l'appareil respiratoire,C399,Appareil respiratoire,23
+Lésion à localisations contiguës de l'appareil respiratoire,C398,Appareil respiratoire,23
+"Os longs du membre supérieur, omoplate et articulations",C400,"Os, articulations et cartilage articulaire",24
+Os dun membre SAI,C409,"Os, articulations et cartilage articulaire",24
+"Lésion à localisations contiguës des os, des articulations et des cartilages articulaires des membres inférieurs",C408,"Os, articulations et cartilage articulaire",24
+Os courts du membre inférieur et articulations,C403,"Os, articulations et cartilage articulaire",24
+Os longs du membre inférieur et articulations,C402,"Os, articulations et cartilage articulaire",24
+Os courts du membre supérieur et articulations,C401,"Os, articulations et cartilage articulaire",24
+"Lésion à localisations contiguës des os, des articulations et du cartilage articulaire",C418,"Os, articulations et cartilage articulaire",24
+"Côte, sternum, clavicule et articulations",C413,"Os, articulations et cartilage articulaire",24
+Os SAI,C419,"Os, articulations et cartilage articulaire",24
+Colonne vertébrale (à l'exclusion du sacrum et coccyx),C412,"Os, articulations et cartilage articulaire",24
+"Os du bassin, sacrum, coccyx et cartilage articulaire",C414,"Os, articulations et cartilage articulaire",24
+"Os du crâne, de la face et articulations",C410,"Os, articulations et cartilage articulaire",24
+Mandibule,C411,"Os, articulations et cartilage articulaire",24
+Système hématopoïétique SAI,C424,Systèmes hématopoiétique et réticulo-endothélial,25
+Rate,C422,Systèmes hématopoiétique et réticulo-endothélial,25
+Moelle osseuse,C421,Systèmes hématopoiétique et réticulo-endothélial,25
+Système réticulo- endothélial SAI,C423,Systèmes hématopoiétique et réticulo-endothélial,25
+Sang,C420,Systèmes hématopoiétique et réticulo-endothélial,25
+"Peau SAI (à l'exclusion de la peau de la vulve, des grandes lèvres, du pénis, du scrotum)",C449,Peau,26
+Peau de la hanche et du membre inférieur,C447,Peau,26
+Peau de l'épaule et du membre supérieur,C446,Peau,26
+Peau du tronc,C445,Peau,26
+Lésion à localisations contiguës de la peau,C448,Peau,26
+Peau des autres régions et des régions non précisées de la face,C443,Peau,26
+Oreille externe,C442,Peau,26
+Paupière SAI,C441,Peau,26
+Peau du crâne et du cou,C444,Peau,26
+Peau de la lèvre SAI,C440,Peau,26
+"Nerfs périphériques et  système nerveux autonome de la tête, de la face et du cou",C470,Nerfs périphériques et système nerveux autonome,27
+Lésion à localisations contiguës des nerfs périphériques et du système nerveux autonome,C478,Nerfs périphériques et système nerveux autonome,27
+Nerfs périphériques et  système nerveux autonome du tronc,C476,Nerfs périphériques et système nerveux autonome,27
+Nerfs périphériques et  système nerveux autonome du pelvis,C475,Nerfs périphériques et système nerveux autonome,27
+Système nerveux autonome SAI,C479,Nerfs périphériques et système nerveux autonome,27
+Nerfs périphériques et  système nerveux autonome du thorax,C474,Nerfs périphériques et système nerveux autonome,27
+Nerfs périphériques et  système nerveux autonome du thorax,C473,Nerfs périphériques et système nerveux autonome,27
+Nerfs périphériques et  système nerveux autonome du membre inférieur et de la hanche,C472,Nerfs périphériques et système nerveux autonome,27
+Nerfs périphériques et  système nerveux autonome du membre supérieur et de l'épaule,C471,Nerfs périphériques et système nerveux autonome,27
+Lésion à localisations contiguës du rétropéritoine et du péritoine,C488,Rétropéritoine et péritoine,28
+Péritoine SAI,C482,Rétropéritoine et péritoine,28
+Régions spécifiées du péritoine,C481,Rétropéritoine et péritoine,28
+Rétropéritoine,C480,Rétropéritoine et péritoine,28
+"Tissu conjonctif, tissu sous-cutané et autres tissus mous, SAI",C499,"Tissu conjonctif, tissu sous-cutané et autres tissus mous",29
+"Lésion à localisations contiguës du tissu conjonctif, du tissu sous-cutané et autres tissus mous",C498,"Tissu conjonctif, tissu sous-cutané et autres tissus mous",29
+"Tissu conjonctif, tissu sous-cutané et autres tissus mous du tronc SAI",C496,"Tissu conjonctif, tissu sous-cutané et autres tissus mous",29
+"Tissu conjonctif, tissu sous-cutané et autres tissus mous du bassin",C495,"Tissu conjonctif, tissu sous-cutané et autres tissus mous",29
+"Tissu conjonctif, tissu sous-cutané et autres tissus mous de l'abdomen",C494,"Tissu conjonctif, tissu sous-cutané et autres tissus mous",29
+"Tissu conjonctif, tissu sous-cutané et autres tissus mous du thorax",C493,"Tissu conjonctif, tissu sous-cutané et autres tissus mous",29
+"Tissu conjonctif, tissu sous-cutané et autres tissus mous de la hanche et du membre inférieur",C492,"Tissu conjonctif, tissu sous-cutané et autres tissus mous",29
+"Tissu conjonctif, tissu sous-cutané et autres tissus mous de l'épaule et du membre supérieur",C491,"Tissu conjonctif, tissu sous-cutané et autres tissus mous",29
+"Tissu conjonctif, tissu sous-cutané et autres tissus mous de la tête, de la face et du cou",C490,"Tissu conjonctif, tissu sous-cutané et autres tissus mous",29
+Quadrant inféro-externe du sein,C505,Sein,30
+Quadrant supéro-externe du sein,C504,Sein,30
+Quadrant inféro-interne du sein,C503,Sein,30
+Quadrant supéro-interne du sein,C502,Sein,30
+Région centrale du sein,C501,Sein,30
+Mamelon,C500,Sein,30
+Prolongement axillaire du sein,C506,Sein,30
+Lésion à localisations contiguës du sein,C508,Sein,30
+Sein SAI (à l'exclusion de la peau du sein),C509,Sein,30
+Vulve SAI,C519,Vulve,31
+Lésion à localisations contiguës de la vulve,C518,Vulve,31
+Clitoris,C512,Vulve,31
+Petite lèvre,C511,Vulve,31
+Grande lèvre,C510,Vulve,31
+Vagin SAI,C529,Vagin,32
+Col utérin,C539,Col utérin,33
+Lésion à localisations contiguës du col utérin,C538,Col utérin,33
+Exocol,C531,Col utérin,33
+Endocol,C530,Col utérin,33
+Corps utérin,C549,Corps utérin,34
+Lésion à localisations contiguës du corps de l'utérus,C548,Corps utérin,34
+Fond utérin,C543,Corps utérin,34
+Myomètre,C542,Corps utérin,34
+Endomètre,C541,Corps utérin,34
+Isthme de l'utérus,C540,Corps utérin,34
+Utérus SAI,C559,Utérus SAI,35
+Ovaire,C569,Ovaire,36
+Paramètre,C573,Appareil génital féminin SAI,37
+Ligament rond,C572,Appareil génital féminin SAI,37
+Ligament large,C571,Appareil génital féminin SAI,37
+Trompe de Fallope,C570,Appareil génital féminin SAI,37
+Appareil génital féminin SAI,C579,Appareil génital féminin SAI,37
+Lésion à localisations contiguës des organes,C578,Appareil génital féminin SAI,37
+Autres régions spécifiées des organes génitaux,C577,Appareil génital féminin SAI,37
+Annexes de l'utérus,C574,Appareil génital féminin SAI,37
+Placenta,C589,Placenta,38
+Gland,C601,Organes génitaux masculins,39
+Corps de la verge,C602,Organes génitaux masculins,39
+Prépuce,C600,Organes génitaux masculins,39
+Verge SAI,C609,Organes génitaux masculins,39
+Lésion à localisations contiguës de la verge,C608,Organes génitaux masculins,39
+Glande prostatique,C619,Prostate,40
+Testicule SAI,C629,Testicule,41
+Testicule intra-scrotal,C621,Testicule,41
+Testicule ectopique (en tant que localisation néoplasique),C620,Testicule,41
+Épididyme,C630,Organes génitaux masculins,39
+Organes génitaux masculins SAI,C639,Organes génitaux masculins,39
+Lésion à localisations contiguës des organes masculins,C638,Organes génitaux masculins,39
+Autres régions spécifiées des organes génitaux masculins,C637,Organes génitaux masculins,39
+Scrotum SAI,C632,Organes génitaux masculins,39
+Cordon spermatique,C631,Organes génitaux masculins,39
+Rein SAI,C649,Rein,42
+Bassinet,C659,Voies urinaires,43
+Uretère,C669,Voies urinaires,43
+Orifice urétéral,C676,Voies urinaires,43
+Paroi postérieure de la vessie,C674,Voies urinaires,43
+Ouraque,C677,Voies urinaires,43
+Paroi antérieure de la vessie,C673,Voies urinaires,43
+Paroi latérale de la vessie,C672,Voies urinaires,43
+Dôme de la vessie,C671,Voies urinaires,43
+Col vésical,C675,Voies urinaires,43
+Trigone de la vessie,C670,Voies urinaires,43
+Vessie SAI,C679,Voies urinaires,43
+Lésion à localisations contiguës de la vessie,C678,Voies urinaires,43
+Appareil urinaire SAI,C689,Voies urinaires,43
+Lésion à localisations contiguës de l' appareil urinaire,C688,Voies urinaires,43
+Glande para-urétrale,C681,Voies urinaires,43
+Urètre,C680,Voies urinaires,43
+il SAI,C699,Oeil et annexes,44
+Lésion à localisations contiguës de l'il et des annexes,C698,Oeil et annexes,44
+Orbite SAI,C696,Oeil et annexes,44
+Glande lacrymale,C695,Oeil et annexes,44
+Corps ciliaire,C694,Oeil et annexes,44
+Choroïde,C693,Oeil et annexes,44
+Rétine,C692,Oeil et annexes,44
+Cornée SAI,C691,Oeil et annexes,44
+Conjonctive,C690,Oeil et annexes,44
+Méninges SAI,C709,Méninges,45
+Méninges rachidiennes,C701,Méninges,45
+Méninges cérébrales,C700,Méninges,45
+Lésion à localisations contiguës du cerveau,C718,Encéphale,46
+Tronc cérébral,C717,Encéphale,46
+Cervelet SAI,C716,Encéphale,46
+Ventricule SAI,C715,Encéphale,46
+Lobe occipital,C714,Encéphale,46
+Lobe pariétal,C713,Encéphale,46
+Lobe temporal,C712,Encéphale,46
+Lobe frontal,C711,Encéphale,46
+Cerveau,C710,Encéphale,46
+Encéphale SAI,C719,Encéphale,46
+Queue de cheval,C721,"Moelle épinière, nerfs crâniens et autres régions du système nerveux central",47
+Nerf olfactif,C722,"Moelle épinière, nerfs crâniens et autres régions du système nerveux central",47
+Lésion à localisations contiguës du cerveau et du système nerveux central,C728,"Moelle épinière, nerfs crâniens et autres régions du système nerveux central",47
+Nerf acoustique (vestibulo-cochléaire),C724,"Moelle épinière, nerfs crâniens et autres régions du système nerveux central",47
+Système nerveux SAI,C729,"Moelle épinière, nerfs crâniens et autres régions du système nerveux central",47
+Nerf optique,C723,"Moelle épinière, nerfs crâniens et autres régions du système nerveux central",47
+Nerf crânien SAI,C725,"Moelle épinière, nerfs crâniens et autres régions du système nerveux central",47
+Moelle épinière,C720,"Moelle épinière, nerfs crâniens et autres régions du système nerveux central",47
+Glande thyroïde,C739,Glande thyroide,48
+Glande surrénale SAI,C749,Autres glandes endocrines et structures apparentées,49
+Médullosurrénale,C741,Autres glandes endocrines et structures apparentées,49
+Cortex surrénalien,C740,Autres glandes endocrines et structures apparentées,49
+Glande hypophysaire,C751,Autres glandes endocrines et structures apparentées,49
+Glande parathyroïde,C750,Autres glandes endocrines et structures apparentées,49
+Glande endocrine SAI,C759,Autres glandes endocrines et structures apparentées,49
+Lésion à localisations contiguës des glandes endocrines,C758,Autres glandes endocrines et structures apparentées,49
+Corpuscule aortique et autres paraganglions,C755,Autres glandes endocrines et structures apparentées,49
+Corpuscule carotidien,C754,Autres glandes endocrines et structures apparentées,49
+Glande pinéale,C753,Autres glandes endocrines et structures apparentées,49
+Canal craniopharyngé,C752,Autres glandes endocrines et structures apparentées,49
+Lésion à localisations contiguës des régions mal définies,C768,Autres localisations et localisations mal définies,50
+Autres régions mal définies,C767,Autres localisations et localisations mal définies,50
+Membre inférieur SAI,C765,Autres localisations et localisations mal définies,50
+Membre supérieur SAI,C764,Autres localisations et localisations mal définies,50
+Bassin SAI,C763,Autres localisations et localisations mal définies,50
+Abdomen SAI,C762,Autres localisations et localisations mal définies,50
+Thorax SAI,C761,Autres localisations et localisations mal définies,50
+"Tête, face ou cou SAI",C760,Autres localisations et localisations mal définies,50
+Ganglions lymphatiques intra-thoraciques,C771,Ganglions lymphatiques,51
+"Ganglions lymphatiques de la tête, de la face et du cou",C770,Ganglions lymphatiques,51
+Ganglion lymphatique SAI,C779,Ganglions lymphatiques,51
+Ganglions lymphatiques de régions multiples,C778,Ganglions lymphatiques,51
+Ganglions lymphatiques pelviens,C775,Ganglions lymphatiques,51
+Ganglions lymphatiques de la région inguinale ou de la jambe,C774,Ganglions lymphatiques,51
+Ganglions lymphatiques de l'aisselle ou du bras,C773,Ganglions lymphatiques,51
+Ganglions lymphatiques intra-abdominaux,C772,Ganglions lymphatiques,51
+Siège primaire non précisé,C809,Site primaire inconnu,52

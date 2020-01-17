@@ -1,0 +1,101 @@
+package siti.inf203.jena.index;		
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.Reader;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+
+import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.standard.StandardAnalyzer;
+import org.apache.lucene.document.Document;
+import org.apache.lucene.document.Field;
+import org.apache.lucene.index.CorruptIndexException;
+import org.apache.lucene.index.IndexReader;
+import org.apache.lucene.index.IndexWriter;
+import org.apache.lucene.queryParser.ParseException;
+import org.apache.lucene.queryParser.QueryParser;
+import org.apache.lucene.search.Hit;
+import org.apache.lucene.search.Hits;
+import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.Query;
+import org.apache.lucene.search.ScoreDoc;
+import org.apache.lucene.search.TopDocs;
+import org.apache.lucene.store.Directory;
+import org.apache.lucene.store.FSDirectory;
+import org.apache.lucene.store.LockObtainFailedException;
+
+/**
+ * This terminal application creates an Apache Lucene index in a folder and adds files into this index
+ * based on the input of the user.
+ */
+public class TextFileIndexer {
+
+	public static final String FILES_TO_INDEX_DIRECTORY = "corpus";
+	public static final String INDEX_DIRECTORY = "indexDirectory";
+
+	public static final String FIELD_PATH = "path";
+	public static final String FIELD_CONTENTS = "contents";
+
+
+	public static void createIndex() throws CorruptIndexException, LockObtainFailedException, IOException {
+		Analyzer analyzer = new StandardAnalyzer();
+		boolean recreateIndexIfExists = true;
+		IndexWriter indexWriter = new IndexWriter(INDEX_DIRECTORY, analyzer, recreateIndexIfExists);
+		File dir = new File(FILES_TO_INDEX_DIRECTORY);
+		File[] files = dir.listFiles();
+		System.out.println("------------> Début indexation des fichiers ");
+		for (File file : files) {
+			Document document = new Document();
+
+			String path = file.getCanonicalPath();
+			document.add(new Field(FIELD_PATH, path, Field.Store.YES, Field.Index.UN_TOKENIZED));
+
+			Reader reader = new FileReader(file);
+			document.add(new Field(FIELD_CONTENTS, reader));
+
+			indexWriter.addDocument(document);
+		}
+		indexWriter.optimize();
+		indexWriter.close();
+		System.out.println("------------> Fin indexation des fichiers (Succès !) ");
+	}
+	// chercher dans l'index
+	public static List<String> searchIndex(String searchString) throws IOException, ParseException {
+		
+		List<String> docList = new ArrayList<String>();
+		
+		System.out.println("----------> Requête étendue : '" + searchString + "'");
+		Directory directory = FSDirectory.getDirectory(INDEX_DIRECTORY);
+		IndexReader indexReader = IndexReader.open(directory);
+		IndexSearcher indexSearcher = new IndexSearcher(indexReader);
+
+		Analyzer analyzer = new StandardAnalyzer();
+		QueryParser queryParser = new QueryParser(FIELD_CONTENTS, analyzer);
+		Query query = queryParser.parse(searchString);
+		
+		// classement documents selon le score
+		long start = System.currentTimeMillis();
+		TopDocs hits = indexSearcher.search(query,null, 10);
+		long end = System.currentTimeMillis();
+		System.out.println("Found " + hits.totalHits + " document(s) (in " + (end-start) + " milliseconds)"
+				+ " that matched query '"+ searchString +"':");
+		
+		
+		for (ScoreDoc scoreDoc : hits.scoreDocs)
+		{
+			Document doc = indexSearcher.doc(scoreDoc.doc);
+			
+			//display score
+			int docId = scoreDoc.doc;
+			Document d = indexSearcher.doc(docId);
+			String score = String.valueOf(scoreDoc.score);
+			String path = doc.get(FIELD_PATH);
+			docList.add(path);
+			System.out.println(path + " (Score = " +score+")");
+		}
+		return docList;
+		
+	}
+}

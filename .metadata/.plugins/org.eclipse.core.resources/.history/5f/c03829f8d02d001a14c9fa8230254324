@@ -1,0 +1,93 @@
+package siti.inf203.jena.outils;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.net.URI;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.List;
+import java.util.Set;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
+import opennlp.tools.tokenize.SimpleTokenizer;
+import opennlp.tools.tokenize.Tokenizer;
+import opennlp.tools.tokenize.WhitespaceTokenizer;
+
+public class TokenizeFile {
+	   // It's even easier in Java 8
+    
+    public static String[] readLines(String filename) throws IOException {
+        FileReader fileReader = new FileReader(filename);
+        BufferedReader bufferedReader = new BufferedReader(fileReader);
+        List<String> lines = new ArrayList<String>();
+        String line = null;
+        while ((line = bufferedReader.readLine()) != null) {
+            lines.add(line);
+        }
+        bufferedReader.close();
+        return lines.toArray(new String[lines.size()]);
+    }
+    
+    public static void tokenizeFile(String inFile, String outFile) throws IOException {
+    	
+    	List<String> result = new ArrayList<>(); 
+    	
+    	BufferedReader bf = new BufferedReader(new FileReader(inFile));
+	    //Instantiating SimpleTokenizer class 
+    	 String[] tokens;
+	      SimpleTokenizer simpleTokenizer = SimpleTokenizer.INSTANCE;  
+			String line;
+			while ((line = bf.readLine()) != null) {
+				result.add(line);
+			}
+	       
+	      for(int i = 0; i < result.size(); i++) {
+	    	  System.out.println(result.get(i));
+	    	 tokens = simpleTokenizer.tokenize(result.get(i));
+	        }
+	      
+	      System.out.println(Arrays.toString(tokens.toArray()));
+    }
+    
+    
+    public static void stripDuplicatesFromFile(String filename) throws IOException {
+        BufferedReader reader = new BufferedReader(new FileReader(filename));
+        //Set<String> lines = new LinkedHashSet<String>(10000); // maybe should be bigger
+        String line;
+        
+        Set<String> maList = new HashSet<String>();
+        while ((line = reader.readLine()) != null) {
+        	String [] lines = line.split("^[ \t]+|[ \t]+$");
+        	
+            maList.add(lines[0]);
+        }
+        reader.close();
+        System.out.println("ArrayList with duplicates: "
+                + maList); 
+       //ArrayList<String> newList = removeDuplicates(maList); 
+        BufferedWriter writer = new BufferedWriter(new FileWriter(filename+"2"));
+        Set<String> listWithoutDuplicates = maList.stream().distinct().collect(Collectors.toSet());
+        for (String unique : listWithoutDuplicates) {
+            writer.write(unique);
+            writer.newLine();
+        }
+        writer.close();
+    }
+    
+	public static void main(String[] args) throws IOException {
+		
+		tokenizeFile("resources/Topo.txt", "tokenisedFile/topo.txt");
+		
+		//stripDuplicatesFromFile("tokenisedFile/morpho.txt");
+       
+	} 
+}

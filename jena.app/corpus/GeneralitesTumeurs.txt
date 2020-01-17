@@ -1,0 +1,479 @@
+Généralités sur les tumeurs
+Collège Français des Pathologistes (CoPath)
+Date de création du document 2011_2012
+Sommaire
+•
+•
+•
+•
+•
+•
+•
+•
+1 Introduction
+2 Définition d’une tumeur
+o
+ 2. 1 Caractères d’une tumeur
+3 Composition d’une tumeur
+o
+ 3. 1 Types histologiques des tumeurs
+o
+ 3. 2 Différenciation tumorale
+4 Tumeurs bénignes et malignes
+o
+ 4. 1 Tumeurs bénignes
+o
+ 4. 2 Tumeurs malignes
+o
+ 4. 3 Limites de la distinction bénin/malin
+5 Nomenclature des tumeurs
+6 Évaluation du pronostic des cancers
+o
+ 6. 1 Grade
+o
+ 6. 2 Stade
+o
+ 6. 3 Marqueurs pronostiques
+7 Méthodes diagnostiques des tumeurs
+o
+ 7. 1 Diagnostic morphologique
+o
+ 7. 2 Pathologie moléculaire
+o
+ 7. 3 Stratégie diagnostique
+
+ 7. 3. 1 Types de prélèvements
+
+ 7. 3. 2 Collaboration au sein de l’équipe médicale
+8 Les points essentiels
+OBJECTIFS
+••••Connaître la définition, la composition et la classification des tumeurs.
+Connaître les principaux paramètres permettant d'évaluer le pronostic des tumeurs.
+Connaître les techniques histologiques et moléculaires utiles au diagnostic des
+tumeurs.
+Maîtriser les stratégies permettant de réaliser le diagnostic d'une tumeur.
+1 - INTRODUCTION
+La classification des tumeurs est fondée sur leur organe ou tissu d’origine, leur type
+histologique, et leur degré de malignité. Le diagnostic est fondé sur l’histologie, mais fait de
+plus en plus souvent appel à des techniques complémentaires telles que l’immunohistochimie,
+la cytogénétique et la biologie moléculaire.
+2 - DEFINITION D’UNE TUMEUR
+Le terme « tumeur » désignait autrefois toute augmentation de volume localisé déformant un
+organe ou une partie du corps. Elle réunissait des lésions différentes, notamment :
+•
+•
+•
+des collections liquidiennes collectées dans une cavité préformée ;
+des tuméfactions d’origine inflammatoire ;
+des hypertrophies tissulaires d’origine dystrophique (goitre) ;
+•
+ des lésions liées à des désordres d’origine embryologique (dysembryoplasies).
+La définition actuelle est plus restrictive et repose sur la notion d’homéostasie des tissus.
+Le développement et la croissance d’un tissu ou d’un organe sont conditionnés par des
+processus complexes permettant la régulation des différentes étapes de la vie d’une cellule : la
+prolifération, la différenciation, la sénescence et la mort cellulaire programmée. Tous ces
+phénomènes sont aussi mis en jeu lors du renouvellement des cellules dont la durée de vie est
+limitée. Au sein d’un tissu, l’équilibre entre ces processus est à l’origine de l’homéostasie
+tissulaire. Les anomalies de cette homéostasie, par augmentation de la prolifération et/ou
+diminution de la mort cellulaire, sont à l’origine de l’accumulation des cellules aboutissant à
+la formation d’une tumeur macroscopiquement visible.
+Le terme de tumeur (synonyme : « néoplasme » ou « néoplasie ») désigne actuellement une
+prolifération cellulaire excessive aboutissant à une masse tissulaire ressemblant plus ou moins
+au tissu normal homologue (adulte ou embryonnaire), ayant tendance à persister et à croître,
+témoignant de son autonomie biologique.
+2. 1 - Caractères d’une tumeur
+Prolifération cellulaire excessive
+La prolifération est liée à la multiplication des descendants d’une ou plusieurs cellules
+anormales. C’est la notion de clonalité. Un clone est un ensemble de cellules dérivées d’une
+seule cellule initiale. Une tumeur est dite poly- oligo- ou monoclonale, selon qu’elle se
+développe à partir de plusieurs, quelques ou une seule cellule.
+Masse tissulaire ressemblant plus ou moins à un tissu normal
+Les caractères cytologiques et architecturaux de ce nouveau tissu réalisant un aspect plus ou
+moins proche de celui du tissu normal homologue adulte ou embryonnaire. Cette
+ressemblance définit une notion fondamentale : la différenciation tumorale.
+Plus la fonction et la structure tumorales se rapprochent de la fonction et de la structure du
+tissu normal, plus la tumeur est dite différenciée (figure 7.1).
+Figure 7.1. Tumeur bénigne : polype pédiculé du colon correspondant à un adénome en
+dysplasie de bas grade
+Macroscopie à Gauche et histologie à droite.
+Tendance à persister et à croître
+La prolifération tumorale se poursuit après la disparition du « stimulus » qui lui a donné
+naissance. La prolifération tumorale est biologiquement autonome.
+Succession d’événements génétiques
+Ces anomalies génétiques s’accumulent généralement en plusieurs années. Au cours de ce
+processus en plusieurs étapes, le génome des cellules tumorales acquiert des allèles mutants
+de proto-oncogènes, de gènes suppresseurs de tumeur et de gènes contrôlant directement ou
+indirectement l’intégrité de l’ADN.
+La conséquence de ces anomalies génétiques est l’acquisition de nouvelles propriétés, dont :
+• la capacité de générer leurs propres signaux mitogènes ;
+• de résister aux signaux externes d’inhibition de la croissance ;
+• de proliférer sans limite (immortalisation) ;
+• d’infiltrer les tissus adjacents ;
+• de constituer une néo-vascularisation (angiogénèse).
+3 - COMPOSITION D’UNE TUMEUR
+Le tissu tumoral est constitué :
+•
+•
+de cellules tumorales : cellules prolifératives anormales ;
+d’un tissu de soutien (= stroma tumoral) fait de cellules et de substance extra-cellulaire
+dans laquelle est située la vascularisation tumorale. Les cellules du stroma ne
+présentent pas les anomalies génétiques des cellules tumorales.
+3. 1 - Types histologiques des tumeurs
+Les différentes composantes de chaque tumeur (cellules tumorales et stroma) peuvent
+présenter des aspects morphologiques particuliers qui peuvent être regroupés par types
+histologiques. Les tumeurs sont ainsi classées en fonction de critères histologiques communs,
+définis par les classifications internationales, éditées par l’Organisation mondiale de la santé
+(OMS), et remises à jour régulièrement. La reconnaissance de ces critères et le classement de
+la tumeur dans le type adéquat sont la base du diagnostic anatomopathologique de toute
+tumeur.
+En pratique, les tumeurs sont classées en fonction de l’organe dont elles dérivent (ex : sein,
+foie, rein, os), (figure 7.2), puis en fonction de leur type histologique. Le type histologique
+correspond à la cellule normale dont la tumeur semble dériver.
+Au sein d’un même organe, les différents types histologiques de tumeur peuvent avoir une
+évolutivité particulière, un mode d’extension préférentiel et une réponse variable suivant les
+traitements.
+Les traitements sont donc adaptés en fonction du type histologique de chaque tumeur. Ainsi,
+bien que dans certains organes un type de tumeur soit nettement prépondérant (ex : les
+adénocarcinomes représentent 95 % des tumeurs malignes du sein), un autre type histologique
+de tumeur (ex : un lymphome ou un angiosarcome) peut s’y développer et nécessitera un
+traitement radicalement différent. De plus, certains types de tumeurs peuvent être
+héréditairement transmissibles et justifier une enquête génétique, d’autres sont des maladies
+professionnelles (ex : exposition à l’amiante et mésothéliome).
+Remarque
+Pour certaines tumeurs découvertes à un stade métastatique, l’organe d’origine (le « primitif
+») n’est pas identifiable. Ces tumeurs sont alors classées uniquement en fonction de leur type
+histologique.
+Figure 7.2. Incidence des cancers par localisation et sexe
+Estimations 2006, sans prendre en compte les carcinomes basocellulaires et spinocellulaires
+cutanés, ni les carcinomes in situ (sauf ceux de la vessie). (Adapté d’après Jemal A, et al. :
+Cancer statistics, 2006. CA Cancer J Clin 56 : 106, 2006.)
+3. 2 - Différenciation tumorale
+Le tissu tumoral tend à reproduire la structure et la fonction d’un tissu normal :
+•
+ soit le plus souvent, l’aspect du tissu dont les cellules tumorales sont originaires ;
+•
+ soit plus rarement un tissu différent : la tumeur est dite métaplasique.
+Exemple : l’épithélium bronchique est bordé d’un épithélium cylindrique cilié. Les tumeurs
+bronchiques peuvent être des tumeurs à différenciation glandulaire ou des tumeurs à
+différenciation malpighienne lorsqu’elles surviennent sur une métaplasie malpighienne de
+l’épithélium bronchique.
+La différentiation d’une tumeur est sa tendance à ressembler à un tissu normal ou
+embryonnaire. La tumeur est dite :
+• bien différenciée, lorsqu’elle ressemble nettement et de façon homogène au tissu
+normal ;
+• peu différenciée lorsque la ressemblance est lointaine ou focale ;
+•
+indifférenciée, ou anaplasique (ex : carcinome indifférencié défini comme une tumeur
+à différenciation épithéliale dont il est impossible de préciser la différenciation
+glandulaire ou malpighienne) (figure 7.3).
+Figure 7.3. Différentiation tumorale : Liposarcome bien différentié (en haut) ou peu
+différentié (en bas)
+Dans la forme peu différentiée, les grandes vacuoles lipidiques, caractéristiques des
+adipocytes, sont pratiquement absentes.
+4 - TUMEURS BENIGNES ET MALIGNES
+Contrairement aux tumeurs bénignes, les tumeurs malignes aboutissent spontanément à la
+mort du patient. Cette distinction importante sur le plan évolutif est fortement corrélée à des
+critères macroscopiques et histologiques.
+4. 1 - Tumeurs bénignes
+Caractères évolutifs
+Les tumeurs bénignes se développent localement et restent cantonnées au tissu dans lequel
+elles ont pris naissance. Leur croissance est lente. Toutefois, elles peuvent atteindre un volume
+et un poids importants. Elles ne récidivent pas après ablation chirurgicale, à condition que
+l’exérèse soit complète. Ces tumeurs ne métastasent jamais. Leur évolution est généralement
+favorable. Toutefois, dans certains cas, elles peuvent être la cause de complications graves
+voire mortelles, en raison de leur siège ou de désordres métaboliques.
+Exemples :
+•
+•
+un méningiome du trou occipital, situé dans un orifice non expansible, peut avoir une
+évolution mortelle en provoquant un engagement du tronc cérébral à travers l’orifice
+occipital ;
+un adénome parathyroïdien est responsable d’une hyperparathyroïdie et par
+conséquent d’une hypercalcémie parfois dangereuse.
+Caractères macroscopiques
+Il s’agit de tumeurs circonscrites, bien limitées, nettement séparées des tissus avoisinants,
+parfois même entourées par une capsule (coque faite de tissu conjonctif). Cette limitation
+explique la facilité de l’exérèse chirurgicale et la possibilité d’une exérèse limitée à la seule
+tumeur (ex : adénofibrome du sein, léiomyome de l’utérus).
+Caractères histologiques
+Le tissu tumoral reproduit de très près la structure du tissu initial (tumeur différenciée). Les
+cellules ont une morphologie normale et ne présentent aucun caractère de malignité (figure
+7.4).
+Figure 7.4. Tumeur bénigne : Adénome de la thyroïde. L’histologie est très proche de
+celle observée dans le parenchyme thyroïdien normal
+Il n’y a pas d’envahissement des tissus voisins. Les tumeurs bénignes refoulent sans les
+détruire les tissus sains de voisinage : elles sont expansives (ex : adénome du foie).
+4. 2 - Tumeurs malignes
+Les caractères des tumeurs malignes ou cancers s’opposent point par point à ceux des tumeurs
+bénignes (tableau 7.1)
+Tableau 71 : Tableau récapitulatif tumeurs bénignes/malignes
+Caractères évolutifs
+Les tumeurs malignes ont habituellement une croissance rapide. Elles donnent naissance à une
+dissémination tumorale à distance (surtout par voie lymphatique et sanguine) avec éclosion et
+développement de tumeurs secondaires dans d’autres viscères : les métastases. Les tumeurs
+malignes ont tendance à récidiver après éradication locale. L’évolution, en l’absence de
+traitement, se fait spontanément vers la mort.
+Caractères macroscopiques
+Les tumeurs malignes sont mal limitées, non encapsulées ; elles détruisent et envahissent
+l’organe dans lequel elles ont pris naissance, ainsi que les organes de voisinage. Leurs
+contours sont irréguliers. Les foyers de nécrose et d’hémorragie sont habituels.
+Caractères histologiques
+Les cellules tumorales malignes présentent habituellement des caractères anormaux
+(caractères cytologiques de malignité). Le tissu tumoral est plus ou moins différencié. Il «
+caricature » le tissu normal orthologue.
+4. 3 - Limites de la distinction bénin/malin
+Les caractères opposant les tumeurs bénignes et les tumeurs malignes constituent un schéma
+valable dans la plupart des cas. Toutefois, il est des cas où les critères morphologiques ne
+correspondent pas à l’évolution.
+Continuum entre certaines tumeurs bénignes et tumeurs malignes
+Adénomes coliques et adénocarcinomes coliques, tumeurs urothéliales papillaires,
+astrocytomes, tumeurs papillaires du rein. Ce continuum appelé « progression tumorale »
+correspond à l’acquisition progressive par la tumeur d’un phénotype de malignité,
+d’anomalies chromosomiques et géniques en nombre croissant.
+Tumeurs d’agressivité locale
+Caractères histologiques bénins contrastant avec une infiltration des tissus avoisinants et une
+tendance à la récidive en raison des difficultés de l’exérèse (ex : les fibromatoses).
+Tumeurs à malignité locale
+Tumeur dont les caractères histologiques et macroscopiques sont malins mais dont
+l’agressivité est locale. Le pronostic est plus favorable que ne le laisserait supposer le
+caractère infiltrant de la tumeur (ex : carcinome basocellulaire de la peau).
+Les critères macroscopiques et microscopiques d’une tumeur ne permettent parfois pas d’en
+affirmer la nature bénigne ou maligne (ex : tumeurs endocrines bien différenciées). Dans
+certains cas, cette nature maligne ne peut être affirmée que par la survenue de métastases (ex :
+phéochromocytome).
+5 - NOMENCLATURE DES TUMEURS
+L’examen anatomopathologique d’une tumeur a pour objectif d’établir le type, le grade
+histologique et le stade (c’est-à-dire l’extension) et d’évaluer le pronostic ; ce qui contribue à
+déterminer le traitement le plus approprié pour le patient.
+La nomenclature des tumeurs suit une terminologie précise (tableaux 7.2–7.7). Un nom de
+tumeur se compose généralement d’une racine et d’un suffixe, et peut être associé à un
+adjectif. La racine définit la différenciation (adéno désigne une tumeur glandulaire,
+rhabdomyo une tumeur musculaire striée, leiomyo une tumeur musculaire lisse).
+Tableaux 7.2, 7.3.et 7.4
+Tableaux 7.5; 7.6 et 7.7
+Le suffixe :
+• ome est utilisé pour nommer les tumeurs bénignes (adénome, rhabdomyome,
+leiomyome). Il existe cependant des exceptions (ex : les lymphomes et les mélanomes
+sont des tumeurs malignes) ;
+• matose désigne la présence de tumeurs multiples ou diffuses (angiomatose,
+leiomyomatose, adénomatose) ;
+• carcinome désigne une tumeur maligne épithéliale (ex : adénocarcinome) ;
+• sarcome désigne une tumeur maligne conjonctive (ex : rhabdomyosarcome) ;
+• blastome désigne une tumeur embryonnaire (ex : néphroblastome ou neuroblastome).
+6 - ÉVALUATION DU PRONOSTIC DES CANCERS
+La classification des tumeurs en fonction de l’organe d’origine et de leur type histologique
+fournit des informations importantes pour évaluer leur pronostic. Toutefois, d’autres
+paramètres permettent de préciser le potentiel évolutif. Il s’agit du degré de différenciation
+(grade) et du degré d’extension (stade) de la tumeur, ainsi que dans certains cas de marqueurs
+moléculaires.
+6. 1 - Grade
+Le grade d’un cancer se fonde sur des critères histologiques tels le degré de différenciation
+tumorale, l’activité mitotique, le degré d’atypies cyto-nucléaires ou l’extension de la nécrose.
+Il est défini différemment pour chaque type de tumeur (figure 7.5).
+Exemple : le score de Scarff-Bloom-Richardson des adénocarcinomes mammaires prend en
+compte 3 variables : la différenciation glandulaire, les atypies cyto-nucléaires et le nombre de
+mitoses (comptées sur 10 champs au fort grossissement).
+Figure 7.5. Le score de Gleason est important pour évaluer le pronostic des
+adénocarcinomes prostatiques
+Ce score s’établit en additionnant le grade des 2 contingents tumoraux les plus abondants.
+Dans cet exemple grade 3 (en haut) + 5 (en bas) = score 8.
+6. 2 - Stade
+Le stade (ou degré d’extension) des cancers se fonde sur la taille de la tumeur primitive et/ou
+son extension aux tissus et organes de voisinage (T), l’importance de la dissémination aux
+ganglions lymphatiques régionaux (N) et la présence ou l’absence de métastases (M).
+Le système de stadification TNM est actuellement le plus communément utilisé dans le
+monde. Chacune de ces trois lettres est suivie d’un chiffre variant de 0 (absent) à 4 au
+maximum, ou d’un X en cas d’impossibilité d’évaluation. Ces chiffres peuvent être suivis
+d’une lettre, qui apporte une précision supplémentaire. Le score est précédé de la lettre c si
+l’évaluation du stade est clinique ou de la lettre p si elle est faite par un pathologiste.
+Exemple : adénocarcinome colique stade pT4aN1bMX, le pathologiste a détecté une
+infiltration tumorale de la séreuse et de 2 ou 3 ganglions, mais ignore s’il existe des
+métastases à distance. Le score TNM permet ensuite de déterminer le stade (ex :
+adénocarcinome colique T3N0M0 = stade IIA, ou T3N1aM0 = stade IIIB).
+Après une résection chirurgicale, le stade d’une tumeur doit être complété par une évaluation
+de la qualité de la résection, qui est exprimée par la lettre R, suivie des chiffres 0 (exérèse
+complète), 1 (envahissement microscopique des limites) ou 2 (envahissement macroscopique
+des limites).
+Si l’évaluation du stade est faite après un traitement (ex : radio- ou chimiothérapie), le score
+TNM est précédé de la lettre y. Par exemple, un adénocarcinome rectal réséqué après
+radiothérapie aura un score ypT0N1a s’il ne persiste plus de tumeur primitive identifiable et
+qu’un seul ganglion régional est envahi.
+Les classifications du stade TNM sont actualisées régulièrement (la 7e édition date de 2009).
+Aussi, il est important d’indiquer le référentiel utilisé lorsque l’on indique le stade TNM
+d’une tumeur. Par exemple, un adénocarcinome de l’estomac ayant envahi la sous-séreuse
+était classé « T2b » selon la 6e édition, alors qu’il est maintenant classé « T3 » selon la 7e
+édition.
+En savoir plus: Stade TNM, La classification TNM des cancers du côlon et Exemples de
+marqueurs pronostiques
+6. 3 - Marqueurs pronostiques
+Le développement de nouvelles techniques, telles l’immunohistochimie, la cytométrie en flux,
+l’hybridation in situ en fluorescence (FISH), la biologie moléculaire, a permis de découvrir la
+valeur pronostique de certaines molécules, dont l’anomalie d’expression ou les altérations
+sont détectables au sein des tumeurs. Les exemples sont chaque jour plus nombreux. Ces
+marqueurs permettent soit de préciser le pronostic spontané, soit de prévoir une réponse à un
+traitement.
+7 - METHODES DIAGNOSTIQUES DES TUMEURS
+L’étude anatomopathologique a pour but de préciser :
+1.
+2.
+3.
+4.
+la nature histologique de la tumeur ;
+son agressivité potentielle ;
+son pronostic ;
+sa capacité à répondre à des traitements de plus en plus spécifiques.
+7. 1 - Diagnostic morphologique
+Le diagnostic cyto- ou histologique nécessite de disposer d’échantillons de bonne qualité,
+représentatifs de la tumeur et n’ayant pas subi d’altérations pendant leur prélèvement ou leur
+transport. Les différents modes de prélèvements sont détaillés dans le chapitre 1.
+Examen des coupes histologiques
+Lorsqu’elles sont colorées à l’HES constitue la base du diagnostic anatomopathologique
+(typage histologique, grade, stade, limites). De nombreuses techniques complémentaires,
+morphologiques ou non, peuvent être utilisées pour confirmer ou préciser le diagnostic.
+D’autres colorations permettant la mise en évidence de particularités des cellules tumorales
+(ex : mucosécrétion avec le bleu Alcian) ou du stroma (ex : trame réticulinique avec le
+Gordon-Sweet) sont souvent utiles au diagnostic.
+Immunohistochimie
+L’immunohistochimie avec des anticorps mono-ou polyclonaux est fréquemment utilisée en
+pathologie tumorale. L’utilisation de combinaisons d’anticorps dont le choix est orienté par
+l’étude histologique permet de préciser dans la plupart des cas la nature des tumeurs peu
+différenciées et l’origine primitive des métastases.
+•
+••Les marqueursDes anticorps permettent de déterminer la nature des filaments intermédiaires du
+cytosquelette des cellules. Ces filaments ont une répartition spécifique au sein des
+grands types de cellules : filaments de cytokératine dans les cellules épithéliales,
+filaments de vimentine dans les cellules conjonctives, filaments de desmine dans les
+cellules musculaires, neurofilaments dans les cellules nerveuses. Ainsi un carcinome
+est habituellement cytokératine positif et vimentine négatif, alors qu’un sarcome a le
+phénotype inverse.
+Les marqueurs de surface sont aussi spécifiques de types cellulaires : antigène CD20
+(lymphocyte B), antigène épithélial de membrane (cellules épithéliales), Neural Cell
+Adhesion Molecule (NCAM) (cellules nerveuses et neuro-endocrines), etc.
+Des marqueurs cytoplasmiques correspondant à des produits de sécrétion ou des
+molécules fonctionnelles sont aussi exploités : mucines (adénocarcinomes),
+chromogranine (cellules neuro-endorines), HMB45 (mélanocytes), thyroglobuline
+(thyroïde) (figure 7.6).
+pronostiques ont été abordés dans le chapitre précédent.
+Des anticorps dirigés contre des molécules ayant une valeur pronostique ou thérapeutique sont
+de plus en plus utilisés. Ainsi, la quantification des récepteurs hormonaux dans les noyaux des
+cellules tumorales de l’adénocarcinome du sein renseigne sur les effets potentiels d’un
+traitement anti-hormonal (figure 7.7).
+Figure 7.6. Détection de marqueurs de différentiation tumorale par immunohistochimie
+Expression du CD20 par les cellules de ce lymphome B à grandes cellules intra-vasculaire.
+Figure 7.7. Dans cette métastase osseuse d’adénocarcinome mammaire, les cellules
+tumorales expriment des récepteurs aux oestrogènes, ce qui permet d’envisager un
+traitement de la patiente par modulation hormonale
+7. 2 - Pathologie moléculaire
+Les techniques de pathologie moléculaire sont utilisées pour mettre en évidence des
+altérations moléculaires survenues dans les cellules tumorales. Elles peuvent être réalisées sur
+coupe histologique (ex : hybridation in situ) ou après extraction de l’un des constituants
+moléculaire du tissu. Dans ce dernier cas, l’évaluation histologique préalable de la nature du
+tissu analysé et de sa richesse en cellules tumorales est indispensable.
+Les techniques de pathologie moléculaire ont une valeur diagnostique et pronostique dans
+certaines tumeurs malignes, et peuvent également aider à prévoir la réponse à une thérapie
+ciblée (théranostique), à dépister la maladie résiduelle après traitement ou à diagnostiquer une
+prédisposition héréditaire à développer un cancer.
+Les altérations génétiques apparaissent successivement au cours de la croissance d’une
+tumeur. Certaines de ces anomalies sont récurrentes, c’est-à-dire que le même type
+d’anomalie survient avec une fréquence élevée dans un type de tumeur donné.
+Réarrangements chromosomiques
+Ces anomalies sont assez fréquentes dans les lymphomes et les sarcomes. Ils peuvent aider au
+typage des lymphomes (ex : t(14 ;18) des lymphomes folliculaires, t(8 ;14) des lymphomes de
+Burkitt, t(2 ;5) des lymphomes anaplasiques), des sarcomes (ex : t(X ;18) des
+synovialosarcomes) ou des tumeurs pédiatriques (figure 7.8).
+Figure 7.8. Détection par FISH sur noyau interphasique d’une translocation impliquant
+le proto-oncogène c-myc dans les cellules de ce lymphome
+Autres altérations chromosomiques
+Il peut s’agir d’anomalies de nombre (ex : hyperploïdie, aneupmoïdie), ou de structure (ex :
+l’isochromosome 17q dans les médulloblastomes). Dans les tumeurs à un stade avancé, ces
+altérations peuvent être très complexes, et différentes d’une cellule à l’autre (sous-clones).
+Amplifications géniques
+Elles peuvent avoir une valeur pronostique (ex : mauvais pronostic des neuroblastomes ayant
+une amplification de c-myc). Elles sont également parfois utiles pour prédire la sensibilité à
+une thérapie ciblée (ex : HER2 dans des carcinomes mammaires ou gastriques)
+L’instabilité génétique
+Dans les adénocarcinomes colorectaux, l’instabilité génétique a été opposée à l’instabilité
+chromosomique. Elle est liée à un défaut de réparation de l’ADN, qui peut être d’origine
+héréditaire (syndrome de Lynch) ou acquis (formes sporadiques).
+Mutations d’un gène
+Elles peuvent être assez spécifiques d’une tumeur (ex : gène KIT pour les tumeurs stromales
+digestives).
+Clonalité d’une tumeur
+Elle peut être établie par la mise en évidence du réarrangement clonal des gènes codant pour
+les immunoglobulines ou pour le récepteur de cellules T (pour les lymphomes) ou par la mise
+en évidence d’une inactivation clonale du chromosome X (chez les femmes).
+7. 3 - Stratégie diagnostique
+L’objectif de la prise en charge médicale d’un patient cancéreux est de le traiter le mieux
+possible, et au moindre coût. Dans la grande majorité des cas, un diagnostic
+anatomopathologique, avec au minimum un typage de la tumeur, est nécessaire avant le
+traitement. Toutefois, ceci nécessite le plus souvent un geste invasif qu’il faut mettre en
+balance avec les risques et l’intérêt pour le patient. Ainsi, chez un patient cirrhotique
+présentant de volumineux nodules hépatiques et une élévation importante du taux sérique
+d’alphafœtoprotéine, le diagnostic de carcinome hépatocellulaire est pratiquement certain, et
+le désagrément et le risque d’une biopsie de confirmation histologique ne sont pas compensés
+par le bénéfice escompté pour le patient.
+7. 3. 1 - Types de prélèvements
+Le choix du type de prélèvement est discuté en fonction notamment du patient (état général,
+antécédents, urgence, souhaits), des hypothèses diagnostiques et des possibilités
+thérapeutiques.
+Prélèvements cytologiques
+Par exemple : frottis de lésions cutanéomuqueuses, aspirations bronchiques, cytoponction
+d’organes profonds. Ils sont les moins invasifs.
+Bien que les informations qu’ils apportent soient souvent incomplètes, elles peuvent être
+rapidement obtenues, et sont souvent utiles pour déterminer le geste le plus approprié pour la
+suite de la démarche diagnostique (biopsie, chirurgie, chimiothérapie première). Elles sont
+parfois suffisantes pour décider de la thérapeutique.
+Biopsies par voies endoscopiques
+Elles sont assez peu invasives et permettent souvent un diagnostic (ex : typage d’une tumeur
+bronchique, gastrique ou colique). Le résultat est fiable et l’ensemble du traitement peut être
+fondé dessus (ex : lymphome gastrique, carcinome bronchique à petites cellules,
+adénocarcinome colique).
+Biopsies d’organes profonds
+Elles constituent une alternative pour les organes pleins (ex : nodule hépatique ou
+pancréatique).
+Prélèvements chirurgicaux
+Ils sont les plus invasifs. Il faut toutefois encore distinguer les prélèvements à visée
+uniquement diagnostique qui peuvent être de petite taille, (ex : biopsie ganglionnaire ou
+médiastinale) et les résections à but thérapeutique. Ce sont ces derniers prélèvements qui
+fourniront le plus d’informations (ex : le stade d’un adénocarcinome colique dans une iléo-
+colectomie).
+7. 3. 2 - Collaboration au sein de l’équipe médicale
+Le médecin qui prescrit ou effectue un prélèvement en vue d’un examen
+anatomopathologique doit toujours garder à l’esprit que celui-ci doit permettre de faire un
+diagnostic. Ce prélèvement doit donc être :
+•
+ aussi représentatif que possible de la tumeur ;
+•
+ acheminé dans les conditions appropriées, c’est-à-dire soit dans du fixateur si ce
+médecin est certain qu’un fragment tumoral frais ne sera pas nécessaire, soit à l’état
+frais (transport en moins de 30 min et en atmosphère humide) ;
+• associé à des informations cliniques qui permettront au pathologiste de le redistribuer
+pour des techniques appropriées (ex : biologie moléculaire, caryotype).
+En cas de doute, il est souvent utile de discuter avec le pathologiste concerné avant d’effectuer
+le prélèvement.
+Après avoir fait une synthèse des lésions macro- et microscopiques et, le cas échéant, des
+altérations moléculaires, le pathologiste confronte ses conclusions avec les données cliniques,
+radiologiques et biologiques afin d’établir un diagnostic définitif.
+8 - Les points essentiels
+Définition, composition et classification des tumeurs
+Une tumeur, ou néoplasme, est une masse tissulaire due à une prolifération cellulaire
+excessive reproduisant plus ou moins fidèlement un tissu normal ou embryonnaire, et ayant
+tendance à persister ou croître spontanément. Une tumeur peut être plus ou moins bien
+différenciée, selon qu'elle ressemble ou non au tissu d’origine.
+Tout cancer est constitué de cellules tumorales (cellules proliférantes anormales) et du stroma
+qui correspond à l'ensemble des cellules non tumorales présentes en son sein. Les cellules du
+stroma ne présentent pas les anomalies génétiques des cellules tumorales.
+Les tumeurs sont classées en fonction de l'organe où elles se développent initialement (= «
+primitif ») et du type histologique, c'est-à-dire du tissu qu'elles tendent à reproduire.
+L'examen anatomopathologique doit également évaluer le potentiel évolutif d'une tumeur et
+notamment, pour les tumeurs malignes, le stade et le grade.
+La classification et la caractérisation des tumeurs nécessitent, dans la majorité des cas,
+l'examen d'un prélèvement tissulaire biopsique ou chirurgical. Le diagnostic est alors réalisé
+sur des coupes histologiques colorées à l’HES, complétées si besoin par des techniques
+complémentaires histologiques (colorations « spéciales », immunohistochimie, hybridation in
+situ), ou moléculaires réalisées après amplification de l'ADN génomique ou complémentaire.
+La stratégie diagnostique, c'est-à-dire le choix du prélèvement et des techniques les plus
+appropriées à la situation du patient nécessitent de bien connaître les avantages et les limites
+de chaque méthode. Une interaction directe entre les médecins ou chirurgiens ayant en charge
+le patient et le médecin pathologiste réalisant le diagnostic est nécessaire avant la mise en
+œuvre d'un traitement, et parfois également pour le choix de la stratégie diagnostique.

@@ -41,3 +41,8 @@ match (c:CIMO3Topo) match(g:GroupeTopo) where c.codeGroupeTopo in g.codeGroupeTo
 
 // compter le nombre de code appartenant au groupe 7
 match (g:GroupeMorpho{codeGroupeMorpho:"7"}) with g match(g)<-[r:appartient]- (c:CIMO3Morpho) return g,count(c)
+
+
+// map to RDF
+:POST /rdf/cypher
+{ "cypher" : "MATCH path = (n:Order { orderID : '10785'})-[:ORDERS]->()-[:PART_OF]->(:Category { categoryName : 'Beverages'}) RETURN path " , "format": "RDF/XML" , "mappedElemsOnly" : true }

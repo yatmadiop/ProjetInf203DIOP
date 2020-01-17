@@ -1,0 +1,33 @@
+package siti.inf203.jena.app;
+
+import java.util.Scanner;
+
+public class Search {
+
+	static void Search() {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("1. Recherche patient");
+		System.out.println("2. Recherche morphologie");
+		System.out.println("3. Recherche topographie");
+		
+		sc.nextLine();
+		
+		int i = 0;
+		switch (i) {
+		
+			case 1:
+				System.out.println("Patient");
+				break;
+			case 2:
+				System.out.println("Patient");
+				break;
+			case 3:
+				System.out.println("Patient");
+				break;
+	
+			default:
+				break;
+		}
+		
+	}
+}
