@@ -30,7 +30,7 @@ public class Sparql
 	
 	public static String sparqlMorpho(String querySequence) throws IOException {
 		FileManager.get().addLocatorClassLoader(Main.class.getClassLoader());
-        Model model = FileManager.get().loadModel("resources/cancers.rdf");
+        Model model = FileManager.get().loadModel("resources/AnatomieEtCancers.rdf");
         String queryString = 
 
         		// chercher le groupe auquel appartient le terme de recherche
@@ -127,11 +127,11 @@ public class Sparql
 			wordMatch = SearchWord.searchWord(wordToCompare);
 			System.out.println("Best word retrieved : " + wordMatch);
 			if (morphoWords.contains(wordMatch)) {
-				//System.out.println("Yes it contains it");
+				
 				sparqlMorpho(wordMatch);
 			}
 			else if (topoWords.contains(wordMatch)) {
-				//System.out.println("No, they does'nt");
+				
 				sparqlTopo(wordMatch);
 			}
 		}else if((SearchWord.searchWord(wordToCompare).isEmpty())) {
@@ -160,8 +160,7 @@ public class Sparql
 	         sb.append(" ");
 	      }
 	      String str = sb.toString();
-	      //System.out.println(str);
-	      
+
 		return str;
 		
 	}

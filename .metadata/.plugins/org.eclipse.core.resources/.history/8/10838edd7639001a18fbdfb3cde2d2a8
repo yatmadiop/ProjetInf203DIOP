@@ -20,8 +20,8 @@ public class SearchConsole {
 
 	public static void searchKey(String string) throws IOException, ParseException {
 		
-
-		//étendre la requête et chercher termes dans l'index
+//		Scanner sc = new Scanner(System.in);
+		//affiche();
 		String query = Sparql.getExpandString(string);
 		TextFileIndexer.searchIndex(query);
 		Sparql.getList().clear();

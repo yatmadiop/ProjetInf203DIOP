@@ -1,10 +1,7 @@
 package siti.inf203.jena.outils;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 import org.apache.jena.iri.impl.Main;
 
@@ -23,7 +20,15 @@ import siti.inf203.jena.app.SearchWord;
 
 public class Sparql 
 {
-	public static void sparqlMorpho(String querySequence) throws IOException {
+	// liste qui contiendra les termes de la requête étendue avec SPARQL
+	private static List<String> expandList = new ArrayList<String>();
+	
+	//getteur pour la liste
+	public static List<String> getList() {
+		return expandList;
+	}
+	
+	public static String sparqlMorpho(String querySequence) throws IOException {
 		FileManager.get().addLocatorClassLoader(Main.class.getClassLoader());
         Model model = FileManager.get().loadModel("resources/cancers.rdf");
         String queryString = 
@@ -41,6 +46,8 @@ public class Sparql
          
         Query query = QueryFactory.create(queryString);
         QueryExecution qExec = QueryExecutionFactory.create(query, model);
+        String retMorphoGroup = "";
+        
         try {
         	ResultSet results = qExec.execSelect();
         	
@@ -50,20 +57,24 @@ public class Sparql
 			while (results.hasNext()) {
 				QuerySolution soln = results.nextSolution();
 				
-				Literal name = soln.getLiteral("x");
-				Literal groupe = soln.getLiteral("y");
-				System.out.println(i + "- " + name +"<------------"+groupe);
+				Literal name = soln.getLiteral("y");
+				Literal groupe = soln.getLiteral("x");
+				retMorphoGroup = groupe.toString();
+				System.out.println(i + "- " + name +"------------>"+groupe);
 				i = i + 1;
 			}
 		} finally {
 			qExec.close();
 			// TODO: handle finally clause
 		}
+        System.out.println(querySequence + " appartient au groupe morphologique : " + retMorphoGroup);
+        expandList.add(retMorphoGroup);
+        return retMorphoGroup;
     }
 	
-	public static void sparqlTopo(String querySequence) throws IOException {
+	public static String sparqlTopo(String querySequence) throws IOException {
 		FileManager.get().addLocatorClassLoader(Main.class.getClassLoader());
-        Model model = FileManager.get().loadModel("resources/cancers.rdf");
+        Model model = FileManager.get().loadModel("resources/AnatomieEtCancers.rdf");
         String queryString = 
 
         		//chercher le groupe topographique auquel appartient le terme de recherche
@@ -79,52 +90,80 @@ public class Sparql
          
         Query query = QueryFactory.create(queryString);
         QueryExecution qExec = QueryExecutionFactory.create(query, model);
+        String retTopoGroup;
         try {
         	ResultSet results = qExec.execSelect();
         	int i = 1;
 			do {
 				QuerySolution soln = results.nextSolution();
 				
-				Literal name = soln.getLiteral("x");
-				Literal groupe = soln.getLiteral("y");
-				System.out.println(i + "- " + name +"<------------"+groupe);
+				Literal name = soln.getLiteral("y");
+				Literal groupe = soln.getLiteral("x");
+				retTopoGroup = groupe.toString();
+				//System.out.println(i + "- " + name +"------------>"+groupe);
 				i = i + 1;
 			} while (results.hasNext());
 		} finally {
 			qExec.close();
 			// TODO: handle finally clause
 		}
+        System.out.println(querySequence + " appartient au groupe topographique : " + retTopoGroup);
+        expandList.add(retTopoGroup);
+		return retTopoGroup ;
     }
 	
 	//comparer les mots au vocabulaire disponible et choisir le plus similaire
 	//utiliser ce mot pour le rechercher le groupe correspondant le graphe RDF
-	static void compareWordAndQuery(String wordToCompare) throws IOException {
+	static String compareWordAndQuery(String wordToCompare) throws IOException {
 		List<String> topoWords, morphoWords = new ArrayList<String>();
 		morphoWords = ReadFile.readFileInStringList("tokenisedFile/morpho.txt");
 		topoWords = ReadFile.readFileInStringList("tokenisedFile/topo.txt");
-		String wordMatch = SearchWord.searchWord(wordToCompare);
-		if (morphoWords.contains(wordMatch)) {
-			//System.out.println("Yes it contains it");
-			sparqlMorpho(wordMatch);
+		String wordMatch = null;
+		
+		
+		// si le mot renseigné est similaire à un autre dans le vocabulaire on l'utilise
+		// sinon on garde celui rentré par l'utilisateur
+		if (!(SearchWord.searchWord(wordToCompare).isEmpty())) {			
+			wordMatch = SearchWord.searchWord(wordToCompare);
+			System.out.println("Best word retrieved : " + wordMatch);
+			if (morphoWords.contains(wordMatch)) {
+				//System.out.println("Yes it contains it");
+				sparqlMorpho(wordMatch);
+			}
+			else if (topoWords.contains(wordMatch)) {
+				//System.out.println("No, they does'nt");
+				sparqlTopo(wordMatch);
+			}
+		}else if((SearchWord.searchWord(wordToCompare).isEmpty())) {
+			wordMatch = wordToCompare;
 		}
-		else if (topoWords.contains(wordMatch)) {
-			//System.out.println("No, they does'nt");
-			sparqlTopo(wordMatch);
-		}
+		return wordMatch;
 	}
 	
 	// gerer le cas où l'utilisateur rentre une chaine de caractères
+	//ajouter les termes modifiés à 'expandList'
 	public static void runSparqlQuery(String query) throws IOException {
-		
+		System.out.println("----------> Requête initiale : " + query);
 		String[] queryList = query.trim().split("\\s+");
 		for (int i = 0; i < queryList.length; i++) {
-			compareWordAndQuery(queryList[i]);
+			expandList.add(compareWordAndQuery(queryList[i]));
+			
 		}
-		
 	}
-	
-	public static void main(String[] args) throws IOException {
-		runSparqlQuery("palais fundus");
+	// récupèrer la liste de mots dans un string qu'on utilisera pour chercher dans l'index
+	public static String getExpandString(String st) throws IOException {
+		Sparql.runSparqlQuery(st);		
+		StringBuffer sb = new StringBuffer();
+	      
+	      for (String s : expandList) {
+	         sb.append(s);
+	         sb.append(" ");
+	      }
+	      String str = sb.toString();
+	      //System.out.println(str);
+	      
+		return str;
+		
 	}
 
 }

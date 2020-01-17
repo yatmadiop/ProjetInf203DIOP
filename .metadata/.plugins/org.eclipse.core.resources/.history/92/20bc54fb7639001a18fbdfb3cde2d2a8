@@ -106,9 +106,11 @@ public class Main extends Application {
 		VBox layout = new VBox(20);		
 		layout.setPadding(new Insets(20,20,20,20));
 		layout.getChildren().addAll(labelSearch, text, button);
-		layout.setSpacing(5);
-		
+//		layout.getChildren().addAll(hpls);
+		layout.setSpacing(5);		
 		scene = new Scene(layout, 600, 500);
+	
+
 		window.setScene(scene);
 		window.setTitle("Seach Engine");
 		window.show();

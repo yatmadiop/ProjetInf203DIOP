@@ -20,10 +20,29 @@ public class SearchConsole {
 
 	public static void searchKey(String string) throws IOException, ParseException {
 		
-
-		//étendre la requête et chercher termes dans l'index
+//		Scanner sc = new Scanner(System.in);
+		//affiche();
+		
 		String query = Sparql.getExpandString(string);
 		TextFileIndexer.searchIndex(query);
 		Sparql.getList().clear();
+		
+//		while(sc.hasNext()) {
+//			string = sc.nextLine();
+//			if(string.equals("q")) {
+//				break;
+//			}
+//			String query = Sparql.getExpandString(string);
+//			TextFileIndexer.searchIndex(query);
+//			query = "";
+//			Sparql.getList().clear();
+//			affiche();
+//		}
+		
 	}
+//	
+//	public static void main(String[] args) throws IOException, ParseException {
+//		TextFileIndexer.createIndex();
+//		searchKey("query");
+//	}
 }
