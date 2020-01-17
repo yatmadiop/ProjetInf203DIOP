@@ -74,7 +74,7 @@ public class Sparql
 	
 	public static String sparqlTopo(String querySequence) throws IOException {
 		FileManager.get().addLocatorClassLoader(Main.class.getClassLoader());
-        Model model = FileManager.get().loadModel("resources/AnatomieEtCancers.rdf");
+        Model model = FileManager.get().loadModel("resources/cancers.rdf");
         String queryString = 
 
         		//chercher le groupe topographique auquel appartient le terme de recherche

@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="com.hp.hpl.jena.rdf.model.Resource"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="org.apache.lucene.analysis.standard.StandardAnalyzer"/>
 <fullyQualifiedTypeName name="org.apache.lucene.index.CorruptIndexException"/>
 <fullyQualifiedTypeName name="org.apache.lucene.store.LockObtainFailedException"/>
 <fullyQualifiedTypeName name="org.apache.lucene.document.Field"/>
@@ -21,7 +17,6 @@
 <fullyQualifiedTypeName name="com.opencsv.CSVWriter"/>
 <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
 <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
-<fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="edu.stanford.nlp.ling.HasWord"/>
 <fullyQualifiedTypeName name="java.net.URI"/>
 <fullyQualifiedTypeName name="opennlp.tools.tokenize.SimpleTokenizer"/>
@@ -33,8 +28,6 @@
 <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 <fullyQualifiedTypeName name="opennlp.tools.tokenize.Tokenizer"/>
 <fullyQualifiedTypeName name="opennlp.tools.tokenize.WhitespaceTokenizer"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.util.HashSet"/>
 <fullyQualifiedTypeName name="java.util.Set"/>
 <fullyQualifiedTypeName name="java.util.TreeSet"/>
@@ -45,4 +38,26 @@
 <fullyQualifiedTypeName name="siti.inf203.jena.app.Sparql"/>
 <fullyQualifiedTypeName name="org.apache.jena.iri.impl.Main"/>
 <fullyQualifiedTypeName name="siti.inf203.jena.app.SearchTopo"/>
+<fullyQualifiedTypeName name="org.apache.lucene.search.TopDocs"/>
+<fullyQualifiedTypeName name="javafx.application.Application"/>
+<fullyQualifiedTypeName name="javafx.scene.layout.VBox"/>
+<fullyQualifiedTypeName name="javafx.geometry.Insets"/>
+<fullyQualifiedTypeName name="javafx.scene.control.ListView"/>
+<fullyQualifiedTypeName name="javax.print.DocPrintJob"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javafx.scene.control.TextField"/>
+<fullyQualifiedTypeName name="siti.inf203.jena.app.SearchConsole"/>
+<fullyQualifiedTypeName name="java.beans.EventHandler"/>
+<fullyQualifiedTypeName name="javafx.scene.control.Button"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javafx.scene.control.Label"/>
+<fullyQualifiedTypeName name="siti.inf203.jena.index.TextFileIndexer"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="java.awt.Desktop"/>
+<fullyQualifiedTypeName name="com.sun.javafx.logging.Logger"/>
+<fullyQualifiedTypeName name="com.sun.media.jfxmedia.logging.Logger"/>
+<fullyQualifiedTypeName name="java.util.logging.Logger"/>
+<fullyQualifiedTypeName name="javafx.scene.control.Hyperlink"/>
+<fullyQualifiedTypeName name="javafx.event.EventHandler"/>
+<fullyQualifiedTypeName name="javafx.event.ActionEvent"/>
 </qualifiedTypeNameHistroy>
