@@ -10,7 +10,6 @@ import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.geometry.Insets;
-import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Hyperlink;
@@ -32,8 +31,9 @@ public class Main extends Application {
 	Scene scene2;
 	Button button, button2;
 	VBox layout, layout2;
-		
-		
+	Hyperlink link;	
+	TextField text = new TextField();
+	public static List<Hyperlink> links2 = new ArrayList<>();
 	public static void main(String[] args) {
 		launch(args);
 	}
@@ -43,7 +43,7 @@ public class Main extends Application {
 		// TODO Auto-generated method stub
 		window = primaryStage;
 		Label labelSearch = new Label("Entrer votre requête");		
-		TextField text = new TextField();
+//		TextField text = new TextField();
 		//Button1
 		button = new Button("Rechercher");
 		button.setOnAction(e -> {
@@ -58,8 +58,9 @@ public class Main extends Application {
 				e1.printStackTrace();
 			}
 			
-			Hyperlink link;
+			
 			List<Hyperlink> links = new ArrayList<>();
+			
 			// create hyperlink
 			for (int i = 0; i < linkList.size(); i++) {
 				links.add(new Hyperlink(linkList.get(i)));
@@ -75,7 +76,9 @@ public class Main extends Application {
 	                }
 	            });
 	        }       
-	        ListView listView = new ListView();        
+	        ListView listView = new ListView(); 
+	    	ListView listQuery = new ListView();
+	    	
 	        listView.getItems().addAll(links);
 	        TextFileIndexer.getDocPathList().clear();
 	        
@@ -83,7 +86,14 @@ public class Main extends Application {
 			layout2 = new VBox(20);
 			button2 = new Button("Retour à la recherche");
 			button2.setOnAction(c -> {
-				window.setScene(scene);
+				
+				links2.add(new Hyperlink(TextFileIndexer.getExpandedQuery()));
+				listQuery.getItems().addAll(links2);
+				Label historic = new Label("Recherches récentes : ");
+				layout.getChildren().clear();			
+				layout.getChildren().addAll(labelSearch, text, button, historic, listQuery);
+				window.setScene(scene);				
+  
 			});
 			
 			Label labelResult = new Label("Résultats de la recherche - Cliquer sur un lien pour afficher le document ");
@@ -109,9 +119,12 @@ public class Main extends Application {
 		
 		//layout2.getChildren().clear();
 		// Layout 1		
+		
+	
 		layout = new VBox(20);		
 		layout.setPadding(new Insets(20,20,20,20));
 		layout.getChildren().addAll(labelSearch, text, button);
+		
 		layout.setSpacing(5);
 		
 		scene = new Scene(layout, 600, 500);

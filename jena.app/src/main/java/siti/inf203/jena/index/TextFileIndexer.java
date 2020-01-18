@@ -4,10 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
 import java.util.ArrayList;
-import java.util.Iterator;
 import java.util.List;
-
-import javax.print.DocPrintJob;
 
 import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
@@ -18,8 +15,6 @@ import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.IndexWriter;
 import org.apache.lucene.queryParser.ParseException;
 import org.apache.lucene.queryParser.QueryParser;
-import org.apache.lucene.search.Hit;
-import org.apache.lucene.search.Hits;
 import org.apache.lucene.search.IndexSearcher;
 import org.apache.lucene.search.Query;
 import org.apache.lucene.search.ScoreDoc;
@@ -27,6 +22,8 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.store.LockObtainFailedException;
+
+import siti.inf203.jena.outils.RemoveDuplicateWord;
 
 /**
  * This terminal application creates an Apache Lucene index in a folder and adds files into this index
@@ -45,6 +42,7 @@ public class TextFileIndexer {
 	}
 		
 	
+
 	public static final String FILES_TO_INDEX_DIRECTORY = "corpus";
 	public static final String INDEX_DIRECTORY = "indexDirectory";
 
@@ -74,26 +72,30 @@ public class TextFileIndexer {
 		indexWriter.close();
 		System.out.println("------------> Fin indexation des fichiers (Succès !) ");
 	}
+
+	
 	// chercher dans l'index
 	public static void searchIndex(String searchString) throws IOException, ParseException {
 		
-		System.out.println("----------> Requête étendue : '" + searchString + "'");
+		String newQuery = RemoveDuplicateWord.removeDuplicateWord(searchString);
+		
+		System.out.println("----------> Requête étendue : '" + newQuery + "'");
 		Directory directory = FSDirectory.getDirectory(INDEX_DIRECTORY);
 		IndexReader indexReader = IndexReader.open(directory);
 		IndexSearcher indexSearcher = new IndexSearcher(indexReader);
 
 		Analyzer analyzer = new StandardAnalyzer();
 		QueryParser queryParser = new QueryParser(FIELD_CONTENTS, analyzer);
-		Query query = queryParser.parse(searchString);
+		Query query = queryParser.parse(newQuery);
 		
 		// classement documents selon le score
 		long start = System.currentTimeMillis();
 		TopDocs hits = indexSearcher.search(query,null, 10);
 		long end = System.currentTimeMillis();
 		
-		expandedQuery = searchString;
+		expandedQuery = newQuery;
 		System.out.println("Found " + hits.totalHits + " document(s) (in " + (end-start) + " milliseconds)"
-				+ " that matched query '"+ searchString +"':");
+				+ " that matched query '"+ newQuery +"':");
 		
 		
 		for (ScoreDoc scoreDoc : hits.scoreDocs)
