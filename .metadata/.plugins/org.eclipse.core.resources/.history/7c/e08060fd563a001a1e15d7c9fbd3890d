@@ -1,0 +1,5 @@
+package siti.inf203.jena.wordnet;
+
+public class ExpandWithWordnet {
+
+}

@@ -8,7 +8,9 @@ public class RemoveDuplicateWord {
 		HashSet<String> deduplicateList = new HashSet<String>();
 		String[] wordList = string.toLowerCase().trim().split("\\s+");
 		for (int i = 0; i < wordList.length; i++) {
+			
 			deduplicateList.add(wordList[i]);
+
 		}
 		string = String.join(" ", deduplicateList);
 		

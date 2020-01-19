@@ -1,0 +1,14 @@
+package siti.inf203.jena.wordnet;
+
+import java.io.File;
+
+import org.apache.lucene.util.Constants;
+import org.apache.lucene.wordnet.Syns2Index;
+
+public class ExpandWithWordnet {
+	public static final String INDEX_DIRECTORY = "synIndex";
+	public static String WORDNET_SYNONYMS_DIR;
+	public static void main(String... args) throws Throwable {
+		 Syns2Index.main(new String[] { "wn_s.pl", INDEX_DIRECTORY});
+		}
+}

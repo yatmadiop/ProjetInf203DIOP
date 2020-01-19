@@ -1,0 +1,13 @@
+package siti.inf203.jena.wordnet;
+
+import java.io.File;
+
+import org.apache.lucene.util.Constants;
+import org.apache.lucene.wordnet.Syns2Index;
+
+public class ExpandWithWordnet {
+	String WORDNET_SYNONYMS_DIR;
+	public static void main(String... args) throws Throwable {
+		 Syns2Index.main(new String[] { "resources/wn_s.pl", Constants.WORDNET_SYNONYMS_DIR.getAbsolutePath() });
+		}
+}

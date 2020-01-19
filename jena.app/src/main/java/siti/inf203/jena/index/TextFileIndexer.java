@@ -45,7 +45,6 @@ public class TextFileIndexer {
 
 	public static final String FILES_TO_INDEX_DIRECTORY = "corpus";
 	public static final String INDEX_DIRECTORY = "indexDirectory";
-
 	public static final String FIELD_PATH = "path";
 	public static final String FIELD_CONTENTS = "contents";
 

@@ -4,7 +4,9 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.lucene.index.CorruptIndexException;
 import org.apache.lucene.queryParser.ParseException;
+import org.apache.lucene.store.LockObtainFailedException;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
@@ -34,7 +36,8 @@ public class Main extends Application {
 	Hyperlink link;	
 	TextField text = new TextField();
 	public static List<Hyperlink> links2 = new ArrayList<>();
-	public static void main(String[] args) {
+	public static void main(String[] args) throws CorruptIndexException, LockObtainFailedException, IOException {
+		TextFileIndexer.createIndex();
 		launch(args);
 	}
 	
