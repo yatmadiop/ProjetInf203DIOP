@@ -76,25 +76,26 @@ public class TextFileIndexer {
 	// chercher dans l'index
 	public static void searchIndex(String searchString) throws IOException, ParseException {
 		
-		String newQuery = RemoveDuplicateWord.removeDuplicateWord(searchString);
+		//retirer les mots en doublons Nécessaire / pas nécessaire ?
+		//String newQuery = RemoveDuplicateWord.removeDuplicateWord(searchString);
 		
-		System.out.println("----------> Requête étendue : '" + newQuery + "'");
+		System.out.println("----------> Requête étendue : '" + searchString + "'");
 		Directory directory = FSDirectory.getDirectory(INDEX_DIRECTORY);
 		IndexReader indexReader = IndexReader.open(directory);
 		IndexSearcher indexSearcher = new IndexSearcher(indexReader);
 
 		Analyzer analyzer = new StandardAnalyzer();
 		QueryParser queryParser = new QueryParser(FIELD_CONTENTS, analyzer);
-		Query query = queryParser.parse(newQuery);
+		Query query = queryParser.parse(searchString);
 		
 		// classement documents selon le score
 		long start = System.currentTimeMillis();
 		TopDocs hits = indexSearcher.search(query,null, 10);
 		long end = System.currentTimeMillis();
 		
-		expandedQuery = newQuery;
+		expandedQuery = searchString;
 		System.out.println("Found " + hits.totalHits + " document(s) (in " + (end-start) + " milliseconds)"
-				+ " that matched query '"+ newQuery +"':");
+				+ " that matched query '"+ searchString +"':");
 		
 		
 		for (ScoreDoc scoreDoc : hits.scoreDocs)

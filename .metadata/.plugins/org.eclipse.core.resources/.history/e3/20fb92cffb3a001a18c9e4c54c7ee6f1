@@ -1,0 +1,12 @@
+/home/yatma/Bureau/Projet_RI/jena.app/src/main/java/siti/inf203/jena/javafx/Main.java
+/home/yatma/Bureau/Projet_RI/jena.app/src/main/java/siti/inf203/jena/outils/Sparql.java
+/home/yatma/Bureau/Projet_RI/jena.app/src/main/java/siti/inf203/jena/app/SearchConsole.java
+/home/yatma/Bureau/Projet_RI/jena.app/src/main/java/siti/inf203/jena/outils/ExpandSearch.java
+/home/yatma/Bureau/Projet_RI/jena.app/src/main/java/siti/inf203/jena/outils/EditDistance.java
+/home/yatma/Bureau/Projet_RI/jena.app/src/main/java/siti/inf203/jena/outils/WriteToFile.java
+/home/yatma/Bureau/Projet_RI/jena.app/src/main/java/siti/inf203/jena/index/TextFileIndexer.java
+/home/yatma/Bureau/Projet_RI/jena.app/src/main/java/siti/inf203/jena/outils/ReadFile.java
+/home/yatma/Bureau/Projet_RI/jena.app/src/main/java/siti/inf203/jena/outils/RemoveDuplicateWord.java
+/home/yatma/Bureau/Projet_RI/jena.app/src/main/java/siti/inf203/jena/outils/Thesaurus.java
+/home/yatma/Bureau/Projet_RI/jena.app/src/main/java/siti/inf203/jena/app/SearchWord.java
+/home/yatma/Bureau/Projet_RI/jena.app/src/main/java/siti/inf203/jena/outils/TokenizeFile.java
