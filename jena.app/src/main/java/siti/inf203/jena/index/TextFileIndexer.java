@@ -23,8 +23,6 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.apache.lucene.store.LockObtainFailedException;
 
-import siti.inf203.jena.outils.RemoveDuplicateWord;
-
 /**
  * This terminal application creates an Apache Lucene index in a folder and adds files into this index
  * based on the input of the user.

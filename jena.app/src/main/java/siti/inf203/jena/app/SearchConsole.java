@@ -1,7 +1,6 @@
 package siti.inf203.jena.app;
 
 import java.io.IOException;
-import java.util.Scanner;
 
 import org.apache.lucene.queryParser.ParseException;
 
@@ -20,7 +19,6 @@ public class SearchConsole {
 
 	public static void searchKey(String string) throws IOException, ParseException {
 		
-
 		//étendre la requête et chercher termes dans l'index
 		String query = Sparql.getExpandString(string);
 		TextFileIndexer.searchIndex(query);

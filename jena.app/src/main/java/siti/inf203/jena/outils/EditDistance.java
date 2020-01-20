@@ -5,6 +5,7 @@ import java.util.TreeMap;
 
 public class EditDistance {
 	// calcul de la similarité entre deux chaînes de caractères
+	// algorithm made by 'Deep Jain' (www.baeldung.com)
 	public static TreeMap<Integer, String> calculate(String x, String y) {
 		
 		TreeMap<Integer, String> setOfComparedWord = new TreeMap<Integer, String>();
@@ -29,12 +30,7 @@ public class EditDistance {
 	    }
 	    
 	    setOfComparedWord.put(dp[x.length()][y.length()], x);
-	    
-	    // calcul de la similarité
-	    //double similarity = (Math.max(x.length(), y.length()) - dp[x.length()][y.length()]) / (double)(Math.max(x.length(), y.length()));
-	    //System.out.println(similarity);
-	    
-	    //.out.println(x + " et " + y + " " + dp[x.length()][y.length()]);	    	    
+    	    
 	    return setOfComparedWord;
 	}
 	

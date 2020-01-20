@@ -100,12 +100,12 @@ public class Sparql
 				Literal name = soln.getLiteral("y");
 				Literal groupe = soln.getLiteral("x");
 				retTopoGroup = groupe.toString();
-				//System.out.println(i + "- " + name +"------------>"+groupe);
+				System.out.println(i + "- " + name +"------------>"+groupe);
 				i = i + 1;
 			} while (results.hasNext());
 		} finally {
 			qExec.close();
-			// TODO: handle finally clause
+
 		}
         System.out.println(querySequence + " appartient au groupe topographique : " + retTopoGroup);
         expandList.add(retTopoGroup);
@@ -113,7 +113,7 @@ public class Sparql
     }
 	
 	//comparer les mots au vocabulaire disponible et choisir le plus similaire
-	//utiliser ce mot pour le rechercher le groupe correspondant le graphe RDF
+	//utiliser ce mot pour rechercher le groupe correspondant dans le RDF
 	static String compareWordAndQuery(String wordToCompare) throws IOException {
 		List<String> topoWords, morphoWords = new ArrayList<String>();
 		morphoWords = ReadFile.readFileInStringList("tokenisedFile/morpho.txt");
@@ -140,7 +140,7 @@ public class Sparql
 		return wordMatch;
 	}
 	
-	// gerer le cas où l'utilisateur rentre une chaine de caractères
+	// gerer le cas où l'utilisateur rentre lusieurs termes de recherche
 	//ajouter les termes modifiés à 'expandList'
 	public static void runSparqlQuery(String query) throws IOException {
 		System.out.println("----------> Requête initiale : " + query);

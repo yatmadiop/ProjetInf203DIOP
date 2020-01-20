@@ -20,7 +20,6 @@ public class SearchWord {
 		}
     	if (myMorphoMatchMap.firstKey() < 3) {
     		bestMatch = myMorphoMatchMap.get(myMorphoMatchMap.firstKey());
-//    		System.out.println("Best word retrieved : " + bestMatch);
     	}
     	else {
     		bestMatch = "";

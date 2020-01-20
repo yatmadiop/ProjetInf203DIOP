@@ -3,7 +3,7 @@ package siti.inf203.jena.outils;
 import java.util.HashSet;
 
 public class RemoveDuplicateWord {
-	
+	// delete duplicate string
 	public static String removeDuplicateWord(String string) {
 		HashSet<String> deduplicateList = new HashSet<String>();
 		String[] wordList = string.toLowerCase().trim().split("\\s+");

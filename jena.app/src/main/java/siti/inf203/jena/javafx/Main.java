@@ -43,10 +43,10 @@ public class Main extends Application {
 	
 	@Override
 	public void start(Stage primaryStage) throws Exception {
-		// TODO Auto-generated method stub
+		
 		window = primaryStage;
 		Label labelSearch = new Label("Entrer votre requête");		
-//		TextField text = new TextField();
+
 		//Button1
 		button = new Button("Rechercher");
 		button.setOnAction(e -> {
@@ -54,17 +54,17 @@ public class Main extends Application {
 				SearchConsole.searchKey(text.getText());
 				linkList = TextFileIndexer.getDocPathList();
 			} catch (IOException e1) {
-				// TODO Auto-generated catch block
+			
 				e1.printStackTrace();
 			} catch (ParseException e1) {
-				// TODO Auto-generated catch block
+			
 				e1.printStackTrace();
 			}
 			
 			
 			List<Hyperlink> links = new ArrayList<>();
 			
-			// create hyperlink
+			// create hyperlink for the results (linkList)
 			for (int i = 0; i < linkList.size(); i++) {
 				links.add(new Hyperlink(linkList.get(i)));
 			}
@@ -104,6 +104,7 @@ public class Main extends Application {
 			TextArea newQuery = new TextArea();			
 			newQuery.setText("Requête étendue : " + TextFileIndexer.getExpandedQuery() + "");
 			newQuery.setMaxHeight(5);
+			
 			layout2.getChildren().add(labelResult);
 			layout2.getChildren().add(newQuery);
 			layout2.getChildren().add(listView);
@@ -116,14 +117,12 @@ public class Main extends Application {
 			
 		});
 		
-		//clear list
+		//clear lists for take new results after new search
 		linkList.clear();
 		TextFileIndexer.getDocPathList().clear();
 		
-		//layout2.getChildren().clear();
-		// Layout 1		
 		
-	
+		// Layout 1	
 		layout = new VBox(20);		
 		layout.setPadding(new Insets(20,20,20,20));
 		layout.getChildren().addAll(labelSearch, text, button);
