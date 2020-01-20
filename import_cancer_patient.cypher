@@ -37,7 +37,15 @@ RETURN count(c)
 
 // create relationship by id
 
-match (c:CIMO3Topo) match(g:GroupeTopo) where c.codeGroupeTopo in g.codeGroupeTopo merge(g)<-[:appartient]->(c)
+match (c:CIMO3Topo) match(g:GroupeTopo) where c.codeGroupeTopo in g.codeGroupeTopo merge(g)<-[:appartient]-(c)
+
+
+match (c:CIMO3Morpho) match(g:GroupeMorpho)  where c.codeGroupeMorpho in g.codeGroupeMorpho merge(g)<-[:appartient]-(c)
+
+
+match (c:CIMO3Topo) match(g:GroupeTopo) where c.codeGroupeTopo in g.codeGroupeTopo merge(g)-[:contient]->(c)
+
+match (c:CIMO3Morpho) match(g:GroupeMorpho)  where c.codeGroupeMorpho in g.codeGroupeMorpho merge(g)-[:contient]->(c)
 
 // compter le nombre de code appartenant au groupe 7
 match (g:GroupeMorpho{codeGroupeMorpho:"7"}) with g match(g)<-[r:appartient]- (c:CIMO3Morpho) return g,count(c)

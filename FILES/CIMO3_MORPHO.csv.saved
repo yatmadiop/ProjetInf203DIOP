@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="1034" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:fr-FR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<styles>
+<s type="P" name="Normal" basedon="" followedby="Current Settings" props="font-family:Tinos; margin-top:0pt; font-variant:normal; margin-left:0pt; text-indent:0in; widows:2; font-style:normal; font-weight:normal; text-decoration:none; color:000000; line-height:1.0; text-align:left; margin-bottom:0pt; text-position:normal; margin-right:0pt; bgcolor:transparent; font-size:12pt; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="1">
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr">CodeMorphoCIMO3,LibelleCodeCIMO3,CodeGroupeMorpho</p>
+<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr">81202,Carcinome à cellules transitionnelles in situ,1</p>
+<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr">81203,"Carcinome à cellules transitionnelles, SAI",1</p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr">81210,"Papillome schneidérien, SAI (C30.0, C31.-)",1</p>
+<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr">81211,"Papillome transitionnel inversé, SAI",1</p>
+<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr">81213,"Carcinome schneidérien (C30.0, C31.-)",1</p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr">81223,Carcinome transitionnel à cellules fusiformes,1</p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr">81233,Carcinome basaloïde,1</p>
+<p style="Normal" xid="10" props="text-align:left; dom-dir:ltr">81243,Tumeur cloacale maligne (C21.2),1</p>
+<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr">81301,Tumeur transitionnelle papillaire à faible potentiel malin (C67.-),1</p>
+<p style="Normal" xid="12" props="text-align:left; dom-dir:ltr">81302,Carcinome transitionnel papillaire non invasif (C67.-),1</p>
+<p style="Normal" xid="13" props="text-align:left; dom-dir:ltr">81303,Carcinome transitionnel papillaire (C67.-),1</p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr">81313,Carcinome transitionnel micro-papillaire (C67.-),1</p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr">81400,"Adénome, SAI",3</p>
+<p style="Normal" xid="16" props="text-align:left; dom-dir:ltr">81401,Adénome atypique,3</p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr">81402,"Adénocarcinome in situ, SAI",3</p>
+<p style="Normal" xid="18" props="text-align:left; dom-dir:ltr">81403,"Adénocarcinome, SAI",3</p>
+<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr">81406,"Adénocarcinome métastatique, SAI",3</p>
+<p style="Normal" xid="20" props="text-align:left; dom-dir:ltr">81413,Adénocarcinome squirrheux,3</p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr">81423,Linite plastique (C16.-),3</p>
+<p style="Normal" xid="22" props="text-align:left; dom-dir:ltr">81433,Adénocarcinome à extension superficielle,3</p>
+<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr">81443,Adénocarcinome de type intestinal (C16.-),3</p>
+<p style="Normal" xid="24" props="text-align:left; dom-dir:ltr">81453,Carcinome de type diffus (C16.-),3</p>
+<p style="Normal" xid="25" props="text-align:left; dom-dir:ltr">81460,Adénome monomorphe,3</p>
+<p style="Normal" xid="26" props="text-align:left; dom-dir:ltr">81470,Adénome basocellulaire,3</p>
+<p style="Normal" xid="27" props="text-align:left; dom-dir:ltr">81473,Adénocarcinome basocellulaire,3</p>
+<p style="Normal" xid="28" props="text-align:left; dom-dir:ltr">81482,"Néoplasie  glandulaire intraépithéliale, grade III",3</p>
+<p style="Normal" xid="29" props="text-align:left; dom-dir:ltr">81490,Adénome canaliculaire,3</p>
+<p style="Normal" xid="30" props="text-align:left; dom-dir:ltr">81500,"Adénome insulaire, SAI (C25.-)",4</p>
+<p style="Normal" xid="31" props="text-align:left; dom-dir:ltr">81501,"Tumeur à cellules insulaires, SAI (C25.-)",4</p>
+<p style="Normal" xid="32" props="text-align:left; dom-dir:ltr">81503,Carcinome insulaire du pancréas (C25.-),4</p>
+<p style="Normal" xid="33" props="text-align:left; dom-dir:ltr">81510,"Insulinome, SAI (C25.-)",4</p>
+<p style="Normal" xid="34" props="text-align:left; dom-dir:ltr">81513,Insulinome malin (C25.-),4</p>
+<p style="Normal" xid="35" props="text-align:left; dom-dir:ltr">81521,"Glucagonome, SAI (C25.-)",4</p>
+<p style="Normal" xid="36" props="text-align:left; dom-dir:ltr">81523,Glucagonome malin (C25.-),4</p>
+<p style="Normal" xid="37" props="text-align:left; dom-dir:ltr">81531,"Gastrinome, SAI",4</p>
+<p style="Normal" xid="38" props="text-align:left; dom-dir:ltr">81533,Gastrinome malin,4</p>
+<p style="Normal" xid="39" props="text-align:left; dom-dir:ltr">81543,Adénocarcinome à cellules insulaires et à cellules exocrines (C25.-),4</p>
+<p style="Normal" xid="40" props="text-align:left; dom-dir:ltr">81551,"Vipome, SAI",4</p>
+<p style="Normal" xid="41" props="text-align:left; dom-dir:ltr">81553,Vipome malin,4</p>
+<p style="Normal" xid="42" props="text-align:left; dom-dir:ltr">81561,"Somatostatinome, SAI",4</p>
+<p style="Normal" xid="43" props="text-align:left; dom-dir:ltr">81563,Somatostatinome malin,4</p>
+<p style="Normal" xid="44" props="text-align:left; dom-dir:ltr">81571,"Entéroglucagonome, SAI",4</p>
+<p style="Normal" xid="45" props="text-align:left; dom-dir:ltr">81573,Entéroglucagonome malin,4</p>
+<p style="Normal" xid="46" props="text-align:left; dom-dir:ltr">81600,"Cholangiome bénin (C22.1, C24.0)",3</p>
+<p style="Normal" xid="47" props="text-align:left; dom-dir:ltr">81603,"Cholangiocarcinome (C22.1, C24.0)",3</p>
+<p style="Normal" xid="48" props="text-align:left; dom-dir:ltr">81610,"Cystadénome biliaire (C22.1, C24.0)",3</p>
+<p style="Normal" xid="49" props="text-align:left; dom-dir:ltr">81613,"Cystadénocarcinome biliaire (C22.1, C24.0)",3</p>
+<p style="Normal" xid="50" props="text-align:left; dom-dir:ltr">81623,"Tumeur de Klatskin (C22.1, C24.0)",3</p>
+<p style="Normal" xid="51" props="text-align:left; dom-dir:ltr">81700,Hépatome bénin (C22.0),4</p>
+<p style="Normal" xid="52" props="text-align:left; dom-dir:ltr">81703,"Carcinome hépatocellulaire, SAI (C22.0)",4</p>
+<p style="Normal" xid="53" props="text-align:left; dom-dir:ltr">81713,Carcinome hépatocellulaire fibrolamellaire (C22.0),4</p>
+<p style="Normal" xid="54" props="text-align:left; dom-dir:ltr">81723,Carcinome hépatocellulaire squirrheux (C22.0),4</p>
+<p style="Normal" xid="55" props="text-align:left; dom-dir:ltr">81733,"Carcinome hépatocellulaire, variante à cellules fusiformes (C22.0)",4</p>
+<p style="Normal" xid="56" props="text-align:left; dom-dir:ltr">81743,Carcinome hépatocellulaire à cellules claires (C22.0),4</p>
+<p style="Normal" xid="57" props="text-align:left; dom-dir:ltr">81753,Carcinome hépatocellulaire pléomorphe (C22.0),4</p>
+<p style="Normal" xid="58" props="text-align:left; dom-dir:ltr">81803,Carcinome hépatocellulaire et cholangiocarcinome combinés (C22.0),4</p>
+<p style="Normal" xid="59" props="text-align:left; dom-dir:ltr">81900,Adénome trabéculaire,3</p>
+<p style="Normal" xid="60" props="text-align:left; dom-dir:ltr">81903,"Adénocarcinome trabéculaire, SAI",3</p>
+<p style="Normal" xid="61" props="text-align:left; dom-dir:ltr">81910,Adénome embryonnaire,3</p>
+<p style="Normal" xid="62" props="text-align:left; dom-dir:ltr">82000,Cylindrome eccrine dermique (C44.-),3</p>
+<p style="Normal" xid="63" props="text-align:left; dom-dir:ltr">82003,Carcinome adénoïde kystique,3</p>
+<p style="Normal" xid="64" props="text-align:left; dom-dir:ltr">82012,Carcinome cribriforme intra-épithélial (C50.-),3</p>
+<p style="Normal" xid="65" props="text-align:left; dom-dir:ltr">82013,"Carcinome cribriforme, SAI",3</p>
+<p style="Normal" xid="66" props="text-align:left; dom-dir:ltr">82020,Adénome microkystique (C25.-),3</p>
+<p style="Normal" xid="67" props="text-align:left; dom-dir:ltr">82040,Adénome de lactation (C50.-),3</p>
+<p style="Normal" xid="68" props="text-align:left; dom-dir:ltr">82100,"Polype adénomateux, SAI",3</p>
+<p style="Normal" xid="69" props="text-align:left; dom-dir:ltr">82102,Adénocarcinome in situ sur polype adénomateux,3</p>
+<p style="Normal" xid="70" props="text-align:left; dom-dir:ltr">82103,Adénocarcinome sur polyadénome,3</p>
+<p style="Normal" xid="71" props="text-align:left; dom-dir:ltr">82110,"Adénome tubuleux, SAI",3</p>
+<p style="Normal" xid="72" props="text-align:left; dom-dir:ltr">82113,Adénocarcinome tubuleux,3</p>
+<p style="Normal" xid="73" props="text-align:left; dom-dir:ltr">82120,Adénome plat,3</p>
+<p style="Normal" xid="74" props="text-align:left; dom-dir:ltr">82130,Adénome dentelé (C18.-),3</p>
+<p style="Normal" xid="75" props="text-align:left; dom-dir:ltr">82143,Carcinome à cellules pariétales (C16.-),3</p>
+<p style="Normal" xid="76" props="text-align:left; dom-dir:ltr">82153,Adénocarcinome des glandes anales (C21.1),3</p>
+<p style="Normal" xid="77" props="text-align:left; dom-dir:ltr">82200,Adénomatose polypoïde du côlon (C18.-),3</p>
+<p style="Normal" xid="78" props="text-align:left; dom-dir:ltr">82203,Adénocarcinome sur adénomatose polypoïde du côlon (C18.-),3</p>
+<p style="Normal" xid="79" props="text-align:left; dom-dir:ltr">82210,Polypose multiple,3</p>
+<p style="Normal" xid="80" props="text-align:left; dom-dir:ltr">82213,Adénocarcinome sur polypes adénomateux multiples,3</p>
+<p style="Normal" xid="81" props="text-align:left; dom-dir:ltr">82302,Carcinome canalaire intraépithélial solide (C50.-),4</p>
+<p style="Normal" xid="82" props="text-align:left; dom-dir:ltr">82303,"Carcinome solide, SAI",4</p>
+<p style="Normal" xid="83" props="text-align:left; dom-dir:ltr">82313,Carcinome simplex,4</p>
+<p style="Normal" xid="84" props="text-align:left; dom-dir:ltr">82401,Tumeur carcinoïde de potentiel malin incertain,4</p>
+<p style="Normal" xid="85" props="text-align:left; dom-dir:ltr">82403,"Tumeur carcinoïde , SAI (sauf appendice,r M-8240/1)",4</p>
+<p style="Normal" xid="86" props="text-align:left; dom-dir:ltr">82413,Carcinoïde malin à cellules entérochromaffines,4</p>
+<p style="Normal" xid="87" props="text-align:left; dom-dir:ltr">82421,"Carcinoïde à cellules entérochromaffinoïdes, SAI",4</p>
+<p style="Normal" xid="88" props="text-align:left; dom-dir:ltr">82423,Carcinoïde malin à cellules entérochromaffinoïdes,4</p>
+<p style="Normal" xid="89" props="text-align:left; dom-dir:ltr">82433,Tumeur maligne mucocarcinoïde,4</p>
+<p style="Normal" xid="90" props="text-align:left; dom-dir:ltr">82443,Tumeur carcinoïde mixte,4</p>
+<p style="Normal" xid="91" props="text-align:left; dom-dir:ltr">82451,Carcinoïde tubuleux,4</p>
+<p style="Normal" xid="92" props="text-align:left; dom-dir:ltr">82453,Tumeur adénocarcinoïde,4</p>
+<p style="Normal" xid="93" props="text-align:left; dom-dir:ltr">80000,Tumeur bénigne,17</p>
+<p style="Normal" xid="94" props="text-align:left; dom-dir:ltr">80001,Tumeur de bénignité ou de malignité non assurée,17</p>
+<p style="Normal" xid="95" props="text-align:left; dom-dir:ltr">80003,"Tumeur maligne, SAI",17</p>
+<p style="Normal" xid="96" props="text-align:left; dom-dir:ltr">80006,Tumeur métastatique,17</p>
+<p style="Normal" xid="97" props="text-align:left; dom-dir:ltr">80009,Tumeur maligne de nature primaire ou secondaire non assurée,17</p>
+<p style="Normal" xid="98" props="text-align:left; dom-dir:ltr">80010,Cellules tumorales bénignes,17</p>
+<p style="Normal" xid="99" props="text-align:left; dom-dir:ltr">80011,Cellules tumorales de bénignité ou de malignité non assurée,17</p>
+<p style="Normal" xid="100" props="text-align:left; dom-dir:ltr">80013,Cellules tumorales malignes,17</p>
+<p style="Normal" xid="101" props="text-align:left; dom-dir:ltr">80023,Tumeur maligne à petites cellules,17</p>
+<p style="Normal" xid="102" props="text-align:left; dom-dir:ltr">80033,Tumeur maligne à grandes cellules,17</p>
+<p style="Normal" xid="103" props="text-align:left; dom-dir:ltr">80043,Tumeur maligne à cellules fusiformes,17</p>
+<p style="Normal" xid="104" props="text-align:left; dom-dir:ltr">80050,"Tumeur à cellules claires, SAI",17</p>
+<p style="Normal" xid="105" props="text-align:left; dom-dir:ltr">80053,Tumeur maligne à cellules claires,17</p>
+<p style="Normal" xid="106" props="text-align:left; dom-dir:ltr">80100,Tumeur épithéliale bénigne,5</p>
+<p style="Normal" xid="107" props="text-align:left; dom-dir:ltr">80102,"Carcinome in situ, SAI",5</p>
+<p style="Normal" xid="108" props="text-align:left; dom-dir:ltr">80103,"Carcinome, SAI",5</p>
+<p style="Normal" xid="109" props="text-align:left; dom-dir:ltr">80106,"Carcinome métastatique, SAI",5</p>
+<p style="Normal" xid="110" props="text-align:left; dom-dir:ltr">80109,Carcinomatose,5</p>
+<p style="Normal" xid="111" props="text-align:left; dom-dir:ltr">80110,Épithéliome bénin,5</p>
+<p style="Normal" xid="112" props="text-align:left; dom-dir:ltr">80113,Épithéliome malin,5</p>
+<p style="Normal" xid="113" props="text-align:left; dom-dir:ltr">80123,"Carcinome à grandes cellules, SAI",5</p>
+<p style="Normal" xid="114" props="text-align:left; dom-dir:ltr">80133,Carcinome neuroendocrinien à grandes cellules,5</p>
+<p style="Normal" xid="115" props="text-align:left; dom-dir:ltr">80143,Carcinome à grandes cellules avec un phénotype rhabdoïde,5</p>
+<p style="Normal" xid="116" props="text-align:left; dom-dir:ltr">80153,Carcinome à cellules hyalines,5</p>
+<p style="Normal" xid="117" props="text-align:left; dom-dir:ltr">80203,"Carcinome indifférencié, SAI",5</p>
+<p style="Normal" xid="118" props="text-align:left; dom-dir:ltr">80213,"Carcinome anaplasique, SAI",5</p>
+<p style="Normal" xid="119" props="text-align:left; dom-dir:ltr">80223,Carcinome pléomorphe,5</p>
+<p style="Normal" xid="120" props="text-align:left; dom-dir:ltr">80303,Carcinome à cellules géantes et à cellules fusiformes,4</p>
+<p style="Normal" xid="121" props="text-align:left; dom-dir:ltr">80313,Carcinome à cellules géantes,4</p>
+<p style="Normal" xid="122" props="text-align:left; dom-dir:ltr">80323,"Carcinome à cellules fusiformes, SAI",4</p>
+<p style="Normal" xid="123" props="text-align:left; dom-dir:ltr">80333,Carcinome pseudosarcomateux,4</p>
+<p style="Normal" xid="124" props="text-align:left; dom-dir:ltr">80343,Carcinome à cellules polygonales,4</p>
+<p style="Normal" xid="125" props="text-align:left; dom-dir:ltr">80353,Carcinome à cellules géantes ostéoclastiformes,4</p>
+<p style="Normal" xid="126" props="text-align:left; dom-dir:ltr">80400,Tumorlet bénin,4</p>
+<p style="Normal" xid="127" props="text-align:left; dom-dir:ltr">80401,"Tumorlet, SAI",4</p>
+<p style="Normal" xid="128" props="text-align:left; dom-dir:ltr">80413,"Carcinome à petites cellules, SAI",4</p>
+<p style="Normal" xid="129" props="text-align:left; dom-dir:ltr">80423,Carcinome à cellules en grain davoine (C34.-),4</p>
+<p style="Normal" xid="130" props="text-align:left; dom-dir:ltr">80433,Carcinome à petites cellules fusiformes,4</p>
+<p style="Normal" xid="131" props="text-align:left; dom-dir:ltr">80443,Carcinome à petites cellules intermédiaires,4</p>
+<p style="Normal" xid="132" props="text-align:left; dom-dir:ltr">80453,Carcinome mixte à petites cellules,4</p>
+<p style="Normal" xid="133" props="text-align:left; dom-dir:ltr">80463,Carcinome non à petites cellules (C34.-),4</p>
+<p style="Normal" xid="134" props="text-align:left; dom-dir:ltr">80500,"Papillome, SAI (à lexclusion du papillome de la vessie M-8120/1)",5</p>
+<p style="Normal" xid="135" props="text-align:left; dom-dir:ltr">80502,Carcinome papillaire in situ,5</p>
+<p style="Normal" xid="136" props="text-align:left; dom-dir:ltr">80503,"Carcinome papillaire, SAI",5</p>
+<p style="Normal" xid="137" props="text-align:left; dom-dir:ltr">80510,Papillome verruqueux,1</p>
+<p style="Normal" xid="138" props="text-align:left; dom-dir:ltr">80513,"Carcinome verruqueux, SAI",1</p>
+<p style="Normal" xid="139" props="text-align:left; dom-dir:ltr">80520,"Papillome spinocellulaire, SAI",1</p>
+<p style="Normal" xid="140" props="text-align:left; dom-dir:ltr">80522,Carcinome épidermoïde papillaire non invasif,1</p>
+<p style="Normal" xid="141" props="text-align:left; dom-dir:ltr">80523,Carcinome épidermoïde papillaire,1</p>
+<p style="Normal" xid="142" props="text-align:left; dom-dir:ltr">80530,Papillome épidermoïde inversé,1</p>
+<p style="Normal" xid="143" props="text-align:left; dom-dir:ltr">80600,Papillomatose épidermoïde,1</p>
+<p style="Normal" xid="144" props="text-align:left; dom-dir:ltr">80702,"Carcinome épidermoïde in situ, SAI",1</p>
+<p style="Normal" xid="145" props="text-align:left; dom-dir:ltr">80703,"Carcinome épidermoïde, SAI",1</p>
+<p style="Normal" xid="146" props="text-align:left; dom-dir:ltr">80706,"Carcinome épidermoïde, métastatique, SAI",1</p>
+<p style="Normal" xid="147" props="text-align:left; dom-dir:ltr">80713,"Carcinome épidermoïde kératinisant, SAI",1</p>
+<p style="Normal" xid="148" props="text-align:left; dom-dir:ltr">80723,"Carcinome épidermoïde non kératinisant, à grandes cellules, SAI",1</p>
+<p style="Normal" xid="149" props="text-align:left; dom-dir:ltr">80733,"Carcinome épidermoïde non kératinisant, à petites cellules",1</p>
+<p style="Normal" xid="150" props="text-align:left; dom-dir:ltr">80743,Carcinome épidermoïde à cellules fusiformes,1</p>
+<p style="Normal" xid="151" props="text-align:left; dom-dir:ltr">80753,Carcinome épidermoïde pseudo-glandulaire,1</p>
+<p style="Normal" xid="152" props="text-align:left; dom-dir:ltr">80762,Carcinome épidermoïde in situ avec possibilité denvahissement du stroma,1</p>
+<p style="Normal" xid="153" props="text-align:left; dom-dir:ltr">80763,Carcinome épidermoïde micro-invasif,1</p>
+<p style="Normal" xid="154" props="text-align:left; dom-dir:ltr">80772,"Néoplasie intraépithéliale, grade III (voir règles de codage, page x)",1</p>
+<p style="Normal" xid="155" props="text-align:left; dom-dir:ltr">80783,Carcinome épidermoïde avec formation dune corne cutanée,1</p>
+<p style="Normal" xid="156" props="text-align:left; dom-dir:ltr">80802,Érythroplasie de Queyrat (C60.-),1</p>
+<p style="Normal" xid="157" props="text-align:left; dom-dir:ltr">80812,Maladie de Bowen (C44.-),1</p>
+<p style="Normal" xid="158" props="text-align:left; dom-dir:ltr">80823,Carcinome lymphoépithélial,1</p>
+<p style="Normal" xid="159" props="text-align:left; dom-dir:ltr">80833,Carcinome épidermoïde basaloïde,1</p>
+<p style="Normal" xid="160" props="text-align:left; dom-dir:ltr">80843,Carcinome épidermoïde à cellules claires,1</p>
+<p style="Normal" xid="161" props="text-align:left; dom-dir:ltr">80901,Tumeur basocellulaire (C44.-),2</p>
+<p style="Normal" xid="162" props="text-align:left; dom-dir:ltr">80903,"Carcinome basocellulaire, SAI (C44.-)",2</p>
+<p style="Normal" xid="163" props="text-align:left; dom-dir:ltr">80913,Carcinome basocellulaire superficiel multifocal (C44.-),2</p>
+<p style="Normal" xid="164" props="text-align:left; dom-dir:ltr">80923,"Carcinome basocellulaire infiltrant, SAI (C44.-)",2</p>
+<p style="Normal" xid="165" props="text-align:left; dom-dir:ltr">80933,Carcinome basocellulaire fibro-épithélial (C44.-),2</p>
+<p style="Normal" xid="166" props="text-align:left; dom-dir:ltr">80943,Carcinome basospinocellulaire (C44.-),2</p>
+<p style="Normal" xid="167" props="text-align:left; dom-dir:ltr">80953,Carcinome intermédiaire (C44.-),2</p>
+<p style="Normal" xid="168" props="text-align:left; dom-dir:ltr">80960,Épithéliome intra-épidermique de Borst et Jadassohn (C44.-),2</p>
+<p style="Normal" xid="169" props="text-align:left; dom-dir:ltr">80973,Carcinome basocellulaire nodulaire (C44.-),2</p>
+<p style="Normal" xid="170" props="text-align:left; dom-dir:ltr">80983,Carcinome basocellulaire adénoïde (C53.-),2</p>
+<p style="Normal" xid="171" props="text-align:left; dom-dir:ltr">81000,Trichoépithéliome (C44.-),2</p>
+<p style="Normal" xid="172" props="text-align:left; dom-dir:ltr">81010,Trichofolliculome (C44.-),2</p>
+<p style="Normal" xid="173" props="text-align:left; dom-dir:ltr">81020,Trichilemmome (C44.-),2</p>
+<p style="Normal" xid="174" props="text-align:left; dom-dir:ltr">81023,Trichilemmocarcinome (C44.-),2</p>
+<p style="Normal" xid="175" props="text-align:left; dom-dir:ltr">81030,Tumeur pilaire (C44.-),2</p>
+<p style="Normal" xid="176" props="text-align:left; dom-dir:ltr">81100,"Pilomatrixome, SAI (C44.-)",2</p>
+<p style="Normal" xid="177" props="text-align:left; dom-dir:ltr">81103,Carcinome pilomatriciel (C44.-),2</p>
+<p style="Normal" xid="178" props="text-align:left; dom-dir:ltr">81200,Papillome bénin à cellules transitionnelles,1</p>
+<p style="Normal" xid="179" props="text-align:left; dom-dir:ltr">81201,"Papillome à cellules transitionnelles, SAI",1</p>
+<p style="Normal" xid="180" props="text-align:left; dom-dir:ltr">82463,"Carcinome neuroendocrinien, SAI",4</p>
+<p style="Normal" xid="181" props="text-align:left; dom-dir:ltr">82473,Carcinome à cellules de Merkel (C44.-),4</p>
+<p style="Normal" xid="182" props="text-align:left; dom-dir:ltr">82481,Apudome,4</p>
+<p style="Normal" xid="183" props="text-align:left; dom-dir:ltr">82493,Tumeur carcinoïde maligne atypique,4</p>
+<p style="Normal" xid="184" props="text-align:left; dom-dir:ltr">82501,Adénomatose pulmonaire (C34.-),4</p>
+<p style="Normal" xid="185" props="text-align:left; dom-dir:ltr">82503,"Adénocarcinome bronchioloalvéolaire, SAI (C34.-)",4</p>
+<p style="Normal" xid="186" props="text-align:left; dom-dir:ltr">82510,Adénome alvéolaire (C34.-),4</p>
+<p style="Normal" xid="187" props="text-align:left; dom-dir:ltr">82513,Adénocarcinome alvéolaire (C34.-),4</p>
+<p style="Normal" xid="188" props="text-align:left; dom-dir:ltr">82523,Carcinome bronchioloalvéolaire non mucineux (C34.-),4</p>
+<p style="Normal" xid="189" props="text-align:left; dom-dir:ltr">82533,Carcinome bronchioloalvéolaire mucineux (C34.-),4</p>
+<p style="Normal" xid="190" props="text-align:left; dom-dir:ltr">82543,Carcinome bronchioloalvéolaire mixte mucineux et non mucineux (C34.-),4</p>
+<p style="Normal" xid="191" props="text-align:left; dom-dir:ltr">82553,Adénocarcinome avec sous-types mixtes,4</p>
+<p style="Normal" xid="192" props="text-align:left; dom-dir:ltr">82600,"Adénome papillaire, SAI",3</p>
+<p style="Normal" xid="193" props="text-align:left; dom-dir:ltr">82603,"Adénocarcinome papillaire, SAI",3</p>
+<p style="Normal" xid="194" props="text-align:left; dom-dir:ltr">82610,Adénome villeux,3</p>
+<p style="Normal" xid="195" props="text-align:left; dom-dir:ltr">82612,Adénocarcinome in situ sur adénome villeux,3</p>
+<p style="Normal" xid="196" props="text-align:left; dom-dir:ltr">82613,Adénocarcinome sur adénome villeux,3</p>
+<p style="Normal" xid="197" props="text-align:left; dom-dir:ltr">82623,Adénocarcinome villeux,3</p>
+<p style="Normal" xid="198" props="text-align:left; dom-dir:ltr">82630,"Adénome tubulovilleux, SAI",3</p>
+<p style="Normal" xid="199" props="text-align:left; dom-dir:ltr">82632,Adénocarcinome in situ sur adénome tubulovilleux,3</p>
+<p style="Normal" xid="200" props="text-align:left; dom-dir:ltr">82633,Adénocarcinome sur adénome tubulovilleux,3</p>
+<p style="Normal" xid="201" props="text-align:left; dom-dir:ltr">82640,Papillomatose glandulaire,3</p>
+<p style="Normal" xid="202" props="text-align:left; dom-dir:ltr">82700,Adénome chromophobe (C75.1),3</p>
+<p style="Normal" xid="203" props="text-align:left; dom-dir:ltr">82703,Adénocarcinome chromophobe (C75.1),3</p>
+<p style="Normal" xid="204" props="text-align:left; dom-dir:ltr">82710,Prolactinome (C75.1),3</p>
+<p style="Normal" xid="205" props="text-align:left; dom-dir:ltr">82720,"Adénome pituitaire, SAI (C75.1)",3</p>
+<p style="Normal" xid="206" props="text-align:left; dom-dir:ltr">82723,"Carcinome pituitaire, SAI (C75.1)",3</p>
+<p style="Normal" xid="207" props="text-align:left; dom-dir:ltr">82800,Adénome acidophile (C75.1),3</p>
+<p style="Normal" xid="208" props="text-align:left; dom-dir:ltr">82803,Adénocarcinome éosinophile (C75.1),3</p>
+<p style="Normal" xid="209" props="text-align:left; dom-dir:ltr">82810,Adénome mixte acidophile et basophile (C75.1),3</p>
+<p style="Normal" xid="210" props="text-align:left; dom-dir:ltr">82813,Adénocarcinome mixte acidophile et basophile (C75.1),3</p>
+<p style="Normal" xid="211" props="text-align:left; dom-dir:ltr">82900,Adénome oxyphile,3</p>
+<p style="Normal" xid="212" props="text-align:left; dom-dir:ltr">82903,Adénocarcinome oxyphile,3</p>
+<p style="Normal" xid="213" props="text-align:left; dom-dir:ltr">83000,Adénome basophile (C75.1),3</p>
+<p style="Normal" xid="214" props="text-align:left; dom-dir:ltr">83003,Adénocarcinome à cellules basophiles (C75.1),3</p>
+<p style="Normal" xid="215" props="text-align:left; dom-dir:ltr">83100,Adénome à cellules claires,3</p>
+<p style="Normal" xid="216" props="text-align:left; dom-dir:ltr">83103,"Adénocarcinome à cellules claires, SAI",3</p>
+<p style="Normal" xid="217" props="text-align:left; dom-dir:ltr">83111,Tumeur hypernéphroïde [obs],3</p>
+<p style="Normal" xid="218" props="text-align:left; dom-dir:ltr">83123,"Carcinome à cellules rénales, SAI (C64.9)",3</p>
+<p style="Normal" xid="219" props="text-align:left; dom-dir:ltr">83130,Adénofibrome à cellules claires (C56.9),3</p>
+<p style="Normal" xid="220" props="text-align:left; dom-dir:ltr">83131,Adénofibrome à cellules claires à la limite de la malignité (C56.9),3</p>
+<p style="Normal" xid="221" props="text-align:left; dom-dir:ltr">83133,Adénocarcinofibrome à cellules claires (C56.9),3</p>
+<p style="Normal" xid="222" props="text-align:left; dom-dir:ltr">83143,Carcinome riche en lipides (C50.-),3</p>
+<p style="Normal" xid="223" props="text-align:left; dom-dir:ltr">83153,Carcinome riche en glycogènes (C50.-),3</p>
+<p style="Normal" xid="224" props="text-align:left; dom-dir:ltr">83163,Carcinome à cellules rénales associé à un kyste (C64.9),3</p>
+<p style="Normal" xid="225" props="text-align:left; dom-dir:ltr">83173,Carcinome à cellules rénales chromophobes (C64.9),3</p>
+<p style="Normal" xid="226" props="text-align:left; dom-dir:ltr">83183,Carcinome à cellules rénales sarcomatoïde (C64.9),3</p>
+<p style="Normal" xid="227" props="text-align:left; dom-dir:ltr">83193,Carcinome des tubes droits du rein (C64.9),3</p>
+<p style="Normal" xid="228" props="text-align:left; dom-dir:ltr">83203,Carcinome à cellules granuleuses,3</p>
+<p style="Normal" xid="229" props="text-align:left; dom-dir:ltr">83210,Adénome à cellules principales (C75.0),3</p>
+<p style="Normal" xid="230" props="text-align:left; dom-dir:ltr">83220,Adénome à cellules eau de roche (C75.0),3</p>
+<p style="Normal" xid="231" props="text-align:left; dom-dir:ltr">83223,Adénocarcinome à cellules eau de roche (C75.0),3</p>
+<p style="Normal" xid="232" props="text-align:left; dom-dir:ltr">83230,Adénome à cellules mixtes,3</p>
+<p style="Normal" xid="233" props="text-align:left; dom-dir:ltr">83233,Adénocarcinome à cellules mixtes,3</p>
+<p style="Normal" xid="234" props="text-align:left; dom-dir:ltr">83240,Adénolipome,3</p>
+<p style="Normal" xid="235" props="text-align:left; dom-dir:ltr">83250,Adénome métanéphrique (C64.9),3</p>
+<p style="Normal" xid="236" props="text-align:left; dom-dir:ltr">83300,Adénome vésiculaire (C73.9),3</p>
+<p style="Normal" xid="237" props="text-align:left; dom-dir:ltr">83301,Adénome vésiculaire atypique (C73.9),3</p>
+<p style="Normal" xid="238" props="text-align:left; dom-dir:ltr">83303,"Adénocarcinome vésiculaire, SAI (C73.9)",3</p>
+<p style="Normal" xid="239" props="text-align:left; dom-dir:ltr">83313,Adénocarcinome vésiculaire bien différencié (C73.9),3</p>
+<p style="Normal" xid="240" props="text-align:left; dom-dir:ltr">83323,Adénocarcinome vésiculaire trabéculaire (C73.9),3</p>
+<p style="Normal" xid="241" props="text-align:left; dom-dir:ltr">83330,"Adénome microvésiculaire, SAI (C73.9)",3</p>
+<p style="Normal" xid="242" props="text-align:left; dom-dir:ltr">83333,Adénocarcinome foetal,3</p>
+<p style="Normal" xid="243" props="text-align:left; dom-dir:ltr">83340,Adénome macrovésiculaire (C73.9),3</p>
+<p style="Normal" xid="244" props="text-align:left; dom-dir:ltr">83353,Carcinome vésiculaire microinvasif (C73.9),3</p>
+<p style="Normal" xid="245" props="text-align:left; dom-dir:ltr">83360,Adénome trabéculaire hyalinisant (C73.9),3</p>
+<p style="Normal" xid="246" props="text-align:left; dom-dir:ltr">83373,Carcinome insulaire (C73.9),3</p>
+<p style="Normal" xid="247" props="text-align:left; dom-dir:ltr">83403,"Carcinome papillaire, variante vésiculaire (C73.9)",4</p>
+<p style="Normal" xid="248" props="text-align:left; dom-dir:ltr">83413,Microcarcinome papillaire (C73.9),4</p>
+<p style="Normal" xid="249" props="text-align:left; dom-dir:ltr">83423,Carcinome papillaire à cellule  oxyphile (C73.9),4</p>
+<p style="Normal" xid="250" props="text-align:left; dom-dir:ltr">83433,Carcinome papillaire encapsulé (C73.9),4</p>
+<p style="Normal" xid="251" props="text-align:left; dom-dir:ltr">83443,Carcinome papillaire à cellules cylindriques (C73.9),4</p>
+<p style="Normal" xid="252" props="text-align:left; dom-dir:ltr">83453,Carcinome médullaire à stroma amyloïde (C73.9),4</p>
+<p style="Normal" xid="253" props="text-align:left; dom-dir:ltr">83463,Carcinome mixte médullaire et vésiculaire (C73.9),4</p>
+<p style="Normal" xid="254" props="text-align:left; dom-dir:ltr">83473,Carcinome mixte médullaire et papillaire (C73.9),4</p>
+<p style="Normal" xid="255" props="text-align:left; dom-dir:ltr">83503,Carcinome sclérosant non encapsulé (C73.9),3</p>
+<p style="Normal" xid="256" props="text-align:left; dom-dir:ltr">83601,Adénomatose endocrinienne multiple,3</p>
+<p style="Normal" xid="257" props="text-align:left; dom-dir:ltr">83610,Tumeur juxtaglomérulaire (C64.9),3</p>
+<p style="Normal" xid="258" props="text-align:left; dom-dir:ltr">83700,"Adénome corticosurrénalien, SAI (C74.0)",3</p>
+<p style="Normal" xid="259" props="text-align:left; dom-dir:ltr">83703,Corticosurrénalome malin (C74.0),3</p>
+<p style="Normal" xid="260" props="text-align:left; dom-dir:ltr">83710,Adénome corticosurrénalien à cellules compactes (C74.0),3</p>
+<p style="Normal" xid="261" props="text-align:left; dom-dir:ltr">83720,Adénome corticosurrénalien pigmenté (C74.0),3</p>
+<p style="Normal" xid="262" props="text-align:left; dom-dir:ltr">83730,Adénome corticosurrénalien à cellules claires (C74.0),3</p>
+<p style="Normal" xid="263" props="text-align:left; dom-dir:ltr">83740,Adénome corticosurrénalien à cellules glomérulaires (C74.0),3</p>
+<p style="Normal" xid="264" props="text-align:left; dom-dir:ltr">83750,Adénome corticosurrénalien à cellules mixtes (C74.0),3</p>
+<p style="Normal" xid="265" props="text-align:left; dom-dir:ltr">83800,"Adénome endométrioïde, SAI",3</p>
+<p style="Normal" xid="266" props="text-align:left; dom-dir:ltr">83801,Adénome endométrioïde à la limite de la malignité,3</p>
+<p style="Normal" xid="267" props="text-align:left; dom-dir:ltr">83803,"Adénocarcinome endométrioïde, SAI",3</p>
+<p style="Normal" xid="268" props="text-align:left; dom-dir:ltr">83810,"Adénofibrome endométrioïde, SAI",3</p>
+<p style="Normal" xid="269" props="text-align:left; dom-dir:ltr">83811,Adénofibrome endométrioïde à la limite de la malignité,3</p>
+<p style="Normal" xid="270" props="text-align:left; dom-dir:ltr">83813,Adénofibrome endométrioïde malin,3</p>
+<p style="Normal" xid="271" props="text-align:left; dom-dir:ltr">83823,"Adénocarcinome endométrioïde, variante sécrétoire",3</p>
+<p style="Normal" xid="272" props="text-align:left; dom-dir:ltr">83833,"Adénocarcinome endométrioïde, variante à cellules ciliées",3</p>
+<p style="Normal" xid="273" props="text-align:left; dom-dir:ltr">83843,Adénocarcinome de type endocervical,3</p>
+<p style="Normal" xid="274" props="text-align:left; dom-dir:ltr">83900,Adénome des annexes cutanées (C44.-),3</p>
+<p style="Normal" xid="275" props="text-align:left; dom-dir:ltr">83903,Carcinome des annexes cutanées (C44.-),3</p>
+<p style="Normal" xid="276" props="text-align:left; dom-dir:ltr">83910,Fibrome folliculaire (C44.-),3</p>
+<p style="Normal" xid="277" props="text-align:left; dom-dir:ltr">83920,Syringofibroadénome (C44.-),3</p>
+<p style="Normal" xid="278" props="text-align:left; dom-dir:ltr">84000,Adénome des glandes sudoripares (C44.-),3</p>
+<p style="Normal" xid="279" props="text-align:left; dom-dir:ltr">84001,"Tumeur des glandes sudoripares, SAI (C44.-)",3</p>
+<p style="Normal" xid="280" props="text-align:left; dom-dir:ltr">84003,Adénocarcinome des glandes sudoripares (C44.-),3</p>
+<p style="Normal" xid="281" props="text-align:left; dom-dir:ltr">84010,Adénome apocrine,3</p>
+<p style="Normal" xid="282" props="text-align:left; dom-dir:ltr">84013,Adénocarcinome apocrine,3</p>
+<p style="Normal" xid="283" props="text-align:left; dom-dir:ltr">84020,Hidradénome nodulaire (C44.-),3</p>
+<p style="Normal" xid="284" props="text-align:left; dom-dir:ltr">84023,Hidradénome nodulaire malin (C44.-),3</p>
+<p style="Normal" xid="285" props="text-align:left; dom-dir:ltr">84030,Spiradénome eccrine (C44.-),3</p>
+<p style="Normal" xid="286" props="text-align:left; dom-dir:ltr">84033,Spiradénome eccrine malin (C44.-),3</p>
+<p style="Normal" xid="287" props="text-align:left; dom-dir:ltr">84040,Hidrocystome (C44.-),3</p>
+<p style="Normal" xid="288" props="text-align:left; dom-dir:ltr">84050,Hidradénome papillaire,3</p>
+<p style="Normal" xid="289" props="text-align:left; dom-dir:ltr">84060,Syringoadénome papillaire (C44.-),3</p>
+<p style="Normal" xid="290" props="text-align:left; dom-dir:ltr">84070,"Syringome, SAI (C44.-)",3</p>
+<p style="Normal" xid="291" props="text-align:left; dom-dir:ltr">84073,Carcinome sclérosant dun canal sudorifère (C44.-),3</p>
+<p style="Normal" xid="292" props="text-align:left; dom-dir:ltr">84080,Adénome papillaire eccrine (C44.-),3</p>
+<p style="Normal" xid="293" props="text-align:left; dom-dir:ltr">84081,Adénome papillaire digital agressif (C44.-),3</p>
+<p style="Normal" xid="294" props="text-align:left; dom-dir:ltr">84083,Adénocarcinome papillaire eccrine (C44.-),3</p>
+<p style="Normal" xid="295" props="text-align:left; dom-dir:ltr">84090,Porome eccrine (C44.-),3</p>
+<p style="Normal" xid="296" props="text-align:left; dom-dir:ltr">84093,Porome eccrine malin,3</p>
+<p style="Normal" xid="297" props="text-align:left; dom-dir:ltr">84100,Adénome sébacé (C44.-),3</p>
+<p style="Normal" xid="298" props="text-align:left; dom-dir:ltr">84103,Adénocarcinome sébacé (C44.-),3</p>
+<p style="Normal" xid="299" props="text-align:left; dom-dir:ltr">84133,Adénocarcinome eccrine (C44.-),3</p>
+<p style="Normal" xid="300" props="text-align:left; dom-dir:ltr">84200,Adénome cérumineux (C44.2),3</p>
+<p style="Normal" xid="301" props="text-align:left; dom-dir:ltr">84203,Adénocarcinome cérumineux (C44.2),3</p>
+<p style="Normal" xid="302" props="text-align:left; dom-dir:ltr">84301,Tumeur muco-épidermoïde [obs],3</p>
+<p style="Normal" xid="303" props="text-align:left; dom-dir:ltr">84303,Carcinome muco-épidermoïde,3</p>
+<p style="Normal" xid="304" props="text-align:left; dom-dir:ltr">84400,"Cystadénome, SAI",3</p>
+<p style="Normal" xid="305" props="text-align:left; dom-dir:ltr">84403,"Cystadénocarcinome, SAI",3</p>
+<p style="Normal" xid="306" props="text-align:left; dom-dir:ltr">84410,"Cystadénome séreux, SAI",3</p>
+<p style="Normal" xid="307" props="text-align:left; dom-dir:ltr">84413,"Cystadénocarcinome séreux, SAI (C56.9)",3</p>
+<p style="Normal" xid="308" props="text-align:left; dom-dir:ltr">84421,Cystadénome séreux à la limite de la malignité (C56.9),3</p>
+<p style="Normal" xid="309" props="text-align:left; dom-dir:ltr">84430,Cystadénome à cellules claires (C56.9),3</p>
+<p style="Normal" xid="310" props="text-align:left; dom-dir:ltr">84441,Tumeur kystique à cellules claires à la limite de la malignité (C56.9),3</p>
+<p style="Normal" xid="311" props="text-align:left; dom-dir:ltr">84500,"Cystadénome papillaire, SAI (C56.9)",3</p>
+<p style="Normal" xid="312" props="text-align:left; dom-dir:ltr">84503,"Cystadénocarcinome papillaire, SAI (C56.9)",3</p>
+<p style="Normal" xid="313" props="text-align:left; dom-dir:ltr">84511,Cystadénome papillaire à la limite de la malignité (C56.9),3</p>
+<p style="Normal" xid="314" props="text-align:left; dom-dir:ltr">84521,Tumeur pseudopapillaire solide (C25.-),3</p>
+<p style="Normal" xid="315" props="text-align:left; dom-dir:ltr">84523,Carcinome pseudopapillaire solide (C25.-),3</p>
+<p style="Normal" xid="316" props="text-align:left; dom-dir:ltr">84530,Adénome intracanalaire mucineux et papillaire (C25.-),3</p>
+<p style="Normal" xid="317" props="text-align:left; dom-dir:ltr">84531,Tumeur intracanalaire mucineuse et papillaire avec dysplasie modérée (C25.-),3</p>
+<p style="Normal" xid="318" props="text-align:left; dom-dir:ltr">84532,"Carcinome intracanalaire mucineux et papillaire, non invasif (C25.-)",3</p>
+<p style="Normal" xid="319" props="text-align:left; dom-dir:ltr">84533,"Carcinome intracanalaire mucineux et papillaire, invasif (C25.-)",3</p>
+<p style="Normal" xid="320" props="text-align:left; dom-dir:ltr">84540,Tumeur kystique du nud auriculo-ventriculaire (C38.0),3</p>
+<p style="Normal" xid="321" props="text-align:left; dom-dir:ltr">84600,"Cystadénome séreux papillaire, SAI (C56.9)",3</p>
+<p style="Normal" xid="322" props="text-align:left; dom-dir:ltr">84603,Cystadénocarcinome séreux papillaire (C56.9),3</p>
+<p style="Normal" xid="323" props="text-align:left; dom-dir:ltr">84610,"Papillome séreux de surface,  (C56.9)",3</p>
+<p style="Normal" xid="324" props="text-align:left; dom-dir:ltr">84613,Carcinome séreux papillaire de surface (C56.9),3</p>
+<p style="Normal" xid="325" props="text-align:left; dom-dir:ltr">84621,Tumeur kystique séreuse papillaire à la limite de la malignité (C56.9),3</p>
+<p style="Normal" xid="326" props="text-align:left; dom-dir:ltr">84631,Tumeur séreuse papillaire de surface à la limite de la malignité (C56.9),3</p>
+<p style="Normal" xid="327" props="text-align:left; dom-dir:ltr">84700,"Cystadénome mucineux, SAI (C56.9)",3</p>
+<p style="Normal" xid="328" props="text-align:left; dom-dir:ltr">84701,Tumeur kystique mucineuse avec dysplasie modérée (C25.-),3</p>
+<p style="Normal" xid="329" props="text-align:left; dom-dir:ltr">84702,"Cystadénocarcinome mucineux, non invasif (C25.-)",3</p>
+<p style="Normal" xid="330" props="text-align:left; dom-dir:ltr">84703,"Cystadénocarcinome mucineux, SAI (C56.9)",3</p>
+<p style="Normal" xid="331" props="text-align:left; dom-dir:ltr">84710,"Cystadénome papillaire  mucineux, SAI (C56.9)",3</p>
+<p style="Normal" xid="332" props="text-align:left; dom-dir:ltr">84713,Cystadénocarcinome papillaire mucineux (C56.9),3</p>
+<p style="Normal" xid="333" props="text-align:left; dom-dir:ltr">84721,Tumeur kystique mucineuse à la limite de la malignité (C56.9),3</p>
+<p style="Normal" xid="334" props="text-align:left; dom-dir:ltr">84731,Cystadénome papillaire mucineux à la limite de la malignité (C56.9),3</p>
+<p style="Normal" xid="335" props="text-align:left; dom-dir:ltr">84800,Adénome mucineux,3</p>
+<p style="Normal" xid="336" props="text-align:left; dom-dir:ltr">84803,Adénocarcinome colloïde,3</p>
+<p style="Normal" xid="337" props="text-align:left; dom-dir:ltr">84806,Pseudomyxome du péritoine,3</p>
+<p style="Normal" xid="338" props="text-align:left; dom-dir:ltr">84813,Adénocarcinome mucipare,3</p>
+<p style="Normal" xid="339" props="text-align:left; dom-dir:ltr">84823,Adénocarcinome mucineux de type endocervical,3</p>
+<p style="Normal" xid="340" props="text-align:left; dom-dir:ltr">84903,Adénocarcinome à cellules en bague à chaton,3</p>
+<p style="Normal" xid="341" props="text-align:left; dom-dir:ltr">84906,Carcinome métastatique à cellules en bague à chaton,3</p>
+<p style="Normal" xid="342" props="text-align:left; dom-dir:ltr">85002,"Carcinome intracanalaire non infiltrant, SAI",3</p>
+<p style="Normal" xid="343" props="text-align:left; dom-dir:ltr">85003,"Adénocarcinome canalaire infiltrant, SAI (C50.-)",3</p>
+<p style="Normal" xid="344" props="text-align:left; dom-dir:ltr">85012,Comédocarcinome non infiltrant (C50.-),3</p>
+<p style="Normal" xid="345" props="text-align:left; dom-dir:ltr">85013,"Comédocarcinome, SAI (C50.-)",3</p>
+<p style="Normal" xid="346" props="text-align:left; dom-dir:ltr">85023,Carcinome juvénile du sein (C50.-),3</p>
+<p style="Normal" xid="347" props="text-align:left; dom-dir:ltr">85030,Papillome intracanalaire,3</p>
+<p style="Normal" xid="348" props="text-align:left; dom-dir:ltr">85032,Adénocarcinome papillaire intracanalaire non infiltrant (C50.-),3</p>
+<p style="Normal" xid="349" props="text-align:left; dom-dir:ltr">85033,Adénocarcinome papillaire intracanalaire infiltrant,3</p>
+<p style="Normal" xid="350" props="text-align:left; dom-dir:ltr">85040,Adénome papillaire intrakystique,3</p>
+<p style="Normal" xid="351" props="text-align:left; dom-dir:ltr">85042,Carcinome intrakystique non infiltrant,3</p>
+<p style="Normal" xid="352" props="text-align:left; dom-dir:ltr">85043,"Carcinome intrakystique, SAI",3</p>
+<p style="Normal" xid="353" props="text-align:left; dom-dir:ltr">85050,"Papillomatose intracanalaire, SAI",3</p>
+<p style="Normal" xid="354" props="text-align:left; dom-dir:ltr">85060,Adénomatose du mamelon (C50.0),3</p>
+<p style="Normal" xid="355" props="text-align:left; dom-dir:ltr">85072,Carcinome intracanalaire micropapillaire (C50.-),3</p>
+<p style="Normal" xid="356" props="text-align:left; dom-dir:ltr">85083,Carcinome hypersécrétoire kystique (C50.-),3</p>
+<p style="Normal" xid="357" props="text-align:left; dom-dir:ltr">85103,"Carcinome médullaire, SAI",3</p>
+<p style="Normal" xid="358" props="text-align:left; dom-dir:ltr">85123,Carcinome médullaire à stroma lymphoïde,3</p>
+<p style="Normal" xid="359" props="text-align:left; dom-dir:ltr">85133,Carcinome médullaire atypique (C50.-),3</p>
+<p style="Normal" xid="360" props="text-align:left; dom-dir:ltr">85143,Carcinome canalaire de type desmoplasique,3</p>
+<p style="Normal" xid="361" props="text-align:left; dom-dir:ltr">85202,"Carcinome lobulaire in situ, SAI (C50.-)",3</p>
+<p style="Normal" xid="362" props="text-align:left; dom-dir:ltr">85203,"Carcinome lobulaire, SAI (C50.-)",3</p>
+<p style="Normal" xid="363" props="text-align:left; dom-dir:ltr">85213,Carcinome canaliculaire infiltrant (C50.-),3</p>
+<p style="Normal" xid="364" props="text-align:left; dom-dir:ltr">85222,Carcinome intracanalaire et carcinome lobulaire in situ (C50.-),3</p>
+<p style="Normal" xid="365" props="text-align:left; dom-dir:ltr">85223,Carcinome canalaire et lobulaire infiltrant (C50.-),3</p>
+<p style="Normal" xid="366" props="text-align:left; dom-dir:ltr">85233,Carcinome canalaire infiltrant avec autres types de carcinomes (C50.-),3</p>
+<p style="Normal" xid="367" props="text-align:left; dom-dir:ltr">85243,Carcinome lobulaire infiltrant avec autres types de carcinomes (C50.-),3</p>
+<p style="Normal" xid="368" props="text-align:left; dom-dir:ltr">85253,Adénocarcinome polymorphe de bas grade,3</p>
+<p style="Normal" xid="369" props="text-align:left; dom-dir:ltr">85303,Carcinome inflammatoire (C50.-),3</p>
+<p style="Normal" xid="370" props="text-align:left; dom-dir:ltr">85403,Maladie de Paget du sein (C50.-),3</p>
+<p style="Normal" xid="371" props="text-align:left; dom-dir:ltr">85413,Maladie de Paget et carcinome canalaire infiltrant du sein (C50.-),3</p>
+<p style="Normal" xid="372" props="text-align:left; dom-dir:ltr">85423,Maladie de Paget extramammaire (à lexclusion de la maladie de Paget de los),3</p>
+<p style="Normal" xid="373" props="text-align:left; dom-dir:ltr">85433,Maladie de Paget et carcinome intracanalaire du sein (C50.-),3</p>
+<p style="Normal" xid="374" props="text-align:left; dom-dir:ltr">85500,Adénome à cellules acineuses,3</p>
+<p style="Normal" xid="375" props="text-align:left; dom-dir:ltr">85501,Tumeur à cellules acineuses [obs],3</p>
+<p style="Normal" xid="376" props="text-align:left; dom-dir:ltr">85503,Adénocarcinome à cellules acineuses,3</p>
+<p style="Normal" xid="377" props="text-align:left; dom-dir:ltr">85513,Cystadénocarcinome à cellules acineuses,3</p>
+<p style="Normal" xid="378" props="text-align:left; dom-dir:ltr">85600,Papillome mixte glandulaire et spinocellulaire,4</p>
+<p style="Normal" xid="379" props="text-align:left; dom-dir:ltr">85603,Carcinome adénosquameux,4</p>
+<p style="Normal" xid="380" props="text-align:left; dom-dir:ltr">85610,"Adénolymphome (C07.-, C08.-)",4</p>
+<p style="Normal" xid="381" props="text-align:left; dom-dir:ltr">85623,Carcinome épithélialmyoépithélial,4</p>
+<p style="Normal" xid="382" props="text-align:left; dom-dir:ltr">85703,Adénocarcinome avec métaplasie malpighienne,3</p>
+<p style="Normal" xid="383" props="text-align:left; dom-dir:ltr">85713,Adénocarcinome avec métaplasie cartilagineuse et osseuse,3</p>
+<p style="Normal" xid="384" props="text-align:left; dom-dir:ltr">85723,Adénocarcinome avec métaplasie fusocellulaire,3</p>
+<p style="Normal" xid="385" props="text-align:left; dom-dir:ltr">85733,Adénocarcinome avec métaplasie apocrine,3</p>
+<p style="Normal" xid="386" props="text-align:left; dom-dir:ltr">85743,Adénocarcinome avec différenciation neuroendocrinienne,3</p>
+<p style="Normal" xid="387" props="text-align:left; dom-dir:ltr">85753,"Carcinome métaplasique, SAI",3</p>
+<p style="Normal" xid="388" props="text-align:left; dom-dir:ltr">85763,Adénocarcinome hépatoïde,3</p>
+<p style="Normal" xid="389" props="text-align:left; dom-dir:ltr">85800,Thymome bénin (C37.9),4</p>
+<p style="Normal" xid="390" props="text-align:left; dom-dir:ltr">85801,"Thymome, SAI (C37.9)",4</p>
+<p style="Normal" xid="391" props="text-align:left; dom-dir:ltr">85803,"Thymome malin, SAI (C37.9)",4</p>
+<p style="Normal" xid="392" props="text-align:left; dom-dir:ltr">85811,"Thymome de type A, SAI (C37.9)",4</p>
+<p style="Normal" xid="393" props="text-align:left; dom-dir:ltr">85813,Thymome malin de type A (C37.9),4</p>
+<p style="Normal" xid="394" props="text-align:left; dom-dir:ltr">85821,"Thymome de type AB, SAI (C37.9)",4</p>
+<p style="Normal" xid="395" props="text-align:left; dom-dir:ltr">85823,Thymome malin de type AB (C37.9),4</p>
+<p style="Normal" xid="396" props="text-align:left; dom-dir:ltr">85831,"Thymome de type B1, SAI (C37.9)",4</p>
+<p style="Normal" xid="397" props="text-align:left; dom-dir:ltr">85833,Thymome malin de type B1 (C37.9),4</p>
+<p style="Normal" xid="398" props="text-align:left; dom-dir:ltr">85841,"Thymome de type B2, SAI (C37.9)",4</p>
+<p style="Normal" xid="399" props="text-align:left; dom-dir:ltr">85843,Thymome malin de type B2 (C37.9),4</p>
+<p style="Normal" xid="400" props="text-align:left; dom-dir:ltr">85851,"Thymome de type B3, SAI (C37.9)",4</p>
+<p style="Normal" xid="401" props="text-align:left; dom-dir:ltr">85853,Thymome malin de type B3 (C37.9),4</p>
+<p style="Normal" xid="402" props="text-align:left; dom-dir:ltr">85863,"Carcinome thymique, SAI (C37.9)",4</p>
+<p style="Normal" xid="403" props="text-align:left; dom-dir:ltr">85870,Thymome hamartomateux ectopique,4</p>
+<p style="Normal" xid="404" props="text-align:left; dom-dir:ltr">85883,Tumeur épithéliale fusiforme avec éléments dallure thymique,4</p>
+<p style="Normal" xid="405" props="text-align:left; dom-dir:ltr">85893,Carcinome présentant des éléments dallure thymique,4</p>
+<p style="Normal" xid="406" props="text-align:left; dom-dir:ltr">85901,"Tumeur des cordons sexuels et du stroma gonadique, SAI",4</p>
+<p style="Normal" xid="407" props="text-align:left; dom-dir:ltr">85911,"Tumeur des cordons sexuels et du stroma gonadique, partiellement différenciée",4</p>
+<p style="Normal" xid="408" props="text-align:left; dom-dir:ltr">85921,"Tumeur des cordons sexuels et du stroma gonadique, formes mixtes",4</p>
+<p style="Normal" xid="409" props="text-align:left; dom-dir:ltr">85931,Tumeur du stroma gonadique avec peu déléments de cordons sexuels (C56.9),4</p>
+<p style="Normal" xid="410" props="text-align:left; dom-dir:ltr">86000,"Thécome, SAI (C56.9)",4</p>
+<p style="Normal" xid="411" props="text-align:left; dom-dir:ltr">86003,Thécome malin (C56.9),4</p>
+<p style="Normal" xid="412" props="text-align:left; dom-dir:ltr">86010,Thécome lutéinisé (C56.9),4</p>
+<p style="Normal" xid="413" props="text-align:left; dom-dir:ltr">86020,Tumeur stromale sclérosante (C56.9),4</p>
+<p style="Normal" xid="414" props="text-align:left; dom-dir:ltr">86100,"Lutéome, SAI (C56.9)",4</p>
+<p style="Normal" xid="415" props="text-align:left; dom-dir:ltr">86201,Tumeur de la granulosa de type adulte (C56.9),4</p>
+<p style="Normal" xid="416" props="text-align:left; dom-dir:ltr">86203,Tumeur maligne de la granulosa (C56.9),4</p>
+<p style="Normal" xid="417" props="text-align:left; dom-dir:ltr">86211,Tumeur de la granulosa et de la thèque (C56.9),4</p>
+<p style="Normal" xid="418" props="text-align:left; dom-dir:ltr">86221,Tumeur de la granulosa juvénile (C56.9),4</p>
+<p style="Normal" xid="419" props="text-align:left; dom-dir:ltr">86231,Tumeur des cordons sexuels avec tubules annulaires (C56.9),4</p>
+<p style="Normal" xid="420" props="text-align:left; dom-dir:ltr">86300,Androblastome bénin,4</p>
+<p style="Normal" xid="421" props="text-align:left; dom-dir:ltr">86301,"Androblastome, SAI",4</p>
+<p style="Normal" xid="422" props="text-align:left; dom-dir:ltr">86303,Androblastome malin,4</p>
+<p style="Normal" xid="423" props="text-align:left; dom-dir:ltr">86310,"Tumeur à cellules de Sertoli-Leydig, bien différenciée",4</p>
+<p style="Normal" xid="424" props="text-align:left; dom-dir:ltr">86311,Tumeur à cellules de Sertoli-Leydig de différenciation intermédiaire,4</p>
+<p style="Normal" xid="425" props="text-align:left; dom-dir:ltr">86313,"Tumeur à cellules de Sertoli-Leydig, peu différenciée",4</p>
+<p style="Normal" xid="426" props="text-align:left; dom-dir:ltr">86321,Gynandroblastome (C56.9),4</p>
+<p style="Normal" xid="427" props="text-align:left; dom-dir:ltr">86331,Tumeur rétiforme à cellules de Sertoli-Leydig,4</p>
+<p style="Normal" xid="428" props="text-align:left; dom-dir:ltr">86341,"Tumeur à cellules de Sertoli-Leydig, différenciation intermédiaire, avec éléments hétérologues",4</p>
+<p style="Normal" xid="429" props="text-align:left; dom-dir:ltr">86343,"Tumeur à cellules de Sertoli-Leydig, peu différenciée, avec éléments hétérologues",4</p>
+<p style="Normal" xid="430" props="text-align:left; dom-dir:ltr">86401,"Tumeur à cellules de Sertoli, SAI",4</p>
+<p style="Normal" xid="431" props="text-align:left; dom-dir:ltr">86403,Carcinome à cellules de Sertoli (C62.-),4</p>
+<p style="Normal" xid="432" props="text-align:left; dom-dir:ltr">86410,Tumeur à cellules de Sertoli lipidiques (C56.9),4</p>
+<p style="Normal" xid="433" props="text-align:left; dom-dir:ltr">86421,Androblastome calcifiant à grandes cellules,4</p>
+<p style="Normal" xid="434" props="text-align:left; dom-dir:ltr">86500,Tumeur bénigne à cellules de Leydig (C62.-),4</p>
+<p style="Normal" xid="435" props="text-align:left; dom-dir:ltr">86501,"Tumeur à cellules de Leydig, SAI (C62.-)",4</p>
+<p style="Normal" xid="436" props="text-align:left; dom-dir:ltr">86503,Tumeur maligne à cellules de Leydig (C62.-),4</p>
+<p style="Normal" xid="437" props="text-align:left; dom-dir:ltr">86600,Tumeur à cellules du hile (C56.9),4</p>
+<p style="Normal" xid="438" props="text-align:left; dom-dir:ltr">86700,Tumeur à cellules lipoïdiques de lovaire (C56.9),4</p>
+<p style="Normal" xid="439" props="text-align:left; dom-dir:ltr">86703,Tumeur maligne à cellules stéroïdiennes,4</p>
+<p style="Normal" xid="440" props="text-align:left; dom-dir:ltr">86710,Tumeur des vestiges surrénaliens,4</p>
+<p style="Normal" xid="441" props="text-align:left; dom-dir:ltr">86800,Paragangliome bénin,6</p>
+<p style="Normal" xid="442" props="text-align:left; dom-dir:ltr">86801,"Paragangliome, SAI",6</p>
+<p style="Normal" xid="443" props="text-align:left; dom-dir:ltr">86803,Paragangliome malin,6</p>
+<p style="Normal" xid="444" props="text-align:left; dom-dir:ltr">86811,Paragangliome sympathique,6</p>
+<p style="Normal" xid="445" props="text-align:left; dom-dir:ltr">86821,Paragangliome parasympathique,6</p>
+<p style="Normal" xid="446" props="text-align:left; dom-dir:ltr">86830,Paragangliome gangliocytaire (C17.0),6</p>
+<p style="Normal" xid="447" props="text-align:left; dom-dir:ltr">86901,"Tumeur du glomus jugulaire, SAI (C75.5)",6</p>
+<p style="Normal" xid="448" props="text-align:left; dom-dir:ltr">86911,Tumeur du corpuscule aortique (C75.5),6</p>
+<p style="Normal" xid="449" props="text-align:left; dom-dir:ltr">86921,Tumeur du corpuscule carotidien (C75.4),6</p>
+<p style="Normal" xid="450" props="text-align:left; dom-dir:ltr">86931,"Paragangliome extrasurrénalien, SAI",6</p>
+<p style="Normal" xid="451" props="text-align:left; dom-dir:ltr">86933,Paragangliome extrasurrénalien malin,6</p>
+<p style="Normal" xid="452" props="text-align:left; dom-dir:ltr">87000,"Phéochromocytome, SAI (C74.1)",6</p>
+<p style="Normal" xid="453" props="text-align:left; dom-dir:ltr">87003,Phéochromocytome malin (C74.1),6</p>
+<p style="Normal" xid="454" props="text-align:left; dom-dir:ltr">87103,Glomangiosarcome,6</p>
+<p style="Normal" xid="455" props="text-align:left; dom-dir:ltr">87110,"Tumeur glomique, SAI",6</p>
+<p style="Normal" xid="456" props="text-align:left; dom-dir:ltr">87113,Tumeur glomique maligne,6</p>
+<p style="Normal" xid="457" props="text-align:left; dom-dir:ltr">87120,Glomangiome,6</p>
+<p style="Normal" xid="458" props="text-align:left; dom-dir:ltr">87130,Glomangiomyome,6</p>
+<p style="Normal" xid="459" props="text-align:left; dom-dir:ltr">87200,"Nævus pigmentaire, SAI (C44.-)",16</p>
+<p style="Normal" xid="460" props="text-align:left; dom-dir:ltr">87202,Mélanome in situ,16</p>
+<p style="Normal" xid="461" props="text-align:left; dom-dir:ltr">87203,"Mélanome malin, SAI (à lexception du mélanome juvénile M-8770/0)",16</p>
+<p style="Normal" xid="462" props="text-align:left; dom-dir:ltr">87213,Mélanome nodulaire (C44.-),16</p>
+<p style="Normal" xid="463" props="text-align:left; dom-dir:ltr">87220,Nævus à cellules ballonisées (C44.-),16</p>
+<p style="Normal" xid="464" props="text-align:left; dom-dir:ltr">87223,Mélanome à cellules ballonisées (C44.-),16</p>
+<p style="Normal" xid="465" props="text-align:left; dom-dir:ltr">87230,Nævus en halo (C44.-),16</p>
+<p style="Normal" xid="466" props="text-align:left; dom-dir:ltr">87233,Mélanome malin régressant (C44.-),16</p>
+<p style="Normal" xid="467" props="text-align:left; dom-dir:ltr">87250,Neuronævus (C44.-),16</p>
+<p style="Normal" xid="468" props="text-align:left; dom-dir:ltr">87260,Nævus à grandes cellules (C69.4),16</p>
+<p style="Normal" xid="469" props="text-align:left; dom-dir:ltr">87270,Nævus dysplasique (C44.-),16</p>
+<p style="Normal" xid="470" props="text-align:left; dom-dir:ltr">87280,Mélanocytose diffuse (C70.9),16</p>
+<p style="Normal" xid="471" props="text-align:left; dom-dir:ltr">87281,Mélanocytome méningé (C70.9),16</p>
+<p style="Normal" xid="472" props="text-align:left; dom-dir:ltr">87283,Mélanomatose méningée (C70.9),16</p>
+<p style="Normal" xid="473" props="text-align:left; dom-dir:ltr">87300,Nævus achromique (C44.-),16</p>
+<p style="Normal" xid="474" props="text-align:left; dom-dir:ltr">87303,Mélanome achromique (C44.-),16</p>
+<p style="Normal" xid="475" props="text-align:left; dom-dir:ltr">87400,"Nævus de jonction, SAI (C44.-)",16</p>
+<p style="Normal" xid="476" props="text-align:left; dom-dir:ltr">87403,Mélanome malin sur enævus de jonction (C44.-),16</p>
+<p style="Normal" xid="477" props="text-align:left; dom-dir:ltr">87412,"Mélanose précancéreuse, SAI (C44.-)",16</p>
+<p style="Normal" xid="478" props="text-align:left; dom-dir:ltr">87413,Mélanome malin sur mélanose précancéreuse (C44.-),16</p>
+<p style="Normal" xid="479" props="text-align:left; dom-dir:ltr">87422,Lentigo malin (C44.-),16</p>
+<p style="Normal" xid="480" props="text-align:left; dom-dir:ltr">87423,Mélanome malin sur lentigo malin des vieillards (C44.-),16</p>
+<p style="Normal" xid="481" props="text-align:left; dom-dir:ltr">87433,Mélanome à extension superficielle (C44.-),16</p>
+<p style="Normal" xid="482" props="text-align:left; dom-dir:ltr">87443,Mélanome acral lentigineux malin (C44.-),16</p>
+<p style="Normal" xid="483" props="text-align:left; dom-dir:ltr">87453,Mélanome malin desmoplasique (C44.-),16</p>
+<p style="Normal" xid="484" props="text-align:left; dom-dir:ltr">87463,Mélanome muqueux lentigineux,16</p>
+<p style="Normal" xid="485" props="text-align:left; dom-dir:ltr">87500,Nævus intradermique (C44.-),16</p>
+<p style="Normal" xid="486" props="text-align:left; dom-dir:ltr">87600,Nævus mixte (C44.-),16</p>
+<p style="Normal" xid="487" props="text-align:left; dom-dir:ltr">87610,Petit nævus congénital (C44.-),16</p>
+<p style="Normal" xid="488" props="text-align:left; dom-dir:ltr">87611,"Nævus pigmentaire géant, SAI (C44.-)",16</p>
+<p style="Normal" xid="489" props="text-align:left; dom-dir:ltr">87613,Mélanome malin sur nævus pigmentaire géant (C44.-),16</p>
+<p style="Normal" xid="490" props="text-align:left; dom-dir:ltr">87621,Lésion dermique proliférative sur nævus congénital (C44.-),16</p>
+<p style="Normal" xid="491" props="text-align:left; dom-dir:ltr">87700,Nævus à cellules épithélioïdes et à cellules fusiformes (C44.-),16</p>
+<p style="Normal" xid="492" props="text-align:left; dom-dir:ltr">87703,Mélanome à cellules épithélioïdes et à cellules fusiformes,16</p>
+<p style="Normal" xid="493" props="text-align:left; dom-dir:ltr">87710,Nævus à cellules épithélioïdes (C44.-),16</p>
+<p style="Normal" xid="494" props="text-align:left; dom-dir:ltr">87713,Mélanome à cellules épithélioïdes,16</p>
+<p style="Normal" xid="495" props="text-align:left; dom-dir:ltr">87720,"Nævus à cellules fusiformes, SAI (C44.-)",16</p>
+<p style="Normal" xid="496" props="text-align:left; dom-dir:ltr">87723,"Mélanome à cellules fusiformes, SAI",16</p>
+<p style="Normal" xid="497" props="text-align:left; dom-dir:ltr">87733,Mélanome à cellules fusiformes de type A (C69.-),16</p>
+<p style="Normal" xid="498" props="text-align:left; dom-dir:ltr">87743,Mélanome à cellules fusiformes de type B (C69.-),16</p>
+<p style="Normal" xid="499" props="text-align:left; dom-dir:ltr">87800,"Nævus bleu, SAI (C44.-)",16</p>
+<p style="Normal" xid="500" props="text-align:left; dom-dir:ltr">87803,Nævus bleu malin (C44.-),16</p>
+<p style="Normal" xid="501" props="text-align:left; dom-dir:ltr">87900,Nævus bleu cellulaire (C44.-),16</p>
+<p style="Normal" xid="502" props="text-align:left; dom-dir:ltr">88000,Tumeur bénigne des tissus mous,6</p>
+<p style="Normal" xid="503" props="text-align:left; dom-dir:ltr">88003,"Sarcome, SAI",6</p>
+<p style="Normal" xid="504" props="text-align:left; dom-dir:ltr">88009,"Sarcomatose, SAI",6</p>
+<p style="Normal" xid="505" props="text-align:left; dom-dir:ltr">88013,Sarcome à cellules fusiformes,6</p>
+<p style="Normal" xid="506" props="text-align:left; dom-dir:ltr">88023,Sarcome à cellules géantes (à lexception de los M-9250/3),6</p>
+<p style="Normal" xid="507" props="text-align:left; dom-dir:ltr">88033,Sarcome à petites cellules,6</p>
+<p style="Normal" xid="508" props="text-align:left; dom-dir:ltr">88043,Sarcome épithélioïde,6</p>
+<p style="Normal" xid="509" props="text-align:left; dom-dir:ltr">88053,Sarcome indifférencié,6</p>
+<p style="Normal" xid="510" props="text-align:left; dom-dir:ltr">88063,Tumeur desmoplastique à petites cellules rondes,6</p>
+<p style="Normal" xid="511" props="text-align:left; dom-dir:ltr">88100,"Fibrome, SAI",6</p>
+<p style="Normal" xid="512" props="text-align:left; dom-dir:ltr">88101,Fibrome cellulaire (C56.9),6</p>
+<p style="Normal" xid="513" props="text-align:left; dom-dir:ltr">88103,"Fibrosarcome, SAI",6</p>
+<p style="Normal" xid="514" props="text-align:left; dom-dir:ltr">88110,Fibromyxome,6</p>
+<p style="Normal" xid="515" props="text-align:left; dom-dir:ltr">88113,Fibromyxosarcome,6</p>
+<p style="Normal" xid="516" props="text-align:left; dom-dir:ltr">88120,"Fibrome périostique (C40.-, C41.-)",6</p>
+<p style="Normal" xid="517" props="text-align:left; dom-dir:ltr">88123,"Fibrosarcome périostique (C40.-, C41.-)",6</p>
+<p style="Normal" xid="518" props="text-align:left; dom-dir:ltr">88130,Fibrome des fascias,6</p>
+<p style="Normal" xid="519" props="text-align:left; dom-dir:ltr">88133,Fibrosarcome des fascias,6</p>
+<p style="Normal" xid="520" props="text-align:left; dom-dir:ltr">88143,Fibrosarcome infantile,6</p>
+<p style="Normal" xid="521" props="text-align:left; dom-dir:ltr">88150,Tumeur fibreuse solitaire,6</p>
+<p style="Normal" xid="522" props="text-align:left; dom-dir:ltr">88153,Tumeur fibreuse solitaire maligne,6</p>
+<p style="Normal" xid="523" props="text-align:left; dom-dir:ltr">88200,Élastofibrome,6</p>
+<p style="Normal" xid="524" props="text-align:left; dom-dir:ltr">88211,Fibromatose agressive,6</p>
+<p style="Normal" xid="525" props="text-align:left; dom-dir:ltr">88221,Fibromatose abdominale,6</p>
+<p style="Normal" xid="526" props="text-align:left; dom-dir:ltr">88230,Fibrome desmoplasique,6</p>
+<p style="Normal" xid="527" props="text-align:left; dom-dir:ltr">88240,Myofibrome,6</p>
+<p style="Normal" xid="528" props="text-align:left; dom-dir:ltr">88241,Myofibromatose,6</p>
+<p style="Normal" xid="529" props="text-align:left; dom-dir:ltr">88250,Myofibroblastome,6</p>
+<p style="Normal" xid="530" props="text-align:left; dom-dir:ltr">88251,"Tumeur myofibroblastique, SAI",6</p>
+<p style="Normal" xid="531" props="text-align:left; dom-dir:ltr">88260,Angiomyofibroblastome,6</p>
+<p style="Normal" xid="532" props="text-align:left; dom-dir:ltr">88271,Tumeur myofibroblastique péribronchique (C34.-),6</p>
+<p style="Normal" xid="533" props="text-align:left; dom-dir:ltr">88300,Histiocytome fibreux bénin,6</p>
+<p style="Normal" xid="534" props="text-align:left; dom-dir:ltr">88301,Histiocytome fibreux atypique,6</p>
+<p style="Normal" xid="535" props="text-align:left; dom-dir:ltr">88303,Histiocytome fibreux malin,6</p>
+<p style="Normal" xid="536" props="text-align:left; dom-dir:ltr">88310,"Histiocytome, SAI",6</p>
+<p style="Normal" xid="537" props="text-align:left; dom-dir:ltr">88320,"Dermatofibrome, SAI (C44.-)",6</p>
+<p style="Normal" xid="538" props="text-align:left; dom-dir:ltr">88323,"Dermatofibrosarcome, SAI (C44.-)",6</p>
+<p style="Normal" xid="539" props="text-align:left; dom-dir:ltr">88333,Dermatofibrosarcome protubérant pigmenté (C44.-),6</p>
+<p style="Normal" xid="540" props="text-align:left; dom-dir:ltr">88341,Fibroblastome à cellules géantes,6</p>
+<p style="Normal" xid="541" props="text-align:left; dom-dir:ltr">88351,Tumeur fibrohistiocytaire plexiforme,6</p>
+<p style="Normal" xid="542" props="text-align:left; dom-dir:ltr">88361,Histiocytome fibreux angiomatoïde,6</p>
+<p style="Normal" xid="543" props="text-align:left; dom-dir:ltr">88400,"Myxome, SAI",6</p>
+<p style="Normal" xid="544" props="text-align:left; dom-dir:ltr">88403,Myxosarcome,6</p>
+<p style="Normal" xid="545" props="text-align:left; dom-dir:ltr">88411,Angiomyxome,6</p>
+<p style="Normal" xid="546" props="text-align:left; dom-dir:ltr">88420,Tumeur fibromyxoïde ossifiante,6</p>
+<p style="Normal" xid="547" props="text-align:left; dom-dir:ltr">88500,"Lipome, SAI",6</p>
+<p style="Normal" xid="548" props="text-align:left; dom-dir:ltr">88501,Lipome atypique,6</p>
+<p style="Normal" xid="549" props="text-align:left; dom-dir:ltr">88503,"Liposarcome, SAI",6</p>
+<p style="Normal" xid="550" props="text-align:left; dom-dir:ltr">88510,Fibrolipome,6</p>
+<p style="Normal" xid="551" props="text-align:left; dom-dir:ltr">88513,Liposarcome bien différencié,6</p>
+<p style="Normal" xid="552" props="text-align:left; dom-dir:ltr">88520,Fibromyxolipome,6</p>
+<p style="Normal" xid="553" props="text-align:left; dom-dir:ltr">88523,Liposarcome myxoïde,6</p>
+<p style="Normal" xid="554" props="text-align:left; dom-dir:ltr">88533,Liposarcome à cellules rondes,6</p>
+<p style="Normal" xid="555" props="text-align:left; dom-dir:ltr">88540,Lipome pléomorphe,6</p>
+<p style="Normal" xid="556" props="text-align:left; dom-dir:ltr">88543,Liposarcome pléomorphe,6</p>
+<p style="Normal" xid="557" props="text-align:left; dom-dir:ltr">88553,Liposarcome à cellularité mixte,6</p>
+<p style="Normal" xid="558" props="text-align:left; dom-dir:ltr">88560,Lipome intramusculaire,6</p>
+<p style="Normal" xid="559" props="text-align:left; dom-dir:ltr">88570,Lipome à cellules fusiformes,6</p>
+<p style="Normal" xid="560" props="text-align:left; dom-dir:ltr">88573,Liposarcome fibroblastique,6</p>
+<p style="Normal" xid="561" props="text-align:left; dom-dir:ltr">88583,Liposarcome dédifférencié,6</p>
+<p style="Normal" xid="562" props="text-align:left; dom-dir:ltr">88600,Angiomyolipome,6</p>
+<p style="Normal" xid="563" props="text-align:left; dom-dir:ltr">88610,"Angiolipome, SAI",6</p>
+<p style="Normal" xid="564" props="text-align:left; dom-dir:ltr">88620,Lipome chondroïde,6</p>
+<p style="Normal" xid="565" props="text-align:left; dom-dir:ltr">88700,Myélolipome,6</p>
+<p style="Normal" xid="566" props="text-align:left; dom-dir:ltr">88800,Hibernome,6</p>
+<p style="Normal" xid="567" props="text-align:left; dom-dir:ltr">88810,Lipoblastomatose,6</p>
+<p style="Normal" xid="568" props="text-align:left; dom-dir:ltr">88900,"Léiomyome, SAI",6</p>
+<p style="Normal" xid="569" props="text-align:left; dom-dir:ltr">88901,"Léiomyomatose, SAI",6</p>
+<p style="Normal" xid="570" props="text-align:left; dom-dir:ltr">88903,"Léiomyosarcome, SAI",6</p>
+<p style="Normal" xid="571" props="text-align:left; dom-dir:ltr">88910,Léiomyome épithélioïde,6</p>
+<p style="Normal" xid="572" props="text-align:left; dom-dir:ltr">88913,Léiomyosarcome épithélioïde,6</p>
+<p style="Normal" xid="573" props="text-align:left; dom-dir:ltr">88920,Léiomyome cellulaire,6</p>
+<p style="Normal" xid="574" props="text-align:left; dom-dir:ltr">88930,Léiomyome bizarre,6</p>
+<p style="Normal" xid="575" props="text-align:left; dom-dir:ltr">88940,Angiomyome,6</p>
+<p style="Normal" xid="576" props="text-align:left; dom-dir:ltr">88943,Angiomyosarcome,6</p>
+<p style="Normal" xid="577" props="text-align:left; dom-dir:ltr">88950,Myome,6</p>
+<p style="Normal" xid="578" props="text-align:left; dom-dir:ltr">88953,Myosarcome,6</p>
+<p style="Normal" xid="579" props="text-align:left; dom-dir:ltr">88963,Leiomyosarcome myxoïde,6</p>
+<p style="Normal" xid="580" props="text-align:left; dom-dir:ltr">88971,Tumeur des muscles lisses à potentiel malin incertain,6</p>
+<p style="Normal" xid="581" props="text-align:left; dom-dir:ltr">88981,Leiomyome métastasant,6</p>
+<p style="Normal" xid="582" props="text-align:left; dom-dir:ltr">89000,"Rhabdomyome, SAI",6</p>
+<p style="Normal" xid="583" props="text-align:left; dom-dir:ltr">89003,"Rhabdomyosarcome, SAI",6</p>
+<p style="Normal" xid="584" props="text-align:left; dom-dir:ltr">89013,Rhabdomyosarcome pléomorphe de type ladulte,6</p>
+<p style="Normal" xid="585" props="text-align:left; dom-dir:ltr">89023,Rhabdomyosarcome à cellularité mixte,6</p>
+<p style="Normal" xid="586" props="text-align:left; dom-dir:ltr">89030,Rhabdomyome foetal,6</p>
+<p style="Normal" xid="587" props="text-align:left; dom-dir:ltr">89040,Rhabdomyome adulte,6</p>
+<p style="Normal" xid="588" props="text-align:left; dom-dir:ltr">89050,"Rhabdomyome génital (C51.-, C52.9)",6</p>
+<p style="Normal" xid="589" props="text-align:left; dom-dir:ltr">89103,"Rhabdomyosarcome embryonnaire, SAI",6</p>
+<p style="Normal" xid="590" props="text-align:left; dom-dir:ltr">89123,Rhabdomyosarcome à cellules fusiformes,6</p>
+<p style="Normal" xid="591" props="text-align:left; dom-dir:ltr">89203,Rhabdomyosarcome alvéolaire,6</p>
+<p style="Normal" xid="592" props="text-align:left; dom-dir:ltr">89213,Rhabdomyosarcome avec différenciation ganglionnaire,6</p>
+<p style="Normal" xid="593" props="text-align:left; dom-dir:ltr">89300,Nodule du stroma endométrial (C54.1),16</p>
+<p style="Normal" xid="594" props="text-align:left; dom-dir:ltr">89303,"Sarcome du stroma endométrial , SAI (C54.1)",16</p>
+<p style="Normal" xid="595" props="text-align:left; dom-dir:ltr">89313,Sarcome du stroma endométrial de bas grade (C54.1),16</p>
+<p style="Normal" xid="596" props="text-align:left; dom-dir:ltr">89320,Adénomyome,16</p>
+<p style="Normal" xid="597" props="text-align:left; dom-dir:ltr">89333,Adénosarcome,16</p>
+<p style="Normal" xid="598" props="text-align:left; dom-dir:ltr">89343,Carcinofibrome,16</p>
+<p style="Normal" xid="599" props="text-align:left; dom-dir:ltr">89350,Tumeur stromale bénigne,16</p>
+<p style="Normal" xid="600" props="text-align:left; dom-dir:ltr">89351,"Tumeur stromale, SAI",16</p>
+<p style="Normal" xid="601" props="text-align:left; dom-dir:ltr">89353,"Sarcome stromal, SAI",16</p>
+<p style="Normal" xid="602" props="text-align:left; dom-dir:ltr">89360,Tumeur bénigne du stroma gastro-intestinal,16</p>
+<p style="Normal" xid="603" props="text-align:left; dom-dir:ltr">89361,"Tumeur du stroma gastro-intestinal, SAI",16</p>
+<p style="Normal" xid="604" props="text-align:left; dom-dir:ltr">89363,Sarcome du stroma gastro-intestinal,16</p>
+<p style="Normal" xid="605" props="text-align:left; dom-dir:ltr">89400,Adénome polymorphe,3</p>
+<p style="Normal" xid="606" props="text-align:left; dom-dir:ltr">89403,"Tumeur mixte maligne, SAI",3</p>
+<p style="Normal" xid="607" props="text-align:left; dom-dir:ltr">89413,"Carcinome sur adénome pléomorphe (C07.-, C08.-)",3</p>
+<p style="Normal" xid="608" props="text-align:left; dom-dir:ltr">89503,Mulleroblastome (C54.-),16</p>
+<p style="Normal" xid="609" props="text-align:left; dom-dir:ltr">89513,Tumeur mixte mésodermique,16</p>
+<p style="Normal" xid="610" props="text-align:left; dom-dir:ltr">89590,Néphrome kystique bénin (C64.9),16</p>
+<p style="Normal" xid="611" props="text-align:left; dom-dir:ltr">89591,Néphroblastome kystique partiellement différencié (C64.9),16</p>
+<p style="Normal" xid="612" props="text-align:left; dom-dir:ltr">89593,Néphrome kystique malin (C64.9),16</p>
+<p style="Normal" xid="613" props="text-align:left; dom-dir:ltr">89601,Néphrome mésoblastique,16</p>
+<p style="Normal" xid="614" props="text-align:left; dom-dir:ltr">89603,"Néphroblastome, SAI (C64.9)",16</p>
+<p style="Normal" xid="615" props="text-align:left; dom-dir:ltr">89633,Tumeur rhabdoïde maligne,16</p>
+<p style="Normal" xid="616" props="text-align:left; dom-dir:ltr">89643,Sarcome à cellules claires du rein (C64.9),16</p>
+<p style="Normal" xid="617" props="text-align:left; dom-dir:ltr">89650,Adénofibrome néphrogène (C64.9),16</p>
+<p style="Normal" xid="618" props="text-align:left; dom-dir:ltr">89660,Tumeur à cellules interstitielles rénomédullaires (C64.9),16</p>
+<p style="Normal" xid="619" props="text-align:left; dom-dir:ltr">89670,Tumeur rénale ossifiante (C64.9),16</p>
+<p style="Normal" xid="620" props="text-align:left; dom-dir:ltr">89703,Hépatoblastome (C22.0),16</p>
+<p style="Normal" xid="621" props="text-align:left; dom-dir:ltr">89713,Pancréatoblastome (C25.-),16</p>
+<p style="Normal" xid="622" props="text-align:left; dom-dir:ltr">89723,Blastome pulmonaire (C34.-),16</p>
+<p style="Normal" xid="623" props="text-align:left; dom-dir:ltr">89733,Blastome pleuropulmonaire,16</p>
+<p style="Normal" xid="624" props="text-align:left; dom-dir:ltr">89741,Sialoblastome,16</p>
+<p style="Normal" xid="625" props="text-align:left; dom-dir:ltr">89803,"Carcinosarcome, SAI Esthésio-neuroblastome (C30.0)",16</p>
+<p style="Normal" xid="626" props="text-align:left; dom-dir:ltr">89813,Carcinosarcome de type embryonnaire,16</p>
+<p style="Normal" xid="627" props="text-align:left; dom-dir:ltr">89820,Myoépithéliome,16</p>
+<p style="Normal" xid="628" props="text-align:left; dom-dir:ltr">89823,Myoépithéliome malin,16</p>
+<p style="Normal" xid="629" props="text-align:left; dom-dir:ltr">89830,Adénomyoépithéliome (C50.-),16</p>
+<p style="Normal" xid="630" props="text-align:left; dom-dir:ltr">89900,Mésenchymome bénin,6</p>
+<p style="Normal" xid="631" props="text-align:left; dom-dir:ltr">89901,"Mésenchymome, SAI",6</p>
+<p style="Normal" xid="632" props="text-align:left; dom-dir:ltr">89903,Mésenchymome malin,6</p>
+<p style="Normal" xid="633" props="text-align:left; dom-dir:ltr">89913,Sarcome embryonnaire,6</p>
+<p style="Normal" xid="634" props="text-align:left; dom-dir:ltr">90000,"Tumeur de Brenner, SAI (C56.9)",16</p>
+<p style="Normal" xid="635" props="text-align:left; dom-dir:ltr">90001,Tumeur de Brenner à la limite de la malignité (C56.9),16</p>
+<p style="Normal" xid="636" props="text-align:left; dom-dir:ltr">90003,Tumeur de Brenner maligne (C56.9),16</p>
+<p style="Normal" xid="637" props="text-align:left; dom-dir:ltr">90100,"Fibroadénome, SAI (C50.-)",16</p>
+<p style="Normal" xid="638" props="text-align:left; dom-dir:ltr">90110,"Fibroadénome intracanaliculaire, (C50.-)",16</p>
+<p style="Normal" xid="639" props="text-align:left; dom-dir:ltr">90120,Fibroadénome péricanaliculaire (C50.-),16</p>
+<p style="Normal" xid="640" props="text-align:left; dom-dir:ltr">90130,"Adénofibrome, SAI",16</p>
+<p style="Normal" xid="641" props="text-align:left; dom-dir:ltr">90140,"Adénofibrome séreux, SAI",16</p>
+<p style="Normal" xid="642" props="text-align:left; dom-dir:ltr">90141,Adénofibrome séreux à la limite de la malignité,16</p>
+<p style="Normal" xid="643" props="text-align:left; dom-dir:ltr">90143,Adénocarcinofibrome séreux,16</p>
+<p style="Normal" xid="644" props="text-align:left; dom-dir:ltr">90150,"Adénofibrome mucineux, SAI",16</p>
+<p style="Normal" xid="645" props="text-align:left; dom-dir:ltr">90151,Adénofibrome mucineux à la limite de la malignité,16</p>
+<p style="Normal" xid="646" props="text-align:left; dom-dir:ltr">90153,Adénocarcinofibrome mucineux,16</p>
+<p style="Normal" xid="647" props="text-align:left; dom-dir:ltr">90160,Fibro-adénome géant (C50.-),16</p>
+<p style="Normal" xid="648" props="text-align:left; dom-dir:ltr">90200,Tumeur phyllode bénigne (C50.-),16</p>
+<p style="Normal" xid="649" props="text-align:left; dom-dir:ltr">90201,Tumeur phyllode à la limite de la malignité (C50.-),16</p>
+<p style="Normal" xid="650" props="text-align:left; dom-dir:ltr">90203,Tumeur phyllode maligne (C50.-),16</p>
+<p style="Normal" xid="651" props="text-align:left; dom-dir:ltr">90300,Fibroadénome juvénile (C50.-),16</p>
+<p style="Normal" xid="652" props="text-align:left; dom-dir:ltr">90400,Synoviome bénin,6</p>
+<p style="Normal" xid="653" props="text-align:left; dom-dir:ltr">90403,"Sarcome synovial, SAI",6</p>
+<p style="Normal" xid="654" props="text-align:left; dom-dir:ltr">90413,Sarcome synovial à cellules fusiformes,6</p>
+<p style="Normal" xid="655" props="text-align:left; dom-dir:ltr">90423,Sarcome synovial à cellules épithélioïdes,6</p>
+<p style="Normal" xid="656" props="text-align:left; dom-dir:ltr">90433,Sarcome synovial biphasique,6</p>
+<p style="Normal" xid="657" props="text-align:left; dom-dir:ltr">90443,"Sarcome à cellules claires (sauf du rein, voir M-8964/3)",6</p>
+<p style="Normal" xid="658" props="text-align:left; dom-dir:ltr">90500,Mésothéliome bénin,7</p>
+<p style="Normal" xid="659" props="text-align:left; dom-dir:ltr">90503,Mésothéliome malin,7</p>
+<p style="Normal" xid="660" props="text-align:left; dom-dir:ltr">90510,Mésothéliome fibreux bénin,7</p>
+<p style="Normal" xid="661" props="text-align:left; dom-dir:ltr">90513,Mésothéliome fibreux malin,7</p>
+<p style="Normal" xid="662" props="text-align:left; dom-dir:ltr">90520,Mésothéliome épithélioïde bénin,7</p>
+<p style="Normal" xid="663" props="text-align:left; dom-dir:ltr">90523,Mésothéliome épithélioïde malin,7</p>
+<p style="Normal" xid="664" props="text-align:left; dom-dir:ltr">90533,Mésothéliome biphasique malin,7</p>
+<p style="Normal" xid="665" props="text-align:left; dom-dir:ltr">90540,"Tumeur adénomatoïde, SAI",7</p>
+<p style="Normal" xid="666" props="text-align:left; dom-dir:ltr">90550,Mésothéliome polykystique bénin,7</p>
+<p style="Normal" xid="667" props="text-align:left; dom-dir:ltr">90551,"Mésothéliome kystique, SAI (C48.-)",7</p>
+<p style="Normal" xid="668" props="text-align:left; dom-dir:ltr">90603,Dysgerminome,16</p>
+<p style="Normal" xid="669" props="text-align:left; dom-dir:ltr">90613,"Séminome, SAI (C62.-)",16</p>
+<p style="Normal" xid="670" props="text-align:left; dom-dir:ltr">90623,Séminome anaplasique (C62.-),16</p>
+<p style="Normal" xid="671" props="text-align:left; dom-dir:ltr">90633,Séminome spermatocytaire (C62.-),16</p>
+<p style="Normal" xid="672" props="text-align:left; dom-dir:ltr">90642,Cellules germinales intratubulaires malignes (C62.-),16</p>
+<p style="Normal" xid="673" props="text-align:left; dom-dir:ltr">90643,Germinome,16</p>
+<p style="Normal" xid="674" props="text-align:left; dom-dir:ltr">90653,"Tumeur à cellules germinales, non séminomateuse (C62.-)",16</p>
+<p style="Normal" xid="675" props="text-align:left; dom-dir:ltr">90703,"Carcinome embryonnaire, SAI",16</p>
+<p style="Normal" xid="676" props="text-align:left; dom-dir:ltr">90713,Tumeur vitelline,16</p>
+<p style="Normal" xid="677" props="text-align:left; dom-dir:ltr">90723,Polyembryome,16</p>
+<p style="Normal" xid="678" props="text-align:left; dom-dir:ltr">90731,Gonadoblastome,16</p>
+<p style="Normal" xid="679" props="text-align:left; dom-dir:ltr">90800,Tératome bénin,16</p>
+<p style="Normal" xid="680" props="text-align:left; dom-dir:ltr">90801,"Tératome, SAI",16</p>
+<p style="Normal" xid="681" props="text-align:left; dom-dir:ltr">90803,"Tératome malin, SAI",16</p>
+<p style="Normal" xid="682" props="text-align:left; dom-dir:ltr">90813,Tératocarcinome,16</p>
+<p style="Normal" xid="683" props="text-align:left; dom-dir:ltr">90823,Tératome malin indifférencié,16</p>
+<p style="Normal" xid="684" props="text-align:left; dom-dir:ltr">90833,Tératome malin de type intermédiaire,16</p>
+<p style="Normal" xid="685" props="text-align:left; dom-dir:ltr">90840,"Kyste dermoïde, SAI",16</p>
+<p style="Normal" xid="686" props="text-align:left; dom-dir:ltr">90843,Kyste dermoïde avec transformation maligne (C56.9),16</p>
+<p style="Normal" xid="687" props="text-align:left; dom-dir:ltr">90853,Tumeur mixte des cellules germinales,16</p>
+<p style="Normal" xid="688" props="text-align:left; dom-dir:ltr">90900,"Goitre ovarien, SAI (C56.9)",16</p>
+<p style="Normal" xid="689" props="text-align:left; dom-dir:ltr">90903,Goitre ovarien cancérisé (C56.9),16</p>
+<p style="Normal" xid="690" props="text-align:left; dom-dir:ltr">90911,Carcinoïde et goitre ovarien (C56.9),16</p>
+<p style="Normal" xid="691" props="text-align:left; dom-dir:ltr">91000,"Môle hydatiforme, SAI (C58.9)",16</p>
+<p style="Normal" xid="692" props="text-align:left; dom-dir:ltr">91001,"Môle hydatiforme invasive, SAI (C58.9)",16</p>
+<p style="Normal" xid="693" props="text-align:left; dom-dir:ltr">91003,"Choriocarcinome, SAI",16</p>
+<p style="Normal" xid="694" props="text-align:left; dom-dir:ltr">91013,Choriocarcinome avec autres éléments à cellules germinales,16</p>
+<p style="Normal" xid="695" props="text-align:left; dom-dir:ltr">91023,Tératome malin trophoblastique,16</p>
+<p style="Normal" xid="696" props="text-align:left; dom-dir:ltr">91030,Môle hydatiforme partielle (C58.9),16</p>
+<p style="Normal" xid="697" props="text-align:left; dom-dir:ltr">91041,Tumeur trophoblastique du site placentaire (C58.9),16</p>
+<p style="Normal" xid="698" props="text-align:left; dom-dir:ltr">91053,Tumeur trophoblastique épithélioïde,16</p>
+<p style="Normal" xid="699" props="text-align:left; dom-dir:ltr">91100,Mésonéphrome bénin,16</p>
+<p style="Normal" xid="700" props="text-align:left; dom-dir:ltr">91101,"Tumeur mésonéphrique, SAI",16</p>
+<p style="Normal" xid="701" props="text-align:left; dom-dir:ltr">91103,Mésonéphrome malin,16</p>
+<p style="Normal" xid="702" props="text-align:left; dom-dir:ltr">91200,"Hémangiome, SAI",6</p>
+<p style="Normal" xid="703" props="text-align:left; dom-dir:ltr">91203,Hémangiosarcome,6</p>
+<p style="Normal" xid="704" props="text-align:left; dom-dir:ltr">91210,Hémangiome caverneux,6</p>
+<p style="Normal" xid="705" props="text-align:left; dom-dir:ltr">91220,Hémangiome veineux,6</p>
+<p style="Normal" xid="706" props="text-align:left; dom-dir:ltr">91230,Hémangiome racémeux,6</p>
+<p style="Normal" xid="707" props="text-align:left; dom-dir:ltr">91243,Sarcome à cellules de Kupffer (C22.0),6</p>
+<p style="Normal" xid="708" props="text-align:left; dom-dir:ltr">91250,Hémangiome épithélioïde,6</p>
+<p style="Normal" xid="709" props="text-align:left; dom-dir:ltr">91300,Hémangioendothéliome bénin,6</p>
+<p style="Normal" xid="710" props="text-align:left; dom-dir:ltr">91301,"Hémangioendothéliome, SAI",6</p>
+<p style="Normal" xid="711" props="text-align:left; dom-dir:ltr">91303,Hémangioendothéliome malin,6</p>
+<p style="Normal" xid="712" props="text-align:left; dom-dir:ltr">91310,Hémangiome capillaire,6</p>
+<p style="Normal" xid="713" props="text-align:left; dom-dir:ltr">91320,Hémangiome intramusculaire,6</p>
+<p style="Normal" xid="714" props="text-align:left; dom-dir:ltr">91331,"Hémangioendothéliome épithélioïde, SAI",6</p>
+<p style="Normal" xid="715" props="text-align:left; dom-dir:ltr">91333,Hémangioendothéliome épithélioïde malin,6</p>
+<p style="Normal" xid="716" props="text-align:left; dom-dir:ltr">91351,Angioendothéliome papillaire endovasculaire,6</p>
+<p style="Normal" xid="717" props="text-align:left; dom-dir:ltr">91361,Hémangioendothéliome à cellules fusiformes,6</p>
+<p style="Normal" xid="718" props="text-align:left; dom-dir:ltr">91403,Sarcome de Kaposi,15</p>
+<p style="Normal" xid="719" props="text-align:left; dom-dir:ltr">91410,Angiokératome,6</p>
+<p style="Normal" xid="720" props="text-align:left; dom-dir:ltr">91420,Hémangiome verruqueux kératosique,6</p>
+<p style="Normal" xid="721" props="text-align:left; dom-dir:ltr">91500,Hémangiopéricytome bénin,6</p>
+<p style="Normal" xid="722" props="text-align:left; dom-dir:ltr">91501,"Hémangiopéricytome, SAI",6</p>
+<p style="Normal" xid="723" props="text-align:left; dom-dir:ltr">91503,Hémangiopéricytome malin,6</p>
+<p style="Normal" xid="724" props="text-align:left; dom-dir:ltr">91600,"Angiofibrome, SAI",6</p>
+<p style="Normal" xid="725" props="text-align:left; dom-dir:ltr">91610,Hémangiome pelotonné acquis,6</p>
+<p style="Normal" xid="726" props="text-align:left; dom-dir:ltr">91611,Hémangioblastome,6</p>
+<p style="Normal" xid="727" props="text-align:left; dom-dir:ltr">91700,"Lymphangiome, SAI",6</p>
+<p style="Normal" xid="728" props="text-align:left; dom-dir:ltr">91703,Lymphangiosarcome,6</p>
+<p style="Normal" xid="729" props="text-align:left; dom-dir:ltr">91710,Lymphangiome capillaire,6</p>
+<p style="Normal" xid="730" props="text-align:left; dom-dir:ltr">91720,Lymphangiome caverneux,6</p>
+<p style="Normal" xid="731" props="text-align:left; dom-dir:ltr">91730,Lymphangiome kystique,6</p>
+<p style="Normal" xid="732" props="text-align:left; dom-dir:ltr">91740,Lymphangiomyome,6</p>
+<p style="Normal" xid="733" props="text-align:left; dom-dir:ltr">91741,Lymphangiomyomatose,6</p>
+<p style="Normal" xid="734" props="text-align:left; dom-dir:ltr">91750,Hémolymphangiome,6</p>
+<p style="Normal" xid="735" props="text-align:left; dom-dir:ltr">91800,"Ostéome, SAI (C40.-, C41.-)",6</p>
+<p style="Normal" xid="736" props="text-align:left; dom-dir:ltr">91803,"Ostéosarcome, SAI (C40.-, C41.-)",6</p>
+<p style="Normal" xid="737" props="text-align:left; dom-dir:ltr">91813,"Ostéosarcome chondroblastique (C40.-, C41.-)",6</p>
+<p style="Normal" xid="738" props="text-align:left; dom-dir:ltr">91823,"Ostéosarcome fibroblastique (C40.-, C41.-)",6</p>
+<p style="Normal" xid="739" props="text-align:left; dom-dir:ltr">91833,"Ostéosarcome télangiectasique (C40.-, C41.-)",6</p>
+<p style="Normal" xid="740" props="text-align:left; dom-dir:ltr">91843,"Ostéosarcome sur maladie de Paget de los (C40.-, C41.-)",6</p>
+<p style="Normal" xid="741" props="text-align:left; dom-dir:ltr">91853,"Ostéosarcome à petites cellules (C40.-, C41.-)",6</p>
+<p style="Normal" xid="742" props="text-align:left; dom-dir:ltr">91863,"Ostéosarcome central (C40.-, C41.-)",6</p>
+<p style="Normal" xid="743" props="text-align:left; dom-dir:ltr">91873,"Ostéosarcome intra-osseux bien différencié (C40.-, C41.-)",6</p>
+<p style="Normal" xid="744" props="text-align:left; dom-dir:ltr">91910,"Ostéome ostéoïde, SAI (C40.-, C41.-)",6</p>
+<p style="Normal" xid="745" props="text-align:left; dom-dir:ltr">91923,"Ostéosarcome parostéal (C40.-, C41.-)",6</p>
+<p style="Normal" xid="746" props="text-align:left; dom-dir:ltr">91933,"Ostéosarcome périosté (C40.-, C41.-)",6</p>
+<p style="Normal" xid="747" props="text-align:left; dom-dir:ltr">91943,"Ostéosarcome de surface de haut grade (C40.-, C41.-)",6</p>
+<p style="Normal" xid="748" props="text-align:left; dom-dir:ltr">91953,"Ostéosarcome intracortical (C40.-, C41.-)",6</p>
+<p style="Normal" xid="749" props="text-align:left; dom-dir:ltr">92000,"Ostéoblastome, SAI (C40.-, C41.-)",6</p>
+<p style="Normal" xid="750" props="text-align:left; dom-dir:ltr">92001,"Ostéoblastome agressif (C40.-, C41.-)",6</p>
+<p style="Normal" xid="751" props="text-align:left; dom-dir:ltr">92100,"Ostéochondrome (C40.-, C41.-)",6</p>
+<p style="Normal" xid="752" props="text-align:left; dom-dir:ltr">92101,"Ostéochondromatose, SAI (C40.-, C41.-)",6</p>
+<p style="Normal" xid="753" props="text-align:left; dom-dir:ltr">92200,"Chondrome, SAI (C40.-, C41.-)",6</p>
+<p style="Normal" xid="754" props="text-align:left; dom-dir:ltr">92201,"Chondromatose, SAI",6</p>
+<p style="Normal" xid="755" props="text-align:left; dom-dir:ltr">92203,"Chondrosarcome, SAI (C40.-, C41.-)",6</p>
+<p style="Normal" xid="756" props="text-align:left; dom-dir:ltr">92210,"Chondrome juxtacortical (C40.-, C41.-)",6</p>
+<p style="Normal" xid="757" props="text-align:left; dom-dir:ltr">92213,"Chondrosarcome juxtacortical (C40.-, C41.-)",6</p>
+<p style="Normal" xid="758" props="text-align:left; dom-dir:ltr">92300,"Chondroblastome, SAI (C40.-, C41.-)",6</p>
+<p style="Normal" xid="759" props="text-align:left; dom-dir:ltr">92303,"Chondroblastome malin (C40.-, C41.-)",6</p>
+<p style="Normal" xid="760" props="text-align:left; dom-dir:ltr">92313,Chondrosarcome myxoïde,6</p>
+<p style="Normal" xid="761" props="text-align:left; dom-dir:ltr">92403,Chondrosarcome mésenchymateux,6</p>
+<p style="Normal" xid="762" props="text-align:left; dom-dir:ltr">92410,"Fibrome chondromyxoïde (C40.-, C41.-)",6</p>
+<p style="Normal" xid="763" props="text-align:left; dom-dir:ltr">92423,"Chondrosarcome à cellules claires (C40.-, C41.-)",6</p>
+<p style="Normal" xid="764" props="text-align:left; dom-dir:ltr">92433,"Chondrosarcome dédifférencié (C40.-, C41.-)",6</p>
+<p style="Normal" xid="765" props="text-align:left; dom-dir:ltr">92501,"Tumeur à cellules géantes de los, SAI (C40.-, C41.-)",6</p>
+<p style="Normal" xid="766" props="text-align:left; dom-dir:ltr">92503,"Tumeur maligne à cellules géantes de los (C40.-, C41.-)",6</p>
+<p style="Normal" xid="767" props="text-align:left; dom-dir:ltr">92511,"Tumeur à cellules géantes des tissus mous, SAI",6</p>
+<p style="Normal" xid="768" props="text-align:left; dom-dir:ltr">92513,Tumeur maligne à cellules géantes des tissus mous,6</p>
+<p style="Normal" xid="769" props="text-align:left; dom-dir:ltr">92520,Tumeur ténosynoviale à cellules géantes (C49.-),6</p>
+<p style="Normal" xid="770" props="text-align:left; dom-dir:ltr">92523,Tumeur ténosynoviale maligne à cellules géantes (C49.-),6</p>
+<p style="Normal" xid="771" props="text-align:left; dom-dir:ltr">92603,Sarcome dEwing,16</p>
+<p style="Normal" xid="772" props="text-align:left; dom-dir:ltr">92613,Adamantinome des os longs (C40.-),16</p>
+<p style="Normal" xid="773" props="text-align:left; dom-dir:ltr">92620,Fibrome ossifiant,16</p>
+<p style="Normal" xid="774" props="text-align:left; dom-dir:ltr">92700,Tumeur odontogène bénigne,16</p>
+<p style="Normal" xid="775" props="text-align:left; dom-dir:ltr">92701,"Tumeur odontogène, SAI",16</p>
+<p style="Normal" xid="776" props="text-align:left; dom-dir:ltr">92703,Tumeur odontogène maligne,16</p>
+<p style="Normal" xid="777" props="text-align:left; dom-dir:ltr">92710,Fibrodentinome améloblastique,16</p>
+<p style="Normal" xid="778" props="text-align:left; dom-dir:ltr">92720,"Cémentome, SAI",16</p>
+<p style="Normal" xid="779" props="text-align:left; dom-dir:ltr">92730,Cémentoblastome bénin,16</p>
+<p style="Normal" xid="780" props="text-align:left; dom-dir:ltr">92740,Fibrome cémentifiant,16</p>
+<p style="Normal" xid="781" props="text-align:left; dom-dir:ltr">92750,Cémentome géant,16</p>
+<p style="Normal" xid="782" props="text-align:left; dom-dir:ltr">92800,"Odontome, SAI",16</p>
+<p style="Normal" xid="783" props="text-align:left; dom-dir:ltr">92810,Odontome composé,16</p>
+<p style="Normal" xid="784" props="text-align:left; dom-dir:ltr">92820,Odontome complexe,16</p>
+<p style="Normal" xid="785" props="text-align:left; dom-dir:ltr">92900,Fibro-odontome améloblastique,16</p>
+<p style="Normal" xid="786" props="text-align:left; dom-dir:ltr">92903,Odontosarcome améloblastique,16</p>
+<p style="Normal" xid="787" props="text-align:left; dom-dir:ltr">93000,Tumeur odontogène adénomatoïde,16</p>
+<p style="Normal" xid="788" props="text-align:left; dom-dir:ltr">93010,Kyste odontogène calcifiant,16</p>
+<p style="Normal" xid="789" props="text-align:left; dom-dir:ltr">93020,Tumeur odontogène à cellules fantômes,16</p>
+<p style="Normal" xid="790" props="text-align:left; dom-dir:ltr">93100,"Améloblastome, SAI",16</p>
+<p style="Normal" xid="791" props="text-align:left; dom-dir:ltr">93103,Améloblastome malin,16</p>
+<p style="Normal" xid="792" props="text-align:left; dom-dir:ltr">93110,Odontoaméloblastome,16</p>
+<p style="Normal" xid="793" props="text-align:left; dom-dir:ltr">93120,Tumeur odontogène kératinisée,16</p>
+<p style="Normal" xid="794" props="text-align:left; dom-dir:ltr">93200,Myxome odontogène,16</p>
+<p style="Normal" xid="795" props="text-align:left; dom-dir:ltr">93210,"Fibrome odontogène central, SAI",16</p>
+<p style="Normal" xid="796" props="text-align:left; dom-dir:ltr">93220,Fibrome odontogène périphérique,16</p>
+<p style="Normal" xid="797" props="text-align:left; dom-dir:ltr">93300,Fibrome améloblastique,16</p>
+<p style="Normal" xid="798" props="text-align:left; dom-dir:ltr">93303,Fibrosarcome améloblastique,16</p>
+<p style="Normal" xid="799" props="text-align:left; dom-dir:ltr">93400,Tumeur odontogène épithéliale calcifiante,16</p>
+<p style="Normal" xid="800" props="text-align:left; dom-dir:ltr">93411,Tumeur odontogène à cellules claires,16</p>
+<p style="Normal" xid="801" props="text-align:left; dom-dir:ltr">93423,Carcinosarcome odontogène,16</p>
+<p style="Normal" xid="802" props="text-align:left; dom-dir:ltr">93501,Craniopharyngiome (C75.2),16</p>
+<p style="Normal" xid="803" props="text-align:left; dom-dir:ltr">93511,Craniopharyngiome adamantinomateux (C75.2),16</p>
+<p style="Normal" xid="804" props="text-align:left; dom-dir:ltr">93521,Craniopharyngiome papillaire (C75.2),16</p>
+<p style="Normal" xid="805" props="text-align:left; dom-dir:ltr">93601,Pinéalome (C75.3),16</p>
+<p style="Normal" xid="806" props="text-align:left; dom-dir:ltr">93611,Pinéalocytome (C75.3),16</p>
+<p style="Normal" xid="807" props="text-align:left; dom-dir:ltr">93623,Pinéaloblastome (C75.3),16</p>
+<p style="Normal" xid="808" props="text-align:left; dom-dir:ltr">93630,Tumeur mélanotique neuroectodermique,16</p>
+<p style="Normal" xid="809" props="text-align:left; dom-dir:ltr">93643,Tumeur neuroectodermique périphérique,16</p>
+<p style="Normal" xid="810" props="text-align:left; dom-dir:ltr">93653,Tumeur de Askin,16</p>
+<p style="Normal" xid="811" props="text-align:left; dom-dir:ltr">93703,"Chordome, SAI",6</p>
+<p style="Normal" xid="812" props="text-align:left; dom-dir:ltr">93713,Chordome chondroïde,6</p>
+<p style="Normal" xid="813" props="text-align:left; dom-dir:ltr">93723,Chordome dédifférencié,6</p>
+<p style="Normal" xid="814" props="text-align:left; dom-dir:ltr">93730,Parachordome,6</p>
+<p style="Normal" xid="815" props="text-align:left; dom-dir:ltr">93803,Gliome malin (C71.-),16</p>
+<p style="Normal" xid="816" props="text-align:left; dom-dir:ltr">93813,Gliomatose du cerveau (C71.-),16</p>
+<p style="Normal" xid="817" props="text-align:left; dom-dir:ltr">93823,Gliome mixte (C71.-),16</p>
+<p style="Normal" xid="818" props="text-align:left; dom-dir:ltr">93831,Subependymome (C71.-),16</p>
+<p style="Normal" xid="819" props="text-align:left; dom-dir:ltr">93841,Astrocytome sous-épendymaire à cellules géantes (C71.-),16</p>
+<p style="Normal" xid="820" props="text-align:left; dom-dir:ltr">93900,"Papillome des plexus choroïdes, SAI (C71.5)",16</p>
+<p style="Normal" xid="821" props="text-align:left; dom-dir:ltr">93901,Papillome atypique des plexus choroïdes (C71.5),16</p>
+<p style="Normal" xid="822" props="text-align:left; dom-dir:ltr">93903,Carcinome des plexus choroïdes (C71.5),16</p>
+<p style="Normal" xid="823" props="text-align:left; dom-dir:ltr">93913,"Épendymome, SAI (C71.-)",16</p>
+<p style="Normal" xid="824" props="text-align:left; dom-dir:ltr">93923,Épendymome anaplasique (C71.-),16</p>
+<p style="Normal" xid="825" props="text-align:left; dom-dir:ltr">93933,Épendymome papillaire (C71.-),16</p>
+<p style="Normal" xid="826" props="text-align:left; dom-dir:ltr">93941,Épendymome myxopapillaire (C72.0),16</p>
+<p style="Normal" xid="827" props="text-align:left; dom-dir:ltr">94003,"Astrocytome, SAI (C71.-)",16</p>
+<p style="Normal" xid="828" props="text-align:left; dom-dir:ltr">94013,Astrocytome anaplasique (C71.-),16</p>
+<p style="Normal" xid="829" props="text-align:left; dom-dir:ltr">94103,Astrocytome protoplasmique (C71.-),16</p>
+<p style="Normal" xid="830" props="text-align:left; dom-dir:ltr">94113,Astrocytome gémistocytique (C71.-),16</p>
+<p style="Normal" xid="831" props="text-align:left; dom-dir:ltr">94121,Astrocytome desmoplastique infantile (C71.-),16</p>
+<p style="Normal" xid="832" props="text-align:left; dom-dir:ltr">94130,Tumeur neuroépithéliale dysembryoplasique,16</p>
+<p style="Normal" xid="833" props="text-align:left; dom-dir:ltr">94203,Astrocytome fibrillaire (C71.-),16</p>
+<p style="Normal" xid="834" props="text-align:left; dom-dir:ltr">94211,Astrocytome pilocytique (C71.-),16</p>
+<p style="Normal" xid="835" props="text-align:left; dom-dir:ltr">94233,Spongioblastome polaire (C71.-),16</p>
+<p style="Normal" xid="836" props="text-align:left; dom-dir:ltr">94243,Xanthoastrocytome pléomorphe (C71.-),16</p>
+<p style="Normal" xid="837" props="text-align:left; dom-dir:ltr">94303,Astroblastome (C71.-),16</p>
+<p style="Normal" xid="838" props="text-align:left; dom-dir:ltr">94403,"Glioblastome, SAI (C71.-)",16</p>
+<p style="Normal" xid="839" props="text-align:left; dom-dir:ltr">94413,Glioblastome à cellules géantes (C71.-),16</p>
+<p style="Normal" xid="840" props="text-align:left; dom-dir:ltr">94421,Gliofibrome (C71.-),16</p>
+<p style="Normal" xid="841" props="text-align:left; dom-dir:ltr">94423,Gliosarcome (C71.-),16</p>
+<p style="Normal" xid="842" props="text-align:left; dom-dir:ltr">94441,Gliome chordoïde (C71.-),16</p>
+<p style="Normal" xid="843" props="text-align:left; dom-dir:ltr">94503,"Oligodendrogliome, SAI (C71.-)",16</p>
+<p style="Normal" xid="844" props="text-align:left; dom-dir:ltr">94513,"Oligodendrogliome , anaplasique (C71.-)",16</p>
+<p style="Normal" xid="845" props="text-align:left; dom-dir:ltr">94603,Oligodendroblastome [obs] (C71.-),16</p>
+<p style="Normal" xid="846" props="text-align:left; dom-dir:ltr">94703,"Médulloblastome, SAI (C71.6)",16</p>
+<p style="Normal" xid="847" props="text-align:left; dom-dir:ltr">94713,Médulloblastome nodulaire desmoplastique (C71.6),16</p>
+<p style="Normal" xid="848" props="text-align:left; dom-dir:ltr">94723,Médullomyoblastome (C71.6),16</p>
+<p style="Normal" xid="849" props="text-align:left; dom-dir:ltr">94733,"Tumeur neuroectodermique primitive, SAI",16</p>
+<p style="Normal" xid="850" props="text-align:left; dom-dir:ltr">94743,Médulloblastome à grandes cellules (C71.6),16</p>
+<p style="Normal" xid="851" props="text-align:left; dom-dir:ltr">94803,"Sarcome cérébelleux, SAI  (C71.6) [obs]",16</p>
+<p style="Normal" xid="852" props="text-align:left; dom-dir:ltr">94900,Ganglioneurome,16</p>
+<p style="Normal" xid="853" props="text-align:left; dom-dir:ltr">94903,Ganglioneuroblastome,16</p>
+<p style="Normal" xid="854" props="text-align:left; dom-dir:ltr">94910,Ganglioneuromatose,16</p>
+<p style="Normal" xid="855" props="text-align:left; dom-dir:ltr">94920,Gangliocytome,16</p>
+<p style="Normal" xid="856" props="text-align:left; dom-dir:ltr">94930,Gangliocytome dysplasique du cervelet (maladie de J. Lhermitte et Duclos) (C71.6),16</p>
+<p style="Normal" xid="857" props="text-align:left; dom-dir:ltr">95003,"Neuroblastome, SAI",16</p>
+<p style="Normal" xid="858" props="text-align:left; dom-dir:ltr">95010,Médulloépithéliome bénin (C69.4),16</p>
+<p style="Normal" xid="859" props="text-align:left; dom-dir:ltr">95013,"Médullo-épithéliome, SAI",16</p>
+<p style="Normal" xid="860" props="text-align:left; dom-dir:ltr">95020,Médullo-épithéliome tératoïde bénin (C69.4),16</p>
+<p style="Normal" xid="861" props="text-align:left; dom-dir:ltr">95023,Médullo-épithéliome tératoïde,16</p>
+<p style="Normal" xid="862" props="text-align:left; dom-dir:ltr">95033,"Neuroépithéliome, SAI",16</p>
+<p style="Normal" xid="863" props="text-align:left; dom-dir:ltr">95043,Spongioneuroblastome,16</p>
+<p style="Normal" xid="864" props="text-align:left; dom-dir:ltr">95051,"Gangliogliome, SAI",16</p>
+<p style="Normal" xid="865" props="text-align:left; dom-dir:ltr">95053,Gangliogliome anaplasique,16</p>
+<p style="Normal" xid="866" props="text-align:left; dom-dir:ltr">95061,Neurocytome central,16</p>
+<p style="Normal" xid="867" props="text-align:left; dom-dir:ltr">95070,Tumeur des corpuscules de Pacini,16</p>
+<p style="Normal" xid="868" props="text-align:left; dom-dir:ltr">95083,Tumeur rhabdoïde/tératoïde atypique (C71.-),16</p>
+<p style="Normal" xid="869" props="text-align:left; dom-dir:ltr">95100,Rétinocytome (C69.2),16</p>
+<p style="Normal" xid="870" props="text-align:left; dom-dir:ltr">95103,"Rétinoblastome, SAI (C69.2)",16</p>
+<p style="Normal" xid="871" props="text-align:left; dom-dir:ltr">95113,Rétinoblastome différencié (C69.2),16</p>
+<p style="Normal" xid="872" props="text-align:left; dom-dir:ltr">95123,Rétinoblastome indifférencié (C69.2),16</p>
+<p style="Normal" xid="873" props="text-align:left; dom-dir:ltr">95133,Rétinoblastome diffus (C69.2),16</p>
+<p style="Normal" xid="874" props="text-align:left; dom-dir:ltr">95141,Rétinoblastome à régression spontanée (C69.2),16</p>
+<p style="Normal" xid="875" props="text-align:left; dom-dir:ltr">95203,Tumeur neurogénique olfactive,16</p>
+<p style="Normal" xid="876" props="text-align:left; dom-dir:ltr">95213,Neurocytome olfactif (C30.0),16</p>
+<p style="Normal" xid="877" props="text-align:left; dom-dir:ltr">95223,Neuroblastome olfactif (C30.0),16</p>
+<p style="Normal" xid="878" props="text-align:left; dom-dir:ltr">95233,Neuroépithéliome olfactif (C30.0),16</p>
+<p style="Normal" xid="879" props="text-align:left; dom-dir:ltr">95300,"Méningiome, SAI",16</p>
+<p style="Normal" xid="880" props="text-align:left; dom-dir:ltr">95301,"Méningiomatose, SAI",16</p>
+<p style="Normal" xid="881" props="text-align:left; dom-dir:ltr">95303,Méningiome malin,16</p>
+<p style="Normal" xid="882" props="text-align:left; dom-dir:ltr">95310,Méningiome méningothélial,16</p>
+<p style="Normal" xid="883" props="text-align:left; dom-dir:ltr">95320,Méningiome fibreux,16</p>
+<p style="Normal" xid="884" props="text-align:left; dom-dir:ltr">95330,Méningiome psammomateux,16</p>
+<p style="Normal" xid="885" props="text-align:left; dom-dir:ltr">95340,Méningiome angiomateux,16</p>
+<p style="Normal" xid="886" props="text-align:left; dom-dir:ltr">95350,Méningiome hémangioblastique [obs],16</p>
+<p style="Normal" xid="887" props="text-align:left; dom-dir:ltr">95370,Méningiome transitionel,16</p>
+<p style="Normal" xid="888" props="text-align:left; dom-dir:ltr">95381,Méningiome à cellules claires,16</p>
+<p style="Normal" xid="889" props="text-align:left; dom-dir:ltr">95383,Méningiome papillaire,16</p>
+<p style="Normal" xid="890" props="text-align:left; dom-dir:ltr">95391,Méningiome atypique,16</p>
+<p style="Normal" xid="891" props="text-align:left; dom-dir:ltr">95393,Sarcomatose méningée,16</p>
+<p style="Normal" xid="892" props="text-align:left; dom-dir:ltr">95400,"Neurofibrome, SAI",6</p>
+<p style="Normal" xid="893" props="text-align:left; dom-dir:ltr">95401,"Neurofibromatose, SAI",6</p>
+<p style="Normal" xid="894" props="text-align:left; dom-dir:ltr">95403,Tumeur maligne de la gaine des nerfs périphériques,6</p>
+<p style="Normal" xid="895" props="text-align:left; dom-dir:ltr">95410,Neurofibrome mélanotique,6</p>
+<p style="Normal" xid="896" props="text-align:left; dom-dir:ltr">95500,Neurofibrome plexiforme,6</p>
+<p style="Normal" xid="897" props="text-align:left; dom-dir:ltr">95600,"Neurilemmome, SAI",6</p>
+<p style="Normal" xid="898" props="text-align:left; dom-dir:ltr">95601,Neurinomatose,6</p>
+<p style="Normal" xid="899" props="text-align:left; dom-dir:ltr">95603,Neurilemmome malin [obs],6</p>
+<p style="Normal" xid="900" props="text-align:left; dom-dir:ltr">95613,Tumeur maligne de la gaine des nerfs périphériques avec différenciation rhabdomyoblastique,6</p>
+<p style="Normal" xid="901" props="text-align:left; dom-dir:ltr">95620,Neurothécome,6</p>
+<p style="Normal" xid="902" props="text-align:left; dom-dir:ltr">95700,"Névrome, SAI",6</p>
+<p style="Normal" xid="903" props="text-align:left; dom-dir:ltr">95710,"Périneurome, SAI",6</p>
+<p style="Normal" xid="904" props="text-align:left; dom-dir:ltr">95713,Périneurome malin,6</p>
+<p style="Normal" xid="905" props="text-align:left; dom-dir:ltr">95800,"Tumeur à cellules granuleuses, SAI",6</p>
+<p style="Normal" xid="906" props="text-align:left; dom-dir:ltr">95803,Tumeur maligne à cellules granuleuses,6</p>
+<p style="Normal" xid="907" props="text-align:left; dom-dir:ltr">95813,Sarcome alvéolaire des tissus mous,6</p>
+<p style="Normal" xid="908" props="text-align:left; dom-dir:ltr">95820,Tumeur à cellules granuleuses de la région sellaire (C75.1),6</p>
+<p style="Normal" xid="909" props="text-align:left; dom-dir:ltr">95903,"Lymphome malin, SAI",14</p>
+<p style="Normal" xid="910" props="text-align:left; dom-dir:ltr">95913,"Lymphome malin non-hodgkinien, SAI",14</p>
+<p style="Normal" xid="911" props="text-align:left; dom-dir:ltr">95963,Lymphome à composante hodgkinienne et non-hodgkinienne,14</p>
+<p style="Normal" xid="912" props="text-align:left; dom-dir:ltr">96503,"Lymphome de Hodgkin, SAI",11</p>
+<p style="Normal" xid="913" props="text-align:left; dom-dir:ltr">96513,Lymphome de Hodgkin riche en lymphocytes,11</p>
+<p style="Normal" xid="914" props="text-align:left; dom-dir:ltr">96523,"Lymphome de Hodgkin, à cellularité mixte, SAI",11</p>
+<p style="Normal" xid="915" props="text-align:left; dom-dir:ltr">96533,"Lymphome de Hodgkin, à déplétion lymphoïde, SAI",11</p>
+<p style="Normal" xid="916" props="text-align:left; dom-dir:ltr">96543,"Lymphome de Hodgkin, à déplétion lymphoïde, type fibrose diffuse",11</p>
+<p style="Normal" xid="917" props="text-align:left; dom-dir:ltr">96553,"Lymphome de Hodgkin, à déplétion lymphoïde, type réticulaire",11</p>
+<p style="Normal" xid="918" props="text-align:left; dom-dir:ltr">96593,"Lymphome de Hodgkin à prédominance lymphocytaire, forme nodulaire",11</p>
+<p style="Normal" xid="919" props="text-align:left; dom-dir:ltr">96613,Granulome hodgkinien [obs],11</p>
+<p style="Normal" xid="920" props="text-align:left; dom-dir:ltr">96623,Sarcome hodgkinien [obs],11</p>
+<p style="Normal" xid="921" props="text-align:left; dom-dir:ltr">96633,"Lymphome de Hodgkin, sclérose nodulaire, SAI",11</p>
+<p style="Normal" xid="922" props="text-align:left; dom-dir:ltr">96643,"Lymphome de Hodgkin, sclérose nodulaire, phase cellulaire",11</p>
+<p style="Normal" xid="923" props="text-align:left; dom-dir:ltr">96653,"Lymphome de Hodgkin, sclérose nodulaire, grade 1",11</p>
+<p style="Normal" xid="924" props="text-align:left; dom-dir:ltr">96673,"Lymphome de Hodgkin, sclérose nodulaire, grade 2",11</p>
+<p style="Normal" xid="925" props="text-align:left; dom-dir:ltr">96703,"Lymphome malin à petits lymphocytes B, SAI (voir aussi M-9823/3)",9</p>
+<p style="Normal" xid="926" props="text-align:left; dom-dir:ltr">96713,Lymphome malin lymphoplasmocytoïde (voir aussi M-9761/3),9</p>
+<p style="Normal" xid="927" props="text-align:left; dom-dir:ltr">96733,Lymphome à cellules du manteau,9</p>
+<p style="Normal" xid="928" props="text-align:left; dom-dir:ltr">96753,Lymphome malin diffus mixte à petites et grandes cellules [obs] (voir aussi M-9690/3),9</p>
+<p style="Normal" xid="929" props="text-align:left; dom-dir:ltr">96783,Lymphome malin à épanchement primaire,9</p>
+<p style="Normal" xid="930" props="text-align:left; dom-dir:ltr">96793,Lymphome médiastinal à grandes cellules B (C38.3),9</p>
+<p style="Normal" xid="931" props="text-align:left; dom-dir:ltr">96803,"Lymphome malin diffus à grandes cellules B, SAI",9</p>
+<p style="Normal" xid="932" props="text-align:left; dom-dir:ltr">96843,"Lymphome malin immunoblastique diffus à grandes cellules B, SAI",9</p>
+<p style="Normal" xid="933" props="text-align:left; dom-dir:ltr">96873,"Lymphome de Burkitt, SAI (voir aussi M-9826/3)",9</p>
+<p style="Normal" xid="934" props="text-align:left; dom-dir:ltr">96893,Lymphome à cellules B de la zone marginale splénique (C42.2),9</p>
+<p style="Normal" xid="935" props="text-align:left; dom-dir:ltr">96903,"Lymphome folliculaire, SAI (voir aussi M-9675/3)",9</p>
+<p style="Normal" xid="936" props="text-align:left; dom-dir:ltr">96913,"Lymphome folliculaire, grade 2",9</p>
+<p style="Normal" xid="937" props="text-align:left; dom-dir:ltr">96953,"Lymphome folliculaire, grade 1",9</p>
+<p style="Normal" xid="938" props="text-align:left; dom-dir:ltr">96983,"Lymphome folliculaire, grade 3",9</p>
+<p style="Normal" xid="939" props="text-align:left; dom-dir:ltr">96993,"Lymphome de la zone marginale à cellules B, SAI",9</p>
+<p style="Normal" xid="940" props="text-align:left; dom-dir:ltr">97003,Mycosis fongoïde (C44.-),10</p>
+<p style="Normal" xid="941" props="text-align:left; dom-dir:ltr">97013,Maladie de Sézary,10</p>
+<p style="Normal" xid="942" props="text-align:left; dom-dir:ltr">97023,"Lymphome à cellules T matures, SAI",10</p>
+<p style="Normal" xid="943" props="text-align:left; dom-dir:ltr">97053,Lymphome angioimmunoblastique à cellules T,10</p>
+<p style="Normal" xid="944" props="text-align:left; dom-dir:ltr">97083,Lymphome à cellules T simulant une panniculite,10</p>
+<p style="Normal" xid="945" props="text-align:left; dom-dir:ltr">97093,"Lymphome cutané à cellules T, SAI (C44.-)",10</p>
+<p style="Normal" xid="946" props="text-align:left; dom-dir:ltr">97143,"Lymphome anaplasique à grandes cellules, à cellules T et cellules nulles",10</p>
+<p style="Normal" xid="947" props="text-align:left; dom-dir:ltr">97163,Lymphome hépatosplénique à cellule ? d (gamma-delta),10</p>
+<p style="Normal" xid="948" props="text-align:left; dom-dir:ltr">97173,Lymphome intestinal à cellules T,10</p>
+<p style="Normal" xid="949" props="text-align:left; dom-dir:ltr">97183,Syndrome lymphoprolifératif cutané primitif à cellules T CD30+,10</p>
+<p style="Normal" xid="950" props="text-align:left; dom-dir:ltr">97193,"Lymphome à cellules T/NK, type nasal",10</p>
+<p style="Normal" xid="951" props="text-align:left; dom-dir:ltr">97273,"Lymphome lymphoblastique à cellules précurseurs, SAI (voir aussi M-9835/3)",14</p>
+<p style="Normal" xid="952" props="text-align:left; dom-dir:ltr">97283,Lymphome lymphoblastique à cellules précurseurs B (voir aussi M-9836/3),9</p>
+<p style="Normal" xid="953" props="text-align:left; dom-dir:ltr">97293,Lymphome lymphoblastique à cellules précurseurs T (voir aussi M-9837/3),10</p>
+<p style="Normal" xid="954" props="text-align:left; dom-dir:ltr">97313,"Plasmocytome, SAI",9</p>
+<p style="Normal" xid="955" props="text-align:left; dom-dir:ltr">97323,Myélome multiple (C42.1),9</p>
+<p style="Normal" xid="956" props="text-align:left; dom-dir:ltr">97333,Leucémie à plasmocytes (C42.1),9</p>
+<p style="Normal" xid="957" props="text-align:left; dom-dir:ltr">97343,Plasmocytome extramédullaire (ne survenant pas dans los),9</p>
+<p style="Normal" xid="958" props="text-align:left; dom-dir:ltr">97401,"Mastocytome, SAI",12</p>
+<p style="Normal" xid="959" props="text-align:left; dom-dir:ltr">97403,Sarcome à mastocytes,12</p>
+<p style="Normal" xid="960" props="text-align:left; dom-dir:ltr">97413,Mastocytose maligne,12</p>
+<p style="Normal" xid="961" props="text-align:left; dom-dir:ltr">97423,Leucémie à mastocytes (C42.1),12</p>
+<p style="Normal" xid="962" props="text-align:left; dom-dir:ltr">97503,Histiocytose maligne,13</p>
+<p style="Normal" xid="963" props="text-align:left; dom-dir:ltr">97511,"Histiocytose à cellules de Langerhans, SAI",13</p>
+<p style="Normal" xid="964" props="text-align:left; dom-dir:ltr">97521,"Histiocytose à cellules de Langerhans, unifocale",13</p>
+<p style="Normal" xid="965" props="text-align:left; dom-dir:ltr">97531,"Histiocytose à cellules de Langerhans, multifocale",13</p>
+<p style="Normal" xid="966" props="text-align:left; dom-dir:ltr">97543,"Histiocytose à cellules de Langerhans, disséminée",13</p>
+<p style="Normal" xid="967" props="text-align:left; dom-dir:ltr">97553,Sarcome histiocytaire,13</p>
+<p style="Normal" xid="968" props="text-align:left; dom-dir:ltr">97563,Sarcome à cellules de Langerhans,13</p>
+<p style="Normal" xid="969" props="text-align:left; dom-dir:ltr">97573,Sarcome à cellules dendritiques interdigitées,13</p>
+<p style="Normal" xid="970" props="text-align:left; dom-dir:ltr">97583,Sarcome folliculaire à cellules dendritiques,13</p>
+<p style="Normal" xid="971" props="text-align:left; dom-dir:ltr">97603,"Maladie immunoproliférative, SAI",14</p>
+<p style="Normal" xid="972" props="text-align:left; dom-dir:ltr">97613,Macroglobulinémie de Waldenström (C42.0) (voir aussi M-9671/3),9</p>
+<p style="Normal" xid="973" props="text-align:left; dom-dir:ltr">97623,"Maladie des chaînes lourdes, SAI",9</p>
+<p style="Normal" xid="974" props="text-align:left; dom-dir:ltr">97643,Maladie immunoproliférative de lintestin grêle (C17.-),9</p>
+<p style="Normal" xid="975" props="text-align:left; dom-dir:ltr">97651,Gammapathie monoclonale de signification indéterminée,9</p>
+<p style="Normal" xid="976" props="text-align:left; dom-dir:ltr">97661,Lésion immunoproliférative angiocentrique,9</p>
+<p style="Normal" xid="977" props="text-align:left; dom-dir:ltr">97671,Lymphadénopathie angioimmunoblastique,9</p>
+<p style="Normal" xid="978" props="text-align:left; dom-dir:ltr">97681,Maladie lymphoproliférative gamma-T,10</p>
+<p style="Normal" xid="979" props="text-align:left; dom-dir:ltr">97691,Maladie à dépôts dimmunoglobulines,9</p>
+<p style="Normal" xid="980" props="text-align:left; dom-dir:ltr">98003,"Leucémie, SAI",14</p>
+<p style="Normal" xid="981" props="text-align:left; dom-dir:ltr">98013,"Leucémie aiguë, SAI",14</p>
+<p style="Normal" xid="982" props="text-align:left; dom-dir:ltr">98053,Leucémie biphénotypique aiguë,14</p>
+<p style="Normal" xid="983" props="text-align:left; dom-dir:ltr">98203,"Leucémie lymphoïde, SAI",14</p>
+<p style="Normal" xid="984" props="text-align:left; dom-dir:ltr">98233,Leucémie lymphoïde chronique à cellules B/lymphome à petits lymphocytes (voir aussi M-9670/3),9</p>
+<p style="Normal" xid="985" props="text-align:left; dom-dir:ltr">98263,Leucémie à cellules de Burkitt (voir aussi M-9687/3),9</p>
+<p style="Normal" xid="986" props="text-align:left; dom-dir:ltr">98273,"Leucémie/lymphome à cellules T, type adulte (HTLV-1 positif) incluant toutes les variétés",10</p>
+<p style="Normal" xid="987" props="text-align:left; dom-dir:ltr">98311,Leucémie lymphoïde à grandes cellules T granuleuses,10</p>
+<p style="Normal" xid="988" props="text-align:left; dom-dir:ltr">98323,"Leucémie prolymphocytaire, SAI",14</p>
+<p style="Normal" xid="989" props="text-align:left; dom-dir:ltr">98333,Leucémie prolymphocytaire à cellules B,9</p>
+<p style="Normal" xid="990" props="text-align:left; dom-dir:ltr">98343,Leucémie prolymphocytaire à cellules T,10</p>
+<p style="Normal" xid="991" props="text-align:left; dom-dir:ltr">98353,"Leucémie lymphoblastique à cellules précurseurs, SAI (voir aussi M-9727/3)",14</p>
+<p style="Normal" xid="992" props="text-align:left; dom-dir:ltr">98363,Leucémie lymphoblastique à cellules précurseurs B (voir aussi M-9728/3),9</p>
+<p style="Normal" xid="993" props="text-align:left; dom-dir:ltr">98373,Leucémie lymphoblastique à cellules précurseurs T (voir aussi M-9729/3),10</p>
+<p style="Normal" xid="994" props="text-align:left; dom-dir:ltr">98403,"Leucémie myéloïde aiguë, type M6",8</p>
+<p style="Normal" xid="995" props="text-align:left; dom-dir:ltr">98603,"Leucémie myéloïde, SAI",14</p>
+<p style="Normal" xid="996" props="text-align:left; dom-dir:ltr">98613,"Leucémie aiguë myéloïde, SAI (type FAB ou OMS  non précisé) (voir aussi M-9930/3)",8</p>
+<p style="Normal" xid="997" props="text-align:left; dom-dir:ltr">98633,"Leucémie myéloïde chronique, SAI",8</p>
+<p style="Normal" xid="998" props="text-align:left; dom-dir:ltr">98663,"Leucémie promyélocytaire aiguë, t(15;17)(q22;q11-12)",8</p>
+<p style="Normal" xid="999" props="text-align:left; dom-dir:ltr">98673,Leucémie aiguë myélomonocytaire,8</p>
+<p style="Normal" xid="1000" props="text-align:left; dom-dir:ltr">98703,Leucémie aiguë à basophiles,8</p>
+<p style="Normal" xid="1001" props="text-align:left; dom-dir:ltr">98713,Leucémie myéloïde aiguë avec éosinophiles médullaires anormaux,8</p>
+<p style="Normal" xid="1002" props="text-align:left; dom-dir:ltr">98723,"Leucémie aiguë myéloïde, à différenciation minimale",8</p>
+<p style="Normal" xid="1003" props="text-align:left; dom-dir:ltr">98733,Leucémie aiguë myéloïde sans maturation,8</p>
+<p style="Normal" xid="1004" props="text-align:left; dom-dir:ltr">98743,Leucémie aiguë myéloïde avec maturation,8</p>
+<p style="Normal" xid="1005" props="text-align:left; dom-dir:ltr">98753,"Leucémie myélogène chronique, ABL-BCR positif",8</p>
+<p style="Normal" xid="1006" props="text-align:left; dom-dir:ltr">98763,"Leucémie myéloïde chronique atypique, ABL-BCR négatif",8</p>
+<p style="Normal" xid="1007" props="text-align:left; dom-dir:ltr">98913,Leucémie aiguë monocytaire,8</p>
+<p style="Normal" xid="1008" props="text-align:left; dom-dir:ltr">98953,Leucémie myéloïde aiguë avec dysplasie de plusieurs lignées cellulaires,8</p>
+<p style="Normal" xid="1009" props="text-align:left; dom-dir:ltr">98963,"Leucémie myéloïde aiguë, t(8;21)(q22;q22)",8</p>
+<p style="Normal" xid="1010" props="text-align:left; dom-dir:ltr">98973,"Leucémie myéloïde aiguë, anomalies 11q23",8</p>
+<p style="Normal" xid="1011" props="text-align:left; dom-dir:ltr">99103,Leucémie mégacaryoblastique aiguë,8</p>
+<p style="Normal" xid="1012" props="text-align:left; dom-dir:ltr">99203,"Leucémie myéloïde aiguë secondaire à une thérapie, SAI",8</p>
+<p style="Normal" xid="1013" props="text-align:left; dom-dir:ltr">99303,Sarcome myéloïde (voir aussi M-9861/3),8</p>
+<p style="Normal" xid="1014" props="text-align:left; dom-dir:ltr">99313,Panmyélose aiguë avec myélofibrose (C42.1),8</p>
+<p style="Normal" xid="1015" props="text-align:left; dom-dir:ltr">99403,Leucémie à tricholeucocytes (C42.1),9</p>
+<p style="Normal" xid="1016" props="text-align:left; dom-dir:ltr">99453,"Leucémie chronique myélomonocytaire, SAI",8</p>
+<p style="Normal" xid="1017" props="text-align:left; dom-dir:ltr">99463,Leucémie myélomonocytaire juvénile,8</p>
+<p style="Normal" xid="1018" props="text-align:left; dom-dir:ltr">99483,Leucémie agressive à cellules NK,10</p>
+<p style="Normal" xid="1019" props="text-align:left; dom-dir:ltr">99503,Polycythémie vraie,8</p>
+<p style="Normal" xid="1020" props="text-align:left; dom-dir:ltr">99603,"Maladie myéloproliférative chronique, SAI",14</p>
+<p style="Normal" xid="1021" props="text-align:left; dom-dir:ltr">99613,Myélosclérose avec métaplasie myéloïde,8</p>
+<p style="Normal" xid="1022" props="text-align:left; dom-dir:ltr">99623,Thrombocythémie essentielle,8</p>
+<p style="Normal" xid="1023" props="text-align:left; dom-dir:ltr">99633,Leucémie chronique à polynucléaires neutrophiles,8</p>
+<p style="Normal" xid="1024" props="text-align:left; dom-dir:ltr">99643,Syndrome hyperéosinophilique,8</p>
+<p style="Normal" xid="1025" props="text-align:left; dom-dir:ltr">99701,"Syndrome lymphoprolifératif, SAI",14</p>
+<p style="Normal" xid="1026" props="text-align:left; dom-dir:ltr">99751,"Maladie myéloproliférative, SAI",14</p>
+<p style="Normal" xid="1027" props="text-align:left; dom-dir:ltr">99803,Anémie réfractaire,8</p>
+<p style="Normal" xid="1028" props="text-align:left; dom-dir:ltr">99823,Anémie réfractaire avec sidéroblastes,8</p>
+<p style="Normal" xid="1029" props="text-align:left; dom-dir:ltr">99833,Anémie réfractaire avec excès de blastes,8</p>
+<p style="Normal" xid="1030" props="text-align:left; dom-dir:ltr">99843,Anémie réfractaire avec excès de blastes en transformation [obs],8</p>
+<p style="Normal" xid="1031" props="text-align:left; dom-dir:ltr">99853,Anémie réfractaire avec dysplasie de plusieurs lignées cellulaires,8</p>
+<p style="Normal" xid="1032" props="text-align:left; dom-dir:ltr">99863,Syndrome myélodysplasique avec syndrome de délétion du bras court du chromosome 5 (5q-),8</p>
+<p style="Normal" xid="1033" props="text-align:left; dom-dir:ltr">99873,"Syndrome myélodysplasique secondaire à une thérapie, SAI",8</p>
+<p style="Normal" xid="1034" props="text-align:left; dom-dir:ltr">99893,"Syndrome myélodysplasique, SAI",14</p>
+</section>
+</abiword>
