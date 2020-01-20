@@ -18,7 +18,7 @@ public class SearchWord {
     	for (int i = 0; i < maList.size(); i++) {
     		myMorphoMatchMap.putAll(EditDistance.calculate(maList.get(i), inputWord));
 		}
-    	if (myMorphoMatchMap.firstKey() < 4) {
+    	if (myMorphoMatchMap.firstKey() < 3) {
     		bestMatch = myMorphoMatchMap.get(myMorphoMatchMap.firstKey());
     	}
     	else {

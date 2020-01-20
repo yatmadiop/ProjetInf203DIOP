@@ -140,7 +140,7 @@ public class Sparql
 		return wordMatch;
 	}
 	
-	// gerer le cas où l'utilisateur rentre plusieurs termes de recherche
+	// gerer le cas où l'utilisateur rentre lusieurs termes de recherche
 	//ajouter les termes modifiés à 'expandList'
 	public static void runSparqlQuery(String query) throws IOException {
 		System.out.println("----------> Requête initiale : " + query);

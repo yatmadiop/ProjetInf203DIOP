@@ -8851,3 +8851,17 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: start tag n
 2020-01-20 22:59:31,771 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/yatma/Bureau/Projet_RI/jena.app/src/main/resources
 2020-01-20 22:59:31,775 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-01-20 22:59:31,776 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/yatma/Bureau/Projet_RI/jena.app/src/test/resources
+2020-01-20 23:21:30,489 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-01-20 23:25:53,144 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-01-20 23:27:14,533 [Worker-1: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-20 23:27:14,550 [Worker-1: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/yatma/Bureau/Projet_RI/jena.app/src/main/resources
+2020-01-20 23:27:14,569 [Worker-1: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-20 23:27:14,573 [Worker-1: Launching Main (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/yatma/Bureau/Projet_RI/jena.app/src/test/resources
+2020-01-20 23:29:11,161 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-20 23:29:11,162 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/yatma/Bureau/Projet_RI/jena.app/src/main/resources
+2020-01-20 23:29:11,169 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-20 23:29:11,169 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/yatma/Bureau/Projet_RI/jena.app/src/test/resources
+2020-01-20 23:29:47,977 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-20 23:29:47,978 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/yatma/Bureau/Projet_RI/jena.app/src/main/resources
+2020-01-20 23:29:47,993 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-01-20 23:29:47,994 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/yatma/Bureau/Projet_RI/jena.app/src/test/resources
